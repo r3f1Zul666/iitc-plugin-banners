@@ -1,0 +1,12 @@
+{
+    "providers":{
+        "provider-belgium":{
+            "name": "Belgium",
+            "sha256":"f80276fca09e4e062f65074f6573d0f4ebe497e0ca152c59309400017f07c368"
+        },
+        "provider-netherlands":{
+            "name": "The Netherlands",
+            "sha256":"b366010fe64a2997a1d44ab1336ef7bfd317ed2be1df2e62a1fbfd03bfeb5590"
+        },
+    }
+}

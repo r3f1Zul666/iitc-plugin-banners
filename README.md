@@ -10,7 +10,7 @@ Install the most recent version: [iitc-plugin-banners.user.js][iitc-plugin-banne
 
 ## Author
 
-Brought to you by [@aeurielesn][aeurielesn].
+Brought to you by [aeurielesn][aeurielesn].
 
 [aeurielesn]: https://aeurielesn.github.io/iitc-plugin-banners/aeurielesn
 [iitc-plugin-banners.user.js]: https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js

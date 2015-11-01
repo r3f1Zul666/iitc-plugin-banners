@@ -24,6 +24,14 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 
 // PLUGIN START ////////////////////////////////////////////////////////
 
+var timeToRemaining = function(t) {
+  var data = parseInt(t / 86400, 10) + 'd ' + (new Date(t % 86400 * 1000)).toUTCString().replace(/.*(\d{2}):(\d{2}):(\d{2}).*/, '$1h $2m $3s');
+  data = data.replace('0d', '');
+  data = data.replace('00h', '');
+  data = data.replace('00m', '');
+  return data.trim();
+};
+
 Repository = function(base) {
     this.name = name;
     this.base = base;
@@ -140,7 +148,7 @@ window.plugin.banners = {
                 (function(banner, metadata){
                     name.addEventListener('click', function(evt) {
                         self.repository.fetch(banner, metadata.sha256, function(data){
-                            self.displayBanner(data);
+                            self.displayBanner(metadata.name, data);
                         });
                         // prevent browser from following link
                         evt.preventDefault();
@@ -179,7 +187,10 @@ window.plugin.banners = {
     },
 
     format: function(banner) {
-        var table = document.createElement('table');
+        var container = document.createElement('div');
+        var sumMedianCompletionTimeMs = 0;
+        var img;
+        var table = container.appendChild(document.createElement('table'));
         table.className = 'plugin-banner-summary';
         
         for(var i = 0; i < banner.length; i += 6) {
@@ -187,24 +198,39 @@ window.plugin.banners = {
             for(var j = 0, k = i; j < 6; j++, k++) {
                 var mission = banner[banner.length - k - 1];
                 var cell = row.appendChild(document.createElement('td'));
-                var img = cell.appendChild(document.createElement('img'));
+                img = cell.appendChild(document.createElement('img'));
                 img.src = mission.image;
                 (function(guid){
                     img.addEventListener('click', function(ev) {
                       window.plugin.missions.openMission(guid);
                     }, false);
                 })(mission.guid);
+                sumMedianCompletionTimeMs += mission.medianCompletionTimeMs;
             }
         }
 
-        return table;
+        // var authorNickname = "Xysphere";
+        // var authorTeam = "E";
+        // var author = container.appendChild(document.createElement('span'));
+        // author.className = 'nickname ' + (authorTeam === 'R' ? 'res' : 'enl');
+        // author.textContent = authorNickname;
+        // container.appendChild(document.createElement('br'));
+
+        var infoTime = container.appendChild(document.createElement('span'));
+        infoTime.className = 'plugin-mission-info time help';
+        infoTime.title = 'Combined estimated duration of all missions of this banner';
+        infoTime.textContent = timeToRemaining((sumMedianCompletionTimeMs / 1000) | 0) + ' ';
+        img = infoTime.insertBefore(document.createElement('img'), infoTime.firstChild);
+        img.src = 'https://commondatastorage.googleapis.com/ingress.com/img/tm_icons/time.png';
+
+        return container;
     },
 
-    displayBanner: function(banner){
+    displayBanner: function(name, banner){
         dialog({
             id: 'plugin-banner-details',
             // title: mission.title,
-            title: "Banner",
+            title: name,
             height: 'auto',
             html: this.format(banner),
             width: 'auto',
@@ -224,7 +250,7 @@ window.plugin.banners = {
         });
     },
 
-    openBanner: function() {
+    openBanners: function() {
         console.log("loading repository");
         this.repository.root(function(data){
             console.log("repository loaded");
@@ -241,7 +267,7 @@ window.plugin.banners = {
         this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
 
         $('<style>').prop('type', 'text/css').html('.plugin-banner-summary img { cursor: pointer; width: 50px; }').appendTo('head');
-        $('#toolbox').append('<a tabindex="0" onclick="plugin.banners.openBanner();">Discover banners</a>');
+        $('#toolbox').append('<a tabindex="0" onclick="plugin.banners.openBanners();">Discover banners</a>');
     }
 };
 

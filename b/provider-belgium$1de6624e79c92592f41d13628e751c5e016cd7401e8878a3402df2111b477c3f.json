@@ -7,6 +7,10 @@
         "groot-tielt":{
             "name": "Groot Tielt",
             "sha256":"c11c8162953b4e494dd60392cffcc421c579fc70bf6b165541188cd7e6192b4f"
+        },
+        "groot-tielt":{
+            "name": "Antwerpen 1572s",
+            "sha256":"847bedeb6e45fb74a566f22277042781522ff33933b710b24583767b8a6624ad"
         }
     }
 }

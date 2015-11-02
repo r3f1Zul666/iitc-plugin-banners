@@ -11,6 +11,10 @@
     "citadelpark": {
       "sha256": "872275d4fb750b78f2f0e2cc95c6bb090e4f818a94670f817b647fcfbf2a3ec4", 
       "name": "Citadelpark"
+    }, 
+    "olen-shield-missions": {
+      "sha256": "46cc85d62866c7bacf797900fc86e89abd5c0e7fdbaccbdfabd54726ec6ce645", 
+      "name": "Olen shield missions"
     }
   }
 }

@@ -1,0 +1,8 @@
+{
+    "providers-url":"\/b\/%banner%$%hash%.json",
+    "providers":{
+        "provider-europe":{
+            "name": "Europe"
+        }
+    }
+}

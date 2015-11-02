@@ -1,0 +1,13 @@
+{
+    "banners":{
+        "citadelpark":{
+            "name": "Citadelpark"
+        },
+        "groot-tielt":{
+            "name": "Groot Tielt"
+        },
+        "antwerpen-1572s":{
+            "name": "Antwerpen 1572s"
+        }
+    }
+}

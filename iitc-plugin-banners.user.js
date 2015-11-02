@@ -193,10 +193,10 @@ window.plugin.banners = {
         var table = container.appendChild(document.createElement('table'));
         table.className = 'plugin-banner-summary';
         
-        for(var i = 0; i < banner.length; i += 6) {
+        for(var i = 0; i < banner.missions.length; i += 6) {
             var row = table.appendChild(document.createElement('tr'));
             for(var j = 0, k = i; j < 6; j++, k++) {
-                var mission = banner[banner.length - k - 1];
+                var mission = banner.missions[banner.length - k - 1];
                 var cell = row.appendChild(document.createElement('td'));
                 img = cell.appendChild(document.createElement('img'));
                 img.src = mission.image;
@@ -209,12 +209,10 @@ window.plugin.banners = {
             }
         }
 
-        // var authorNickname = "Xysphere";
-        // var authorTeam = "E";
-        // var author = container.appendChild(document.createElement('span'));
-        // author.className = 'nickname ' + (authorTeam === 'R' ? 'res' : 'enl');
-        // author.textContent = authorNickname;
-        // container.appendChild(document.createElement('br'));
+        var author = container.appendChild(document.createElement('span'));
+        author.className = 'nickname ' + (banner.authorFaction === 'Resistance' ? 'res' : 'enl');
+        author.textContent = banner.authorNickname;
+        container.appendChild(document.createElement('br'));
 
         var infoTime = container.appendChild(document.createElement('span'));
         infoTime.className = 'plugin-mission-info time help';

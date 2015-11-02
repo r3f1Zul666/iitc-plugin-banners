@@ -1,10 +1,9 @@
 {
+    "name": "Europe",
     "providers":{
         "provider-belgium":{
-            "name": "Belgium"
         },
         "provider-netherlands":{
-            "name": "The Netherlands"
         }
     }
 }

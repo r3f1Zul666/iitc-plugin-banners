@@ -25,11 +25,12 @@ def dpath(provider):
 def hash(banner):
     with open(path(banner)) as data:
         contents = data.read()
+        include = json.loads(contents)
         sha256 = hashlib.sha256(contents).hexdigest()
         print "%s: %s" % (banner, sha256,)
         shutil.copy(path(banner), dpath("%s$%s" % (banner, sha256)))
 
-    return sha256
+    return include, sha256
 
 
 def generate(provider):
@@ -39,14 +40,20 @@ def generate(provider):
         if "providers" in include:
             for subprovider in include["providers"]:
                 print "building: %s" % (subprovider,)
-                include["providers"][subprovider]["sha256"] = generate(subprovider)
+                metadata, sha256 = generate(subprovider)
+                include["providers"][subprovider]["name"] = metadata["name"]
+                include["providers"][subprovider]["sha256"] = sha256
 
         if "banners" in include:
             for banner in include["banners"]:
                 print "hashing: %s" % (banner,)
-                include["banners"][banner]["sha256"] = hash(banner)
+                metadata, sha256 = hash(banner)
+                include["banners"][banner]["name"] = metadata["name"]
+                include["banners"][banner]["authorNickname"] = metadata["authorNickname"]
+                include["banners"][banner]["authorFaction"] = metadata["authorFaction"]
+                include["banners"][banner]["sha256"] = sha256
 
-        return dump(provider, include)
+    return dump(provider, include)
 
 
 def dump(provider, include):
@@ -56,7 +63,7 @@ def dump(provider, include):
     output_file = dpath("%s$%s" % (provider, sha256))
     with open(output_file, "wb") as f:
         f.write(contents)
-    return sha256
+    return include, sha256
 
 if not os.path.exists(build_directory):
     os.makedirs(build_directory)
@@ -73,7 +80,9 @@ with open("banners.json") as data:
     if "providers" in root:
         for provider in root["providers"]:
             print "building: %s" % (provider,)
-            root["providers"][provider]["sha256"] = generate(provider)
+            metadata, sha256 = generate(provider)
+            root["providers"][provider]["name"] = metadata["name"]
+            root["providers"][provider]["sha256"] = sha256
 
     output_file = os.path.join(build_directory, "banners.json")
     with open(output_file, "wb") as f:

@@ -13,13 +13,21 @@ def path(provider, directory=""):
     return filename
 
 
+def dpath(provider):
+    filename = path(provider, "/" + build_directory)
+    dirname = os.path.dirname(os.path.realpath(filename))
+    print dirname
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
+    return filename
+
+
 def hash(banner):
     with open(path(banner)) as data:
         contents = data.read()
         sha256 = hashlib.sha256(contents).hexdigest()
         print "%s: %s" % (banner, sha256,)
-        output_file = path("%s$%s" % (banner, sha256), "/" + build_directory)
-        shutil.copy(path(banner), output_file)
+        shutil.copy(path(banner), dpath("%s$%s" % (banner, sha256)))
 
     return sha256
 
@@ -44,8 +52,8 @@ def generate(provider):
 def dump(provider, include):
     contents = json.dumps(include, indent=2)
     sha256 = hashlib.sha256(contents).hexdigest()
-    print "%s: %s" % (provider, sha256,)
-    output_file = path("%s$%s" % (provider, sha256), "/" + build_directory)
+    # print "%s: %s" % (provider, sha256,)
+    output_file = dpath("%s$%s" % (provider, sha256))
     with open(output_file, "wb") as f:
         f.write(contents)
     return sha256

@@ -1,16 +1,29 @@
 {
     "banners":{
-        "citadelpark":{
-            "name": "Citadelpark"
+        "belgium\/citadelpark":{
+            "name": "Citadelpark",
+            "authorName": "Xysphere",
+            "authorFaction": "Enlightened"
         },
-        "groot-tielt":{
-            "name": "Groot Tielt"
+        "belgium\/groot-tielt":{
+            "name": "Groot Tielt",
+            "authorName": "biazzi",
+            "authorFaction": "Resistance"
         },
-        "antwerpen-1572s":{
-            "name": "Antwerpen 1572s"
+        "belgium\/antwerpen-1572s":{
+            "name": "Antwerpen 1572s",
+            "authorName": "hydrotherion",
+            "authorFaction": "Enlightened"
         },
-        "olen-shield-missions":{
-            "name": "Olen shield missions"
+        "belgium\/olen-shield-missions":{
+            "name": "Olen shield missions",
+            "authorName": "hydrotherion",
+            "authorFaction": "Enlightened"
+        },
+        "belgium\/decouverte-esneux-tilff":{
+            "name": "Découverte Esneux Tilff",
+            "authorName": "Tehki",
+            "authorFaction": "Resistance"
         }
     }
 }

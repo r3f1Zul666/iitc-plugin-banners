@@ -2,7 +2,7 @@
 // @id             iitc-plugin-banners@aeurielesn
 // @name           IITC plugin: Banners
 // @category       Info
-// @version        0.1.1
+// @version        0.1.2
 // @namespace      https://github.com/aeurielesn
 // @updateURL      https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
 // @downloadURL    https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js
@@ -196,7 +196,7 @@ window.plugin.banners = {
         for(var i = 0; i < banner.missions.length; i += 6) {
             var row = table.appendChild(document.createElement('tr'));
             for(var j = 0, k = i; j < 6; j++, k++) {
-                var mission = banner.missions[banner.length - k - 1];
+                var mission = banner.missions[banner.missions.length - k - 1];
                 var cell = row.appendChild(document.createElement('td'));
                 img = cell.appendChild(document.createElement('img'));
                 img.src = mission.image;
@@ -225,6 +225,7 @@ window.plugin.banners = {
     },
 
     displayBanner: function(name, banner){
+        console.log(banner);
         dialog({
             id: 'plugin-banner-details',
             // title: mission.title,

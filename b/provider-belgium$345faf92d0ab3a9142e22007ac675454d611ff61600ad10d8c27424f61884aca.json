@@ -2,26 +2,26 @@
   "banners": {
     "belgium/olen-shield-missions": {
       "authorFaction": "Enlightened", 
-      "sha256": "1504c187d2be9b18e4b3718d63d95c0fd0ba48bcb3d6a988c795308fb18a1d01", 
-      "name": "Antwerpen 1572s", 
+      "sha256": "6aed59cf98d7456a28f8f8f1c75812a2c8e45f3dd5643cc7b091f12714685ba3", 
+      "name": "Olen shield missions", 
       "authorNickname": "hydrotherion"
     }, 
     "belgium/citadelpark": {
       "authorFaction": "Enlightened", 
-      "sha256": "06c41c0d04e05561ffea8ed8774cc2212ff1903f7e2458285250511a954e354e", 
-      "name": "Antwerpen 1572s", 
+      "sha256": "943664e9e077a1eb96d6b024fe59f7361a6e82b85dae3a7593b3621c9d66e9f4", 
+      "name": "Citadelpark", 
       "authorNickname": "Xysphere"
     }, 
     "belgium/groot-tielt": {
       "authorFaction": "Resistance", 
-      "sha256": "f4e29d579d0eb3d4f0c2a15c84564d739116e549ba92af59f8a18639e3ac33a9", 
-      "name": "Antwerpen 1572s", 
+      "sha256": "f4c45e396deb75100628a85c5604fc5b8a8b2b686696cdeabde7d195920324b9", 
+      "name": "Groot Tielt", 
       "authorNickname": "biazzi"
     }, 
     "belgium/decouverte-esneux-tilff": {
       "authorFaction": "Resistance", 
-      "sha256": "f6a40f8d06b73693fd9c6b9d7f7cf8f9a882c376c205120a8ae092bcf7d0ddad", 
-      "name": "Antwerpen 1572s", 
+      "sha256": "11f363e134b4f4f2068012819156a70bd8c930cb029241828d94c12928d91f13", 
+      "name": "D\u00e9couverte Esneux Tilff", 
       "authorNickname": "Tehki"
     }, 
     "belgium/antwerpen-1572s": {

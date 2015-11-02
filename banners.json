@@ -1,7 +1,7 @@
 {
   "providers": {
     "provider-europe": {
-      "sha256": "9e8420cf4dc4e21d5e6424adf8b85506f6d3e00ce4295067fbf1bdf977eb383b", 
+      "sha256": "0dfcbf8a0cd04d0309556a82d37bfe00375b3459e6a8c12cc162eae7a01202b6", 
       "name": "Europe"
     }
   }, 

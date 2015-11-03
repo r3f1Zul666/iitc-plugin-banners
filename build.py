@@ -52,6 +52,7 @@ def generate(provider):
                 include["banners"][banner]["authorNickname"] = metadata["authorNickname"]
                 include["banners"][banner]["authorFaction"] = metadata["authorFaction"]
                 include["banners"][banner]["sha256"] = sha256
+                include["banners"][banner]["length"] = len(metadata["missions"])
 
     return dump(provider, include)
 

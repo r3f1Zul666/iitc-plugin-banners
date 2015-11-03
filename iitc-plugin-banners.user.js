@@ -25,14 +25,15 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 // PLUGIN START ////////////////////////////////////////////////////////
 
 var timeToRemaining = function(t) {
-    var minutes = (t/60)%60;
-    var hours = (t/3600)%24;
-    var days = t/86400;
-    data = days + "d " + hours + "d " + minutes + "m";
-    data = data.replace('0d', '');
-    data = data.replace('0h', '');
-    data = data.replace('0m', '');
-    return data.trim();
+    console.log(t);
+    var minutes = Math.floor(t/60)%60;
+    var hours = Math.floor(t/3600)%24;
+    var days = Math.floor(t/86400);
+    var data = [];
+    if(days) data.push(days + "d");
+    if(hours) data.push(hours + "h");
+    if(minutes || data.length === 0) data.push(minutes + "m");
+    return data.join(" ");
 };
 
 Repository = function(base) {
@@ -158,6 +159,9 @@ window.plugin.banners = {
                         return false;
                     }, false);
                 })(banner, metadata);
+
+                var length = div.appendChild(document.createElement('span'));
+                length.textContent = " (" + metadata.length + ")";
             }
         }
 

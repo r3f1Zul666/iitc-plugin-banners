@@ -7,6 +7,13 @@
       "name": "Citadelpark", 
       "authorNickname": "Xysphere"
     }, 
+    "belgium/grand-place-flowers": {
+      "length": 18, 
+      "authorFaction": "Enlightened", 
+      "sha256": "56d0e2a883ce051af314aff4dbb7f2a5731bf1c5214a94639e766ca0e7a7b681", 
+      "name": "Grand Place Flowers", 
+      "authorNickname": "Ramii"
+    }, 
     "belgium/olen-shield-missions": {
       "length": 6, 
       "authorFaction": "Enlightened", 
@@ -14,12 +21,26 @@
       "name": "Olen shield missions", 
       "authorNickname": "hydrotherion"
     }, 
+    "belgium/through-the-center-of-brussels": {
+      "length": 12, 
+      "authorFaction": "Enlightened", 
+      "sha256": "d40eb4dc72f3a630ff6fa6d09740a5bfe4b97ff4c3eb72f3da85dbd34b37c3d3", 
+      "name": "Through the center of Brussels", 
+      "authorNickname": "irawynn"
+    }, 
     "belgium/battle-of-limburg": {
       "length": 48, 
       "authorFaction": "Enlightened", 
       "sha256": "810b6344dae10831569774a986e3ac0daf5a0d871fbf2024c2ca48c5ab392459", 
       "name": "Battle Of Limburg", 
       "authorNickname": "XQlusioN"
+    }, 
+    "belgium/bruges-banner": {
+      "length": 12, 
+      "authorFaction": "Resistan", 
+      "sha256": "657ac57ee60f18e87a88f93e72feeb609ceaebacfbd3a3d9790e337782589dc1", 
+      "name": "Bruges Banner", 
+      "authorNickname": "mrDries"
     }, 
     "belgium/groot-bilzen": {
       "length": 12, 

@@ -17,14 +17,14 @@
     "belgium/battle-of-limburg": {
       "length": 48, 
       "authorFaction": "Enlightened", 
-      "sha256": "d456d1feedb513c463e32865f87fbbefb43f31d667f902a8f3a37d09d853f901", 
+      "sha256": "810b6344dae10831569774a986e3ac0daf5a0d871fbf2024c2ca48c5ab392459", 
       "name": "Battle Of Limburg", 
       "authorNickname": "XQlusioN"
     }, 
     "belgium/groot-bilzen": {
       "length": 12, 
       "authorFaction": "Enlightened", 
-      "sha256": "4cfe9f9490b62a5fa75c37f0fb47c495f512d6faef6445f84d8d27df64121660", 
+      "sha256": "ccace4c1471bbde042dddae925d1d5b32e0972dbe44235c9aea754af8bc3e433", 
       "name": "Groot-Bilzen", 
       "authorNickname": "Benjaplus"
     }, 

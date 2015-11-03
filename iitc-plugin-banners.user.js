@@ -25,11 +25,14 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 // PLUGIN START ////////////////////////////////////////////////////////
 
 var timeToRemaining = function(t) {
-  var data = parseInt(t / 86400, 10) + 'd ' + (new Date(t % 86400 * 1000)).toUTCString().replace(/.*(\d{2}):(\d{2}):(\d{2}).*/, '$1h $2m $3s');
-  data = data.replace('0d', '');
-  data = data.replace('00h', '');
-  data = data.replace('00m', '');
-  return data.trim();
+    var minutes = (t/60)%60;
+    var hours = (t/3600)%24;
+    var days = t/86400;
+    data = days + "d " + hours + "d " + minutes + "m";
+    data = data.replace('0d', '');
+    data = data.replace('0h', '');
+    data = data.replace('0m', '');
+    return data.trim();
 };
 
 Repository = function(base) {

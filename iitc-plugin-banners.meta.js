@@ -2,7 +2,7 @@
 // @id             iitc-plugin-banners@aeurielesn
 // @name           IITC plugin: Banners
 // @category       Info
-// @version        0.1.2
+// @version        0.1.3
 // @namespace      https://github.com/aeurielesn
 // @updateURL      https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
 // @downloadURL    https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js

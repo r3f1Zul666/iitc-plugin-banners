@@ -1,0 +1,61 @@
+{
+  "banners": {
+    "belgium/citadelpark": {
+      "length": 24, 
+      "authorFaction": "Enlightened", 
+      "sha256": "943664e9e077a1eb96d6b024fe59f7361a6e82b85dae3a7593b3621c9d66e9f4", 
+      "name": "Citadelpark", 
+      "authorNickname": "Xysphere"
+    }, 
+    "belgium/olen-shield-missions": {
+      "length": 6, 
+      "authorFaction": "Enlightened", 
+      "sha256": "6aed59cf98d7456a28f8f8f1c75812a2c8e45f3dd5643cc7b091f12714685ba3", 
+      "name": "Olen shield missions", 
+      "authorNickname": "hydrotherion"
+    }, 
+    "belgium/battle-of-limburg": {
+      "length": 48, 
+      "authorFaction": "Enlightened", 
+      "sha256": "d456d1feedb513c463e32865f87fbbefb43f31d667f902a8f3a37d09d853f901", 
+      "name": "Battle Of Limburg", 
+      "authorNickname": "XQlusioN"
+    }, 
+    "belgium/groot-bilzen": {
+      "length": 12, 
+      "authorFaction": "Enlightened", 
+      "sha256": "4cfe9f9490b62a5fa75c37f0fb47c495f512d6faef6445f84d8d27df64121660", 
+      "name": "Groot-Bilzen", 
+      "authorNickname": "Benjaplus"
+    }, 
+    "belgium/decouverte-esneux-tilff": {
+      "length": 6, 
+      "authorFaction": "Resistance", 
+      "sha256": "11f363e134b4f4f2068012819156a70bd8c930cb029241828d94c12928d91f13", 
+      "name": "D\u00e9couverte Esneux Tilff", 
+      "authorNickname": "Tehki"
+    }, 
+    "belgium/tielt-banner": {
+      "length": 6, 
+      "authorFaction": "Enlightened", 
+      "sha256": "c70bf7416e5763237f2c5844a936dc0fac3c1f8201c3f5889749298310441e19", 
+      "name": "Tielt Banner", 
+      "authorNickname": "Bicky"
+    }, 
+    "belgium/groot-tielt": {
+      "length": 30, 
+      "authorFaction": "Resistance", 
+      "sha256": "f4c45e396deb75100628a85c5604fc5b8a8b2b686696cdeabde7d195920324b9", 
+      "name": "Groot Tielt", 
+      "authorNickname": "biazzi"
+    }, 
+    "belgium/antwerpen-1572s": {
+      "length": 18, 
+      "authorFaction": "Enlightened", 
+      "sha256": "5560e3c96c4965b7c24ccb9c036fa8ffd42b103a5ca2013ee550565f6c4a81bf", 
+      "name": "Antwerpen 1572s", 
+      "authorNickname": "hydrotherion"
+    }
+  }, 
+  "name": "Belgium"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Genk",
+  "authors": {
+    "juular13": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "90da17b668a142439ed72ab07d68ab6b.1c",
+      "title": "Genk 1/6: In de Genkse Bodem",
+      "image": "https://lh3.googleusercontent.com/F3swQ4bXzOax86LxLwa041YXiPdrgZ5YDBNb2h0_OVVjScN2jgba6KOmmsC3-Dj3Aq-T4B3yH_T2OK5EshMe_g",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "5505527"
+    },
+    {
+      "guid": "3fb001ea5b444bddbaac3d6fae491890.1c",
+      "title": "Genk 2/6: Religion in Genk",
+      "image": "https://lh3.googleusercontent.com/_THCH8pDH0l3O_kwtzXycSR6q2FP6sxiMu7kygrZGSgc2SF8r9g6JW_r4ciwEmVRvTt8_lTu8y5H814Yo7s0",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "2221373"
+    },
+    {
+      "guid": "b7c088416d434205b349be0893426be8.1c",
+      "title": "Genk 3/6: Weg... naar As",
+      "image": "https://lh3.googleusercontent.com/kDvI8Nj3tZXh7OPSmHm7P2xcAt7DT4KSrcx-IzOU1DgD4oa7Mrjkw1qs42acUqo12ck_L7HV3iwP5j5V9ASe",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "2139430"
+    },
+    {
+      "guid": "8586b576c5da44519a5664ef297c59a5.1c",
+      "title": "Genk 4/6: Planeten pad",
+      "image": "https://lh3.googleusercontent.com/TeTfjGNW9lbWzLohzryd0QNKkmAG5g5CsuIw8KwKLmE9KnC79TuUxhzJxOT9-wLLiJ9PTFcDdOSVUwzi8cYg",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "2263747"
+    },
+    {
+      "guid": "80c4bbf59a924c5eae5906399ddeee35.1c",
+      "title": "Genk 5/6: Bokrijk Openlucht Museum",
+      "image": "https://lh3.googleusercontent.com/CWES2QSfgLyaVaJn43uhpisc0us_od8B4meTJm1lPEb2Ah2wtnSLQxF7b876OFuU-f6bPRKxgleViAmIz6b6",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "2155819"
+    },
+    {
+      "guid": "108b59128ac34867b1fd9b8df142e167.1c",
+      "title": "Genk 6/6: Bokrijk For Kids",
+      "image": "https://lh3.googleusercontent.com/cVmzsSFBYk6aCBL0qk51ICfMbXwczEKKEe-9XZ0B8rtX1_RXNuWmM8fng9cxRAEKda_7r19Axv8ue7rKCLI",
+      "ratingE6": "1000000",
+      "medianCompletionTimeMs": "298439"
+    }
+  ]
+}

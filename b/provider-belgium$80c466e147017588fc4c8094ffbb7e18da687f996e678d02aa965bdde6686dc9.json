@@ -1,0 +1,158 @@
+{
+  "banners": {
+    "belgium/citadelpark": {
+      "length": 24, 
+      "sha256": "294c3184d5025a8bebdbf27a83dbb292800e7e0bc74c779e955e7a623bf53bf9", 
+      "name": "Citadelpark", 
+      "authors": {
+        "Xysphere": "Enlightened"
+      }
+    }, 
+    "belgium/genk": {
+      "length": 6, 
+      "sha256": "5b8080447568f0d6fdaf01a58d13410a442c35de9975a5d87a6bacc9497add6c", 
+      "name": "Genk", 
+      "authors": {
+        "juular13": "Enlightened"
+      }
+    }, 
+    "belgium/grand-place-flowers": {
+      "length": 18, 
+      "sha256": "1a17ca48fdc00baf0921d94a674af64301e3f66a594f797d4ff00572c259b718", 
+      "name": "Grand Place Flowers", 
+      "authors": {
+        "Ramii": "Enlightened"
+      }
+    }, 
+    "belgium/limburg-coat-of-arms": {
+      "length": 36, 
+      "sha256": "8510ade5e43d6f13e4465b2c016a8e2fadeda4f80dee73e2af454d9f33d74a0e", 
+      "name": "Limburg Coat of Arms", 
+      "authors": {
+        "RAVINRED": "Enlightened", 
+        "masdelmar": "Enlightened"
+      }
+    }, 
+    "belgium/olen-shield-missions": {
+      "length": 6, 
+      "sha256": "e968733d5b80304147fbd2d87ef76ae0bd6f09bd25843143022776564f1a4024", 
+      "name": "Olen shield missions", 
+      "authors": {
+        "hydrotherion": "Enlightened"
+      }
+    }, 
+    "belgium/liege-city-trip": {
+      "length": 36, 
+      "sha256": "296df5550769b901cd62c2aafb077c3e9e250b4d9d887677b2366150d48967e1", 
+      "name": "Li\u00e8ge City Trip", 
+      "authors": {
+        "DjDirtboy": "Enlightened"
+      }
+    }, 
+    "belgium/through-the-center-of-brussels": {
+      "length": 12, 
+      "sha256": "d89043913314ba896427ab56e5b319fd20e85360d35050874de150df2a26b57f", 
+      "name": "Through the center of Brussels", 
+      "authors": {
+        "irawynn": "Enlightened"
+      }
+    }, 
+    "belgium/i-love-liege": {
+      "length": 6, 
+      "sha256": "222c69fce9343b78ed10b0b1adc9ea3a483fbbd763bbe740d7ff3640dd3f8e7f", 
+      "name": "I Love Li\u00e8ge", 
+      "authors": {
+        "GustafValentine": "Resistance"
+      }
+    }, 
+    "belgium/battle-of-limburg": {
+      "length": 48, 
+      "sha256": "3c4a5250947c21a200c71d530f9de88c19cc3eb2a9f14c5a4c5e5ce47f700a3e", 
+      "name": "Battle Of Limburg", 
+      "authors": {
+        "XQlusioN": "Enlightened"
+      }
+    }, 
+    "belgium/manneken-pis": {
+      "length": 18, 
+      "sha256": "8f03ab8b6147aad7ff6b719e307b10a8e2992d23ff25d37ddba59c3e0e031ccd", 
+      "name": "Manneken pis", 
+      "authors": {
+        "Niluge": "Enlightened"
+      }
+    }, 
+    "belgium/bruges-banner": {
+      "length": 12, 
+      "sha256": "69f510ab0669dd37d0751a36983d137b5e1802562ccef8f7fedd23e3299525f4", 
+      "name": "Bruges Banner", 
+      "authors": {
+        "mrDries": "Resistance"
+      }
+    }, 
+    "belgium/groot-bilzen": {
+      "length": 12, 
+      "sha256": "3afd26372c499403bcf85d01a314dbf29b727453dfa72efa2022230b3117f81a", 
+      "name": "Groot-Bilzen", 
+      "authors": {
+        "Benjaplus": "Enlightened"
+      }
+    }, 
+    "belgium/decouverte-esneux-tilff": {
+      "length": 6, 
+      "sha256": "e63647c286a10fa9ead786dcd3fb3c8268d37ee08b90d5d8753db5b83069548d", 
+      "name": "D\u00e9couverte Esneux Tilff", 
+      "authors": {
+        "Tehki": "Resistance"
+      }
+    }, 
+    "belgium/tielt-banner": {
+      "length": 6, 
+      "sha256": "e91e1944ef02e38d77ccfe61921e830a37e6c550d52d269ee899d4c910395e47", 
+      "name": "Tielt Banner", 
+      "authors": {
+        "Bicky": "Enlightened"
+      }
+    }, 
+    "belgium/autour-de-la-place-saint-lambert": {
+      "length": 18, 
+      "sha256": "f9099b99901f6d763e299156aba21d4e6dc76e8719abfcb9ed31d1e816076176", 
+      "name": "Autour de la place Saint Lambert", 
+      "authors": {
+        "Tehki": "Resistance"
+      }
+    }, 
+    "belgium/brugge-enl": {
+      "length": 3, 
+      "sha256": "9b614251df959f768e3c0817e5be5a808b66ba4b42b8048d1f2b49125c7336ab", 
+      "name": "Brugge ENL", 
+      "authors": {
+        "TheBrugseZot": "Enlightened"
+      }
+    }, 
+    "belgium/groot-tielt": {
+      "length": 30, 
+      "sha256": "debf8b4adc31ed8665d7e5cbb5ca0881305813cd1c24d0bf11d5f4962adc5022", 
+      "name": "Groot Tielt", 
+      "authors": {
+        "biazzi": "Resistance"
+      }
+    }, 
+    "belgium/i-love-limburg": {
+      "length": 6, 
+      "sha256": "849e59094fbaca6587c0e94b0d2d6548d4606eab0c760a12ec558bb9a8224cc7", 
+      "name": "I Love Limburg", 
+      "authors": {
+        "Stevengreen": "Resistance"
+      }
+    }, 
+    "belgium/antwerpen-1572s": {
+      "length": 18, 
+      "sha256": "fe06bf8c7fc01376ef849629f8cf7d8c8d9407ba22b5d3ec0928f6a6be1ed571", 
+      "name": "Antwerpen 1572s", 
+      "authors": {
+        "hydrotherion": "Enlightened"
+      }
+    }
+  }, 
+  "name": "Belgium"
+}

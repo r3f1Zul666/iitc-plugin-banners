@@ -1,0 +1,50 @@
+{
+  "name": "I Love Limburg",
+  "authors": {
+    "Stevengreen": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "f19d8db24b2e4ff1970aa1f35a55e26f.1c",
+      "title": "I Love Limburg 1-6",
+      "image": "https://lh3.googleusercontent.com/uF0CWYcfzXNvbYiStcKirgooOPsT7hAcjuvhMDnEcIXPf__V5MD_VEqms3KmxgACb4HIZL5mgIVy2Rw3bZYG",
+      "ratingE6": 945946,
+      "medianCompletionTimeMs": 1043850
+    },
+    {
+      "guid": "c93fe68ba40444fe93525cebd5d37b50.1c",
+      "title": "I Love Limburg 2-6",
+      "image": "https://lh3.googleusercontent.com/SRFQFxC5wY3CWknq43tqPcX3uMPPlKcwPrCWO2SLFplpxWLiNVexwiu30K42hYOOtE_sDI8WHw6RGl_5dilj",
+      "ratingE6": 861111,
+      "medianCompletionTimeMs": 817594
+    },
+    {
+      "guid": "f5ea558fdb804faeb82bed9a1c3336aa.1c",
+      "title": "I Love Limburg 3-6",
+      "image": "https://lh3.googleusercontent.com/GuOQwfWoKjLqyfDtwbzGgmpsZt5XgW-MzOwSicfVEpEc-ijrAYTN2k605u76ACIQjsYhbz4tp7_h3kD6JN2K",
+      "ratingE6": 861111,
+      "medianCompletionTimeMs": 703646
+    },
+    {
+      "guid": "e8e31d945958423ba2ecc07cd71028d3.1c",
+      "title": "I Love Limburg 4-6",
+      "image": "https://lh3.googleusercontent.com/73pEVceUScPCMcVb8xNjyhrm09nHNlrD4Fzw96acvGzmSnKGd-JtBIlQEZ6EB5JQuQOX7BUz2CrmqX8xRuaZ",
+      "ratingE6": 937500,
+      "medianCompletionTimeMs": 857615
+    },
+    {
+      "guid": "31d73ffb95b24ad6910ea129c8fe1b97.1c",
+      "title": "I Love Limburg 5-6",
+      "image": "https://lh3.googleusercontent.com/AW_LFeZCIhYAngjsT8uAXJ3Y6bDNSMnxY9vlUDk1z5tvh6ptWvfjx0nXJJncv0ghREhCi8eyFJ2Rdb1y2W1P",
+      "ratingE6": 911765,
+      "medianCompletionTimeMs": 461380
+    },
+    {
+      "guid": "dc2874098d4c4275b5e27adcdceb061a.1c",
+      "title": "I Love Limburg 6-6",
+      "image": "https://lh3.googleusercontent.com/TgLfbg6ZqjWlgwSj2kQ-iK3icRl8HQ5wU7BykMR3c731yoIGphXatHT6OMoiHI1QQAfScQc3DsEVbOAlf2Rk",
+      "ratingE6": 921053,
+      "medianCompletionTimeMs": 944809
+    }
+  ]
+}

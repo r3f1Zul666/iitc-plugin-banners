@@ -1,0 +1,176 @@
+{
+  "name": "Citadelpark",
+  "authors": {
+    "Xysphere": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "ce251f7ffce7422ba62e3f9165324ef8.1c",
+      "title": "[1 / 24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/jwcVoPUn9cMhjbSYWztRWUBw688jrtKHCFUQC1Hsnqt0v3jda4YKXWf7vqtNLVxP2CgFGwwpR5ZJwyA0wUxA",
+      "ratingE6": 961538,
+      "medianCompletionTimeMs": 694076
+    },
+    {
+      "guid": "a119e0745a14465aa65bc31b3e92243d.1c",
+      "title": "[2/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/-g1NTy4ube63Ck58VIJLpiT1kCmDNsYmvSmNqQyRypJlfcvPaAdt6QgTxZ5aPZCbeS2YvEO89lFYQGH35yc",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 273042
+    },
+    {
+      "guid": "49d8221247654f7fa7b8ba01594e33cf.1c",
+      "title": "[3/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/x9_ymrQdYJjAhxrBo-_c-j-TmOwOVDdcgnVXv1grTHyf-lSGO8CasY-_YtQ1QTPS__ZR3DNrlBSOZufDcp5BHw",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 445402
+    },
+    {
+      "guid": "38374d633fc64ffabc4ce1847e4cb3f8.1c",
+      "title": "[4/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/NlnOABfiZy8feiGwGsg2ic_ToBStnfKJJhWmQtkocmVAHBbVZHIxcjQi5JScwX7vn3-3AagXNTYPj-UZGcEN",
+      "ratingE6": 956522,
+      "medianCompletionTimeMs": 501987
+    },
+    {
+      "guid": "f580d3b0e8d54a41bb27bb2830ffd6a3.1c",
+      "title": "[5/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/NXZ0KqEihaciY-Z_RpC9eQylwL-0sgd5qqsi8VVAb6B1EWqEiEimIrGMToXei_j716s9wpnoy2hNuBEPLJnU",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 463416
+    },
+    {
+      "guid": "c234305091934efb878d10fe3062a012.1c",
+      "title": "[6/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/0M-zGLSHQsxtRT1_umLxcgNwk2NCnRSPD6V5IPAqe-s7z3re4bfBk0cZw_KKlh_CcUZLVdM7bHqy7WgmlW27",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 628585
+    },
+    {
+      "guid": "19efa4ed02c6421b8839882e753d92e7.1c",
+      "title": "[7/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/ls0OVeU3ydjPvgkcYyvmyHOxkDkUcWa2yYZ-HIsfiNVfzHQT9jlxFdZOWV7uwEAwMoPBFlFU8nYAAvxWqiY",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 248838
+    },
+    {
+      "guid": "f9590a306f1b4044b957bd5ab713ea46.1c",
+      "title": "[8/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/E1gLy9SnVwT8k0CpPyehjJok-k0PtO9GHRvLnl3rNllnoptj26ZSeTOKjK6zX7RbrGMG10JW8M8FxOU6HbOx",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 208168
+    },
+    {
+      "guid": "f42c9ce2224c44e79597557d282a7bd7.1c",
+      "title": "[9/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/6MsCHmIo87Tkmvh2JWcJmE-0sjfbtB8f11tGml3kB6QvYguHf46MmErX2UA6eMKxGAnLTX2EEXotujj-STsh",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 354602
+    },
+    {
+      "guid": "1f3181bab4e94b3fb2a0da119d6dc346.1c",
+      "title": "[10/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/pVlXy9_Z0xfk_C4X5wTglPcb2yolzr_X9mEbbqd_Zfop5TcVDwYAuJMuLOQuEd3npBZNs-3jiR_iBwGDjMkV",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 365808
+    },
+    {
+      "guid": "1cfb216bba4d47f997f09d7f6f8f7d09.1c",
+      "title": "[11 / 24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/efLMaR7WbP3xs5uTJdlH41cAts5Wz5DlSedoUlhd6pvZ2IWT-8TtutkEPsUrZ8Au6Z3TPP47VU4OS8O_oOZt",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 366055
+    },
+    {
+      "guid": "73b27992b6ff49dd91b727a0630de83b.1c",
+      "title": "[12/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/cCe1T_4DS-oVlw7KIm6rLR3TBxCltrc2Np-THl9JU_-T-95PVdXS3nA28uR9BWBArFlCTDL4GaTEQkOSUSg",
+      "ratingE6": 950000,
+      "medianCompletionTimeMs": 491039
+    },
+    {
+      "guid": "cf3da55db29743e892d9a78d9f583bea.1c",
+      "title": "[13/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/MPFpb_yxM_dYfv6bDgSHie_xO0V8a7hJyfhBtlp3rPw17z3Zc1Ym3uaq5iKW8g3ktSM4BKPjYNl5AE7c27yD",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 231579
+    },
+    {
+      "guid": "cbfa30fc2bbc47d4bcdeb88d602ab879.1c",
+      "title": "[14/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/JeUSJy7b_gGf0iB7mdWr8AFySbbBGWzgsKkIogRI9YoO7NYn_MQlGe1-EfqLZVDXExjiZ7a-3PPBFj-HHF-s",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 301898
+    },
+    {
+      "guid": "f2cc3a870d894743aa1dfd5f15127713.1c",
+      "title": "[15/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/G2CfePlJacTHPKAaTAsXldrztJM0Gh46pFlvBetDVEszjyVmdDXn9zNloNsX79yGc7GzJY05uTyIhARekgU",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 312508
+    },
+    {
+      "guid": "206d8364c7d34bf0a2ecdfb27390db6c.1c",
+      "title": "[16/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/7UUDeQY5O6gSGcpEfjANH35RoPclikAuW7cdJfgH2McOCpt5jCkVjkU7cqNuLb9lH04F71BKr7qZsBvR7JE",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 348444
+    },
+    {
+      "guid": "e933f8c247274634965c0bc1c7e8a4c1.1c",
+      "title": "[17/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/l9Sd1KUwVnCfbhtezx7nPxe16SBu6d62D6cS4W32VvLLgvSq0BKIyg2PUhny3-PZ411IpSIJLUz5Po7db6xl",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 316659
+    },
+    {
+      "guid": "8dfbb01590c74853a8e5e004a3ce6d37.1c",
+      "title": "[18/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/xdtGTBGo3X3YvP6RPBXuGq4LFYpg1mCMGWLVmqIpqBXw5lstK28X6m58CE9ptBJZKenioHAzejcdpmBaVShF",
+      "ratingE6": 944444,
+      "medianCompletionTimeMs": 414486
+    },
+    {
+      "guid": "1ce70fa5cbde4ab8bf261f0aec1fde4a.1c",
+      "title": "[19/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/fECEVQGizv4bllNuiKOA_Lh82wTfbKzGijEh1vNgVEkfbrEwT6HgDVAnKWna7Ax7xrtd9YuewiEag_3gpj17",
+      "ratingE6": 937500,
+      "medianCompletionTimeMs": 272600
+    },
+    {
+      "guid": "a4ebc1d14abc4447b410cc940cef8a31.1c",
+      "title": "[20/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/1maicJdaUh0A6e8WjQWxOATHaagsjOmRoC0UwsLW9W1PGWg-4vyL68pgiMiGbc_xqXyO6i52PH4JWLwwTYg",
+      "ratingE6": 937500,
+      "medianCompletionTimeMs": 266482
+    },
+    {
+      "guid": "81541662e04d444fa9f951756d4c563f.1c",
+      "title": "[21 / 24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/rxr85VJ-lnlkCABGAfITfzN5hzhLCx7gMhq1V-eRTnAOjvdppYd28l0Jo_GE118flaOUP5ZRvZvrSyeGg6TI",
+      "ratingE6": 933333,
+      "medianCompletionTimeMs": 416820
+    },
+    {
+      "guid": "1a820c437c52414f8abc6626b4d6c915.1c",
+      "title": "[22/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/fKFA1X0n7z9Ndb8FM_VLwCqaaGZieDkTQSLEkAb1x-u6murG01UGMJCgybaLAlXbh-TE6Xo4WZtggkhJg-j1",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 537406
+    },
+    {
+      "guid": "626612995bb5405381c06de9140b68c6.1c",
+      "title": "[23/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/HZJDNBZIRJzeiza9akJpNt6CiwP6T29xCA-YAXKwGTEj1BM4udKbDvZtkrSXYaJ7xruvY0OdyN7YC1Pv-_zn",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 472415
+    },
+    {
+      "guid": "e0569f059bea45948e7a70890e5079bc.1c",
+      "title": "[24/24] Citadelpark",
+      "image": "https://lh3.googleusercontent.com/4YurJbePB8QTGOFeHwvvQWe0m7265bk4v6J5E9Iv0AbiUeoNTP1Sb0j87heT7HNpu2iBoN0qRiwMY2fFpQ",
+      "ratingE6": 941176,
+      "medianCompletionTimeMs": 638355
+    }
+  ]
+}

@@ -1,8 +1,12 @@
 {
   "providers": {
     "provider-europe": {
-      "sha256": "d3866995a074ba0be0c32ca625b5abc1be7c63dce7b3d2002719b7c98783441f", 
+      "sha256": "c2c510028b9674e8ac68f4bad2884d4234051e52e05f250ffd4f4cbaf0d136c6", 
       "name": "Europe"
+    }, 
+    "provider-asia": {
+      "sha256": "e9d350789cdcac802840fc062e0faa6dad375e149e90ec47125a7cb4f380cb1e", 
+      "name": "Asia"
     }
   }, 
   "providers-url": "/b/%banner%$%hash%.json"

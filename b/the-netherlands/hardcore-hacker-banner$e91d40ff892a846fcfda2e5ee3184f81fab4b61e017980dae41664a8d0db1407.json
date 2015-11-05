@@ -1,0 +1,260 @@
+{
+  "name": "Hardcore Hacker Banner",
+  "authors": {
+    "Levathean": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "ed39043721a94da899fe8a0ee6f3df61.1c",
+      "title": "Hardcore Hacker Banner 1 / 36",
+      "image": "https://lh3.googleusercontent.com/sds5mAxO4tp39QEhN50FsCtqzd-EcPupM3HEpXyTcs9fFMdypavT_Nfe4_JZrB3G7kM2V0Yfg_9kZwYktjMV",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 473429
+    },
+    {
+      "guid": "89b4d851367c4d638e589b34dbc50b12.1c",
+      "title": "Hardcore Hacker Banner 2 / 36",
+      "image": "https://lh3.googleusercontent.com/HNc-2pwDWFmHlSmM9xfiqkBOOh3MCD45AgD3M6E3NsbEwjeXP1cVMbnZElz4My40BnppcpUT2dXA2So1aM0",
+      "ratingE6": 894737,
+      "medianCompletionTimeMs": 1153900
+    },
+    {
+      "guid": "e97bd81980f145f280fedc024a8317c6.1c",
+      "title": "Hardcore Hacker Banner 3 / 36",
+      "image": "https://lh3.googleusercontent.com/pRWZu2tqYBPtrTvZiRH4MMEiLTcEeRgOc8-ECZEyFp46MIn1p0Yl0VSQGOQom93JFP0N4orBZoa2SzKt_jEF",
+      "ratingE6": 764706,
+      "medianCompletionTimeMs": 1282063
+    },
+    {
+      "guid": "b4c470c05fbf468eacf3cd135d801ab5.1c",
+      "title": "Hardcore Hacker Banner 4 / 36",
+      "image": "https://lh3.googleusercontent.com/UKLVbu-bdvw1GZMXYZiQ7It8CqAQkKFSPjqLJxyGWQd5qgehcnAKoBHbz_QyausmCzcFn9gh1gW5G-z8m3K9",
+      "ratingE6": 647059,
+      "medianCompletionTimeMs": 446211
+    },
+    {
+      "guid": "a72d1812a9e741388b3715c4a80b592d.1c",
+      "title": "Hardcore Hacker Banner 5 / 36",
+      "image": "https://lh3.googleusercontent.com/RJx9tPxqUTtuKGVxAjK4NumI2cArHEss8aHdnnJ_04Suk0yRCBFkL_hFxeB6pdJ5OitThHp6ghK0OnrvyM9r",
+      "ratingE6": 687500,
+      "medianCompletionTimeMs": 586726
+    },
+    {
+      "guid": "b1c718d189af4ae8b4be4ce5819b2e35.1c",
+      "title": "Hardcore Hacker Banner 6 / 36",
+      "image": "https://lh3.googleusercontent.com/Y0_JtccIiDlX6JLjyVHYG0FpSdLrmpQr-rUaKbb6u8nPSb3nasGxkhMeAqqCMU9ZsrH--A11dAzrAIjPtCyc",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 1089160
+    },
+    {
+      "guid": "07031a2049714342bc735825ca97b733.1c",
+      "title": "Hardcore Hacker Banner 7 / 36",
+      "image": "https://lh3.googleusercontent.com/o7KhEs3pZv3ziGhmh14tsGC395C9XHhoUILDMjEXn4fdhC_wNqNlRck7zFwstNR8Dmch4pIAXiXwt3Npb8fNLg",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 404524
+    },
+    {
+      "guid": "cd915973db1446dca83c0a9cb60df02f.1c",
+      "title": "Hardcore Hacker Banner 8 / 36",
+      "image": "https://lh3.googleusercontent.com/IiBL8QG0pBJ7aT5pnQqdWnZq9do6P7UzniQ1Ave4-1fQs4SVuCtsLSATrj7zW3KDItp-7ZiUkjyXxr2ti8T4",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 606060
+    },
+    {
+      "guid": "fc1db32d57ca4e19b2aa6e504e05176a.1c",
+      "title": "Hardcore Hacker Banner 9 / 36",
+      "image": "https://lh3.googleusercontent.com/HeEhL_lVpJws5zdBh6VO62w31FyDbEB4TnPjzYR2GgP5tZaj5u6E2Tra6B5UclS3ryC1x9rHZ6KvoALQh0Uy",
+      "ratingE6": 785714,
+      "medianCompletionTimeMs": 514130
+    },
+    {
+      "guid": "270616f521874147beab458cfa2bce46.1c",
+      "title": "Hardcore Hacker Banner 10 / 36",
+      "image": "https://lh3.googleusercontent.com/E2kuSG_u7q7Yo7SFR_-VgaBCxd7DOw6ha4M6R2WiefAzTThzP3ZLVDDYmBjSWswbPAmGXVDfM7wLJg4Y4PM",
+      "ratingE6": 733333,
+      "medianCompletionTimeMs": 728474
+    },
+    {
+      "guid": "99ad80a8e932463a8d7ca702e2889e1c.1c",
+      "title": "Hardcore Hacker Banner 11 / 36",
+      "image": "https://lh3.googleusercontent.com/s_gE1SEAQQaXsVgH1LWxWVQUwofaPh8KRNQt6FCuNt6jP85wVY_rVgpkd3ktyK58Z3zRUwkfXYVg65Jwtdc",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 412200
+    },
+    {
+      "guid": "86f70b65786c4a8599415bec400e6389.1c",
+      "title": "Hardcore Hacker Banner 12 / 36",
+      "image": "https://lh3.googleusercontent.com/FurPoZdOqqfQOYDqfDpKU2WAe_-e42r7F2Ccxb5AMB8O0TLbn_88zfq8YT4BAFcg5Eto95pa4K40IGaWLxY",
+      "ratingE6": 933333,
+      "medianCompletionTimeMs": 380061
+    },
+    {
+      "guid": "e12741ca1b384a319c6bf2c8a881e254.1c",
+      "title": "Hardcore Hacker Banner 13 / 36",
+      "image": "https://lh3.googleusercontent.com/_w0-_9VFVUPP2DndKtIaFbqEY3k7paccPTjTkgXFDXVNvfZ4HWSbWlYZs8wJU68_qHqWDkaLygCY3axMvqnV",
+      "ratingE6": 533333,
+      "medianCompletionTimeMs": 2410383
+    },
+    {
+      "guid": "f0cf83f3063443c2b8e3b41e14447ead.1c",
+      "title": "Hardcore Hacker Banner 14 / 36",
+      "image": "https://lh3.googleusercontent.com/f7fxnuOb2Fg3l5ihJgSZCrBtGU_DsEAvL5NVexWMuLRJUYPxsjCbxaVodIjhWx8RHUpzIR_2dmdD9ETIkWsG",
+      "ratingE6": 733333,
+      "medianCompletionTimeMs": 957568
+    },
+    {
+      "guid": "172a70965a5044ce8cf7251574ce4b26.1c",
+      "title": "Hardcore Hacker Banner 15 / 36",
+      "image": "https://lh3.googleusercontent.com/-JQIbMdmgW8EtNeE1rvifoO5Y8_v9SrsLD_WeNXhlBrxLKHrqadURapAPhat4R3TAzoPqMvJtzzmFH9OcYE",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 1135732
+    },
+    {
+      "guid": "2a5a2d725f464eb391bdfc107db10455.1c",
+      "title": "Hardcore Hacker Banner 16 / 36",
+      "image": "https://lh3.googleusercontent.com/k9l8vwHyg0MwoNjpj_0NvfjGJa902H_R8aipjffcstnyErOsTf6gZw6VfLmjpCkHT6bvti31BttrzxkbSTqvFQ",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 1072531
+    },
+    {
+      "guid": "7ba2642347584e8dba94c9dcf63fd1d9.1c",
+      "title": "Hardcore Hacker Banner 17 / 36",
+      "image": "https://lh3.googleusercontent.com/PI7vS_7hHUAvBYK2b3NYU-Mpwh0DPvLAsn79BKpY_ww8Pn9YNQO2M-OPtRzWV2n27wxjIgp-NnzN_eC9ne_8XA",
+      "ratingE6": 812500,
+      "medianCompletionTimeMs": 2978286
+    },
+    {
+      "guid": "b15728fe8a074c469b80725ca1559cd9.1c",
+      "title": "Hardcore Hacker Banner 18 / 36",
+      "image": "https://lh3.googleusercontent.com/3FZJnZE5YmoPOAjULITt3748pF6gVW_hqejXrWrAwfSYUctw_AG_GLKaOqEv6xEGHJMXAoW9mvVTWZaK0wws",
+      "ratingE6": 866667,
+      "medianCompletionTimeMs": 2276449
+    },
+    {
+      "guid": "81d410514b8a4d9e93e15ede2107d6eb.1c",
+      "title": "Hardcore Hacker Banner 19 / 36",
+      "image": "https://lh3.googleusercontent.com/vJEzjgKuT8PN_q2dRPP89ayifX3rsrmYn6jDKraD1bkbAKg7SPx52M__36HSVobMeUUhk3sBfgLBszvz-6SH",
+      "ratingE6": 846154,
+      "medianCompletionTimeMs": 225845
+    },
+    {
+      "guid": "d0824029b50a4b4bb75949c977bec69f.1c",
+      "title": "Hardcore Hacker Banner 20 / 36",
+      "image": "https://lh3.googleusercontent.com/dJxaHLD29gfZm12pO4xE_9L40_F8Bnzhm--8uIDwg5_fN8SDccyZcwumEpAq0p8Ph0EgSU58E8QCm-8-fp1l",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 539050
+    },
+    {
+      "guid": "f510be97c507448eb36c403505a872a3.1c",
+      "title": "Hardcore hacker banner 21 / 36",
+      "image": "https://lh3.googleusercontent.com/__o71qyQTr-QOwgmKhfwDoAGRRXKzpaQ_Lh0499-LcmCdd-xr5ZkSWpN2ok69ZH7_B2huC3oDN7CGzwpWr-cGA",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1492984
+    },
+    {
+      "guid": "5f771b5b107a44ce85e575794233d637.1c",
+      "title": "Hardcore Hacker Banner 22 / 36",
+      "image": "https://lh3.googleusercontent.com/CX_VZPdb1zeE6NJ2R0lszw8hqXkODNnORQMl7Ok8z_Vm0MXIcI5o5JRgqKsWPqZQ_W9SBBPhipZHJbM1arDT",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 1036719
+    },
+    {
+      "guid": "cdcb55c6cf734e61b1103a852c581bdf.1c",
+      "title": "Hardcore Hacker Banner 23 / 36",
+      "image": "https://lh3.googleusercontent.com/UJmZxPBY7irOyBZPN-xd9AbBsa9bc73m4i8YwClPdVm0XmrFJJTbMJ2zBIdCr1BZi_OrUCu3zIYtJRn11K96",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 353181
+    },
+    {
+      "guid": "8bd21874fe654a51b9def6f6558fabf4.1c",
+      "title": "Hardcore Hacker Banner 24 / 36",
+      "image": "https://lh3.googleusercontent.com/G5gKtM3hONw3xy_7KHMP1EjFCuP59QhXvuk7rwr--X54wwMe79QCWOOJh-8VflZG75OH2LIhysAO2DXIc0Q",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 839110
+    },
+    {
+      "guid": "6fb673e4a02c40d882894e9a2109b3e1.1c",
+      "title": "Hardcore Hacker Banner 25 / 36",
+      "image": "https://lh3.googleusercontent.com/uTl2oJixLmEzlEip7JxkPK6pTApPIRdMOmFeE157W3cB6rDneruRTYKHD7VLnptyo9ptRnQYC5qnuINpqIpc",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1027639
+    },
+    {
+      "guid": "b3a5841386444ca78ae54ab163f391f5.1c",
+      "title": "Hardcore Hacker Banner 26 / 36",
+      "image": "https://lh3.googleusercontent.com/oJuzsPG5VKITMkKPFdGnx1Pohna6e8fZEyUoBj5IrO1-cu-ay5ieuvr_8dMVZMIkkACayFGD5ixjHAz3inVA",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 619176
+    },
+    {
+      "guid": "b35013ce6a654989ac43a3f6173a08d6.1c",
+      "title": "Hardcore Hacker Banner 27 / 36",
+      "image": "https://lh3.googleusercontent.com/DQFVt9kEBEFS97ju6iyQVNmL29hj4Djdwc6-Xxf7lLklr14H7hDoi4YyUyWVorSln_RTT16DNzAUvQNVItI",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 747657
+    },
+    {
+      "guid": "81a262321a2d458da3afa077259db0f0.1c",
+      "title": "Hardcore Hacker Banner 28 / 36",
+      "image": "https://lh3.googleusercontent.com/YTODi7LJZFmjq8DTGoBdjjOCR90PJ5ADd41hTKIta2sqKb4_lqHgf9vBwaXW3g6_T31Fz6Avwucae95Y9Wkr",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 495394
+    },
+    {
+      "guid": "e7a6d8ba8a0340a1b5566948ecf12442.1c",
+      "title": "Hardcore Hacker Banner 29 / 36",
+      "image": "https://lh3.googleusercontent.com/IMUShRlUemJwb9oOa2iZyGwfk7miQNcREO8V5UXDeplnFKGysqrbTp6OHKEJF3thcMC-b-xcOzD4pTXQ2pc",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 1192573
+    },
+    {
+      "guid": "bd0553f303f4418ab0fb43ce70778c99.1c",
+      "title": "Hardcore Hacker Banner 30 / 36",
+      "image": "https://lh3.googleusercontent.com/BRY6lBEWzxraG_a4Vfrz7iMYv-a25BcWXgJ3SDNkXHsAov_eGE2mliTqX5lJdTEMy5srmVVp6kELjrl0_hq0dg",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1114894
+    },
+    {
+      "guid": "a27b0a2441f24a8a823d23fcadd4e828.1c",
+      "title": "Hardcore Hacker Banner 31 / 36",
+      "image": "https://lh3.googleusercontent.com/EoOUGpagEnbWoD29S3IwDsmNpCXZGvldgjVbtppXANutFbqSSYCPqxByFWC_azbf2pb2FN4QFKN0yRRmE5I",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1969174
+    },
+    {
+      "guid": "e7c88772b40f49449b9442a75cfc1855.1c",
+      "title": "Hardcore Hacker Banner 32 / 36",
+      "image": "https://lh3.googleusercontent.com/OpucgpiAovYuP5jOJdNlvOLDV2CNI8kWIgsvJTxJFYsCScgTKbkaraOmnFFXB-q-6ljoVJSyLblUk2XX_5Yukw",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 484387
+    },
+    {
+      "guid": "8f978012768643988ee1ff55fee670f6.1c",
+      "title": "Hardcore Hacker Banner 33 / 36",
+      "image": "https://lh3.googleusercontent.com/dNidVzXDlU_lXQsT5yXI_w7Pw_LITSMh3Mzvg39Kwe50G_VhD_cFPLN8vXtCLG7lH4WJwkBX_tZitJJ6cVam",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 368605
+    },
+    {
+      "guid": "631b5325bec346dd90f04b4836d840d3.1c",
+      "title": "Hardcore Hacker Banner 34/36",
+      "image": "https://lh3.googleusercontent.com/QWO-bKULLh2oz_7xok0XEONj0emeJED-Uo9bKrrJ74SOthGSjdndQKcaRlSQZnRa6GJH7whQmtnAEUIexAoJGQ",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1066235
+    },
+    {
+      "guid": "afa4f3631bff4edd87fabf1256306035.1c",
+      "title": "Hardcore Hacker Banner 35 / 36",
+      "image": "https://lh3.googleusercontent.com/ideUFgw332sepPTQpnPvLTaG7J_C1s9OPZNEOkhePyl5oNfqG-US_bvQjroQ9mvICssq3oRSJ84fVRIiwF1a",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 652551
+    },
+    {
+      "guid": "c67fcd10e43c4c1d8306779e5dc6775b.1c",
+      "title": "Hardcore Hacker Banner 36 /36",
+      "image": "https://lh3.googleusercontent.com/8gP3ZyR3zwBkFU-brDXkor1nSBPByb_WAlO3NyFU-zfeIr7pNle07zywYk8XmzrJ1vYu9ehTF0J9f-rzpLkxSA",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 1164815
+    }
+  ]
+}

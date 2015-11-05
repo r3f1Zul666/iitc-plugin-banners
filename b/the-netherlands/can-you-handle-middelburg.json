@@ -1,0 +1,428 @@
+{
+  "name": "Can you Handle Middelburg",
+  "authors": {
+    "ArchAngelCass": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "287f43d23cc449fdbbf87200c861859b.1c",
+      "title": "Can you Handle Middelburg #1 van 60",
+      "image": "https://lh3.googleusercontent.com/MqF-x138VA4Xp4F6iWFzcWwQRFQcKExYAyQPnJIQvOnTnlpeZa1J1VEoVjYRM3uenxcZLPhLbf8FGiWgv4A",
+      "ratingE6": 969231,
+      "medianCompletionTimeMs": 1027456
+    },
+    {
+      "guid": "5013528460474f8fa22d798ca1b1127f.1c",
+      "title": "Can you handle Middelburg #2 van 60",
+      "image": "https://lh3.googleusercontent.com/RrRET3FxhKhvuTgKAr2cmpWOzKRmcL2R-XFhtuffsToDgd1P15gMIzIthW7ghmBV4QgSI7_3IOZXnJ4COoum",
+      "ratingE6": 935484,
+      "medianCompletionTimeMs": 895695
+    },
+    {
+      "guid": "bac062a9de284dc2b9d42c916990773e.1c",
+      "title": "Can you handle Middelburg #3 van 60",
+      "image": "https://lh3.googleusercontent.com/zh4CamtLF5O1uNqIy4XPlYYpO1xV5duh0V4BPgrax6wj2WcrnENIojWhTr00EEPZAokyy-DO8jFBGQ6L6HHA",
+      "ratingE6": 909091,
+      "medianCompletionTimeMs": 542138
+    },
+    {
+      "guid": "4ab6e5e385554528af89046d6836c962.1c",
+      "title": "Can you handle Middelburg #4 van 60",
+      "image": "https://lh3.googleusercontent.com/DrTvh1vWnJl22YdZ7RcT7DOC229PcDgNVVsQ-S49uatBN9Q-OW9rPhDIUB3hHLqAFPm37NDE3TcMjFMGDFycYQ",
+      "ratingE6": 892308,
+      "medianCompletionTimeMs": 1103858
+    },
+    {
+      "guid": "2ede7af8eedd471d97ed97dac59cbae9.1c",
+      "title": "Can you handle Middelburg #5 van 60",
+      "image": "https://lh3.googleusercontent.com/mjV9GPppzAy4HtnL-GYKTT2K6bzjU39ocyTzT5w1Dw278JdxUI3SO-2Jq9b1xcCU9dn07dIMcPSptixZ28Nl",
+      "ratingE6": 939394,
+      "medianCompletionTimeMs": 238451
+    },
+    {
+      "guid": "16c3d771f83844bc9a3dba9ae67981d3.1c",
+      "title": "Can you handle Middelburg #6 van 60",
+      "image": "https://lh3.googleusercontent.com/kIkUN7sd00vOwvrma1iecFRGBJ6Ah6lVKbUCL_ffLAvZwnaqlg2y4GlsQwxclic4wU4dqMJVcX_3QifYI1mY",
+      "ratingE6": 937500,
+      "medianCompletionTimeMs": 893762
+    },
+    {
+      "guid": "5e1815ad837d430ab3bcfe53822eb9a6.1c",
+      "title": "Can you handle Middelburg #7 van 60",
+      "image": "https://lh3.googleusercontent.com/muF-A5hkKs0gYKn7OCb8BV2gaO6r3vWl2NwuHnvtR8yEu0wJuEDnMQSmZylqLUbkz409ts2uQoIp-331PrZ3bA",
+      "ratingE6": 841270,
+      "medianCompletionTimeMs": 1811314
+    },
+    {
+      "guid": "dd3d7ef774324af088d32f5d6f5f8078.1c",
+      "title": "Can you handle Middelburg #8 van 60",
+      "image": "https://lh3.googleusercontent.com/EZDXtlBFk9qOs9qDw1dUXuUChrZe5fflVo8o9J1Vjv99Imamyiehde4FE6PIXamfp9q_hE1iseTrtZFopm5Q3A",
+      "ratingE6": 968254,
+      "medianCompletionTimeMs": 807422
+    },
+    {
+      "guid": "b838e78242ca413d97cc240c4a0dee30.1c",
+      "title": "Can you handle Middelburg #9 van 60",
+      "image": "https://lh3.googleusercontent.com/4-z0oqagsJqtgLGsVqDHeQxLWpzGDPRI9eSGs2MfjIxc0_yb2GLRbk0jffc39-7u4tO3q1coLUBnMcNj0xA",
+      "ratingE6": 885246,
+      "medianCompletionTimeMs": 1013514
+    },
+    {
+      "guid": "fc90b8998951403089c12042f2a8d57d.1c",
+      "title": "Can you handle Middelburg #10 van 60",
+      "image": "https://lh3.googleusercontent.com/4GxTWTHvTxP7SPidfY3RspIlUjXQ1F_s0ChClWizbeGylBgYlkoV1r5ILp3EyQbbm0AR6hRlPhfWcdkSRhoMhw",
+      "ratingE6": 966667,
+      "medianCompletionTimeMs": 495949
+    },
+    {
+      "guid": "c43f52e8bc8649f4a04db0e2598ec306.1c",
+      "title": "Can you handle Middelburg #11 van 60",
+      "image": "https://lh3.googleusercontent.com/66TMtVbIUgG9rD1IReDxXt3hjp0A3wcceGk9t6RazzoBXD7O0z85cIthaPEONwu7jRkK5yw0Yd6WNRmAhzH0",
+      "ratingE6": 983607,
+      "medianCompletionTimeMs": 621229
+    },
+    {
+      "guid": "82cbc84924634244a1d12d76ae5f15fe.1c",
+      "title": "Can you handle Middelburg #12 van 60",
+      "image": "https://lh3.googleusercontent.com/DKng-UXpakbajowg46rwNR-IuKSlRWpEdFFoP3rgdopK2KDqgAh2DvQGBhBO6z9ITlI59ipThwxxMTenFnE",
+      "ratingE6": 966102,
+      "medianCompletionTimeMs": 341902
+    },
+    {
+      "guid": "f100f992b5e8472fa9359aa171beeac5.1c",
+      "title": "Can you handle Middelburg #13 van 60",
+      "image": "https://lh3.googleusercontent.com/S0mN_muoQtV7MmFLeUzabAm3SR32IMEMkUc6pgGqxSPX-k7XHBKqRj0f44fM45xJXYo08aiK_TX5q2HBjGE",
+      "ratingE6": 982456,
+      "medianCompletionTimeMs": 254145
+    },
+    {
+      "guid": "fa47c9c0b5e8427b874b9fd8d8408afb.1c",
+      "title": "Can you handle Middelburg #14 van 60",
+      "image": "https://lh3.googleusercontent.com/6b1zavza1kdTs24R8Jm-ZFF6bF3TKXeeejYgpAEKn_lYl_I7pJPHo5358Sm_GFgInwp-X9-oBAKbzX-C6CdM",
+      "ratingE6": 982759,
+      "medianCompletionTimeMs": 164733
+    },
+    {
+      "guid": "de33133324734bd7bceb181b561ed52b.1c",
+      "title": "Can you handle Middelburg #15 van 60",
+      "image": "https://lh3.googleusercontent.com/R-0dEQumetazQxDnd400sI9fXX_HdvVKePDhY8B1exhtZp_Ewfox_vMRwIXDPbx3wEG8tCeClCmiEOjjg88",
+      "ratingE6": 949153,
+      "medianCompletionTimeMs": 307303
+    },
+    {
+      "guid": "007b165c292e428f81d5d14c3acbc49d.1c",
+      "title": "Can you handle Middelburg #16 van 60",
+      "image": "https://lh3.googleusercontent.com/4w-WTGvFcGtH04S725FU5CWxjG-dKm77nFdTzSzrv8XBVNm_hbLBonkdRvlGlwPh3GDTbHvtbfKw8b1SMOPP",
+      "ratingE6": 947368,
+      "medianCompletionTimeMs": 382408
+    },
+    {
+      "guid": "381f470773514bf7b6aeb7d8d4989def.1c",
+      "title": "Can you handle Middelburg #17 van 60",
+      "image": "https://lh3.googleusercontent.com/4hS2vTPWYBNNCOKZN5ugYgGdoVna6HgLnUKy8d0GbW7XDkDIGHrmHYDJgdlT_fSXFBa381n8NunRIvY-GAGq8g",
+      "ratingE6": 982456,
+      "medianCompletionTimeMs": 729167
+    },
+    {
+      "guid": "d508509b14ae4d0298be553dbf3e6402.1c",
+      "title": "Can you handle Middelburg #18 van 60",
+      "image": "https://lh3.googleusercontent.com/_12WISFIJcbF8RTDzWjQSrl8HZ23zZ_5mCoQ4ZKagBIzrNvx_tkz0mVEmaMebR3b_9iioparqJXrXACyUMu0",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 876323
+    },
+    {
+      "guid": "8ffe80a8b189467799492a1cd76421ee.1c",
+      "title": "Can you handle Middelburg #19 van 60",
+      "image": "https://lh3.googleusercontent.com/v2uzQyd0ht11SD7EPTyzFMf-gHYqb2Dx-fz4Yo470_PmzJyL6muKkB5HuZ3rV_TkcRFX6Y45Ph6RK2rJ1ig",
+      "ratingE6": 928571,
+      "medianCompletionTimeMs": 638122
+    },
+    {
+      "guid": "4980d24781074066967e139db3b1c180.1c",
+      "title": "Can you handle Middelburg #20 van 60",
+      "image": "https://lh3.googleusercontent.com/pSwybTEdjZMiqsQ14y-EIawUtvRltqjEvJFqQhPr7IsWe-qo9XeFcCUJMo_Md1azohnyy268B6tTZmlSf2Or",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 528900
+    },
+    {
+      "guid": "c158f26692ea4315a3218e2bfecd892c.1c",
+      "title": "Can you handle Middelburg #21 van 60",
+      "image": "https://lh3.googleusercontent.com/eHMit1tQJ71UptRd__3-uxMopLU1uVcUnlCSWAFmf57NWeFnwDdfGv9TDLeS2eSWcPJHr5ncaXjYpp4s4B3y",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 634582
+    },
+    {
+      "guid": "6623b3ea40bf4eca91bffee88a0d2abc.1c",
+      "title": "Can you handle Middelburg #22 van 60",
+      "image": "https://lh3.googleusercontent.com/xmOzRx6wkLdo18f4rDobt9e_iUjDUWW0J11bFdFyAlQBP0IxgxC1YelPBUccnie4oAgpuCTVrJGDasPZFhI",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 342103
+    },
+    {
+      "guid": "d7e833f21dab4fabaab97e9fa3f3c80b.1c",
+      "title": "Can you handle Middelburg #23 van 60",
+      "image": "https://lh3.googleusercontent.com/9JAViTLSihBj-696UvReoBMhxnkUZT2P5DQ8SEppGqavcxgIgFbxYuR13tXd2rh-HEnw5ra-u-R4qalYc9E93w",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 220567
+    },
+    {
+      "guid": "915243a4f06a4306b28955c424676353.1c",
+      "title": "Can you handle Middelburg #24 van 60",
+      "image": "https://lh3.googleusercontent.com/ftcANiK_x9geIj1Uja5KSSncLVxt3849GeROUpOLKjNIccgCkrFR3KkxN1d2Zev13_CDfSI8SIm4LN1PmJQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 324109
+    },
+    {
+      "guid": "f69c112e1f634537b5e2dd6b20d5add9.1c",
+      "title": "Can you handle Middelburg #25 van 60",
+      "image": "https://lh3.googleusercontent.com/BkD61QLA3nWkPpMFHayYPn0v__MNlVqIlhamn0c4Z16g1SM64gsnnteNsToitOYG2XhXzXHlcC56wZ0Vj_mh",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 252754
+    },
+    {
+      "guid": "ed29cb0951274211aeb421c8d906742e.1c",
+      "title": "Can you handle Middelburg #26 van 60",
+      "image": "https://lh3.googleusercontent.com/aSwtUsewBipO8hxchWtcQCPU_dtxxMgmpi6VaEqh3yIaf7oVYVDE6rtUNyKbspKEGis278MrlQK7nhsKbBE",
+      "ratingE6": 982759,
+      "medianCompletionTimeMs": 370347
+    },
+    {
+      "guid": "da4e8159ae6d4afb97509993b590666f.1c",
+      "title": "Can you handle Middelburg #27 van 60",
+      "image": "https://lh3.googleusercontent.com/X0V3TLFnNrzFB7bnpsVBySjUpj-Wmly5hOE6_1iO8Jl1TcQyHKy7rDX4LtaFXsscydaNiZ-me2zOwqqcyLrU",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 666618
+    },
+    {
+      "guid": "11116b64b23b437282844543bf55f6e0.1c",
+      "title": "Can you handle Middelburg #28 van 60",
+      "image": "https://lh3.googleusercontent.com/OalsGGwQTgTcdUSfv4eSOVCjCwRgiCz5xnhzxd7W8v5FMZErG4gn5Pp4di2ybGLG8XfIbZMyE2IQZbltfBGn",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 420336
+    },
+    {
+      "guid": "891ee893245c4d31a69db8da8a6e0a53.1c",
+      "title": "Can you handle Middelburg #29 van 60",
+      "image": "https://lh3.googleusercontent.com/XcHC7-t9htNA-UH6w47SHdmfgymEVMz9eGrrSX3opDkEg8xNWAbTwQkOE0t5u96Wbfy9q0KZ0BuydMO74Ftx",
+      "ratingE6": 982143,
+      "medianCompletionTimeMs": 475728
+    },
+    {
+      "guid": "bcacba1495114dd2a512aef24ed802be.1c",
+      "title": "Can you handle Middelburg #30 van 60",
+      "image": "https://lh3.googleusercontent.com/QiFpgCnMvf2J8IhAuzq7OHtwzzGb-m1FLSdayCwPklXWW3bYil7NeORsgD9G-O5GQrib_udBa16Rfs-a4v8UCQ",
+      "ratingE6": 981818,
+      "medianCompletionTimeMs": 231703
+    },
+    {
+      "guid": "6b4f7a24b6044d659b9d351c134f92b8.1c",
+      "title": "Can you handle Middelburg #31 van 60",
+      "image": "https://lh3.googleusercontent.com/PGuYh3-1uB1y74SFTdwil7wJaR8nrNXOCrMeceCTD0D_78fBBvYB_3U_UTb0xZ2zKY3zU8OBOAO_zq0Ur2Qs",
+      "ratingE6": 982143,
+      "medianCompletionTimeMs": 362882
+    },
+    {
+      "guid": "95b3f495e2204d868fc38db852c6958d.1c",
+      "title": "Can you handle Middelburg #32  van 60",
+      "image": "https://lh3.googleusercontent.com/MrFAXrN1GG5BLQ2k7fg94k9Rvqtb3GT8vpi6WTKDoOtY-2wJU5lkrxLQk5iCVxZFhAE5zG__P3Mt17dl_Y2q",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 262672
+    },
+    {
+      "guid": "f9717bafdcce4a5c83c25a0b27c4822e.1c",
+      "title": "Can you handle Middelburg #33 van 60",
+      "image": "https://lh3.googleusercontent.com/khpt-Kt8jZ-CJFvSd-c_TAffoRO3_mXE2t3OdKe0F86n_9fANYMsj4jrrWZORAC0TTvE1UKk64Cpmnrm0eIt",
+      "ratingE6": 981818,
+      "medianCompletionTimeMs": 325681
+    },
+    {
+      "guid": "7fff07ea47c44fefb7998089cec69f3e.1c",
+      "title": "Can you handle Middelburg #34 van 60",
+      "image": "https://lh3.googleusercontent.com/hLA2mPf2QVxb7R7mPR3ZUGGAUoU-rInUe3GF9AueY_iTIYhK3GKPDoTbdPPhvzWsvhA_tZexUO2gDgUGvU5u",
+      "ratingE6": 894737,
+      "medianCompletionTimeMs": 183499
+    },
+    {
+      "guid": "38087a17e8ef4aa3a2d53a71465caa07.1c",
+      "title": "Can you handle Middelburg #35 van 60",
+      "image": "https://lh3.googleusercontent.com/Kln_r9kh38jwkbh_Uo0y0Jdu3xKqRVEtN63kIa4BZ4i8yjMh7EXeVsHrWgytIdXksMj7aA5Ahhef6UYK_Ho",
+      "ratingE6": 929825,
+      "medianCompletionTimeMs": 167986
+    },
+    {
+      "guid": "ff6799accd3d456f876c29de77ac245c.1c",
+      "title": "Can you handle Middelburg #36 van 60",
+      "image": "https://lh3.googleusercontent.com/80GWlMopSx_6sQAjZvoa90M3y6q3z3wVRDHmdpvXwLzvp0d_3uAYmWWfWgbW3eghvQHF8KtGZEmxGxGaQW03",
+      "ratingE6": 965517,
+      "medianCompletionTimeMs": 318202
+    },
+    {
+      "guid": "17eecfd8de684defb55dd0b6f4109ab4.1c",
+      "title": "Can you handle Middelburg #37 van 60",
+      "image": "https://lh3.googleusercontent.com/LeFNmDc_2vbskN_0c2cRu3eTrSgKazzeRwBJIw4-k6bv2li2LhnxgJU9aJgIWGDqUsOAuEvwTM-8xZGjAC0",
+      "ratingE6": 928571,
+      "medianCompletionTimeMs": 218300
+    },
+    {
+      "guid": "2ed70a8e526648c8b611c11e39144b72.1c",
+      "title": "Can you handle Middelburg #38 van 60",
+      "image": "https://lh3.googleusercontent.com/vs_BCzbFvHv7JeWTFTXIvjoRDfGEVZQkWrgLEypsNY7EOJnBdVFv1_69411sc38dSc80heyOWgHsMMhiAVwpIQ",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 150238
+    },
+    {
+      "guid": "b73ab903602c461d914991bfb759c8f4.1c",
+      "title": "Can you handle Middelburg #39 van 60",
+      "image": "https://lh3.googleusercontent.com/Vop_PkqGUiErcVeWj81MUr788-1d4qtbFBLwUMfWxvVIrkzKk5sZhuEQXTqVL5fvIRoLC7_Dr7RoKv1HGnZcfA",
+      "ratingE6": 946429,
+      "medianCompletionTimeMs": 157995
+    },
+    {
+      "guid": "a5b4e73f4e444842ab6a518c672f9f4a.1c",
+      "title": "Can you handle Middelburg #40 van 60",
+      "image": "https://lh3.googleusercontent.com/yBxN9ZYB38BWqaj5jJWvf2VbREKlWBuYJsnYemXMjT076uu7FmT4HRA2jaj6ABs5eYhoLuKCwLJfiykBaLnP",
+      "ratingE6": 981818,
+      "medianCompletionTimeMs": 248428
+    },
+    {
+      "guid": "c14b0439240849e79d21f074f688686e.1c",
+      "title": "Can you handle Middelburg #41 van 60",
+      "image": "https://lh3.googleusercontent.com/SD5ZzgHch40ZygnnzRt6B53RCFs6pMVlVqpddPw1zU5J6IldNc8rnwSGex5RhWuWD9fEw5lX_ghb7tQWOzcR",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 233973
+    },
+    {
+      "guid": "f1f172628c044a6a991f3e0f585dbf8a.1c",
+      "title": "Can you handle Middelburg #42 van 60",
+      "image": "https://lh3.googleusercontent.com/BYr1W35FPIGVykBKKRNtACaxQdgMBdyfRj_UjU1NzZ2qNB-UkRBQa7k_jTpH5__lKtzYg1cXr2L9tcHiAUUZ8A",
+      "ratingE6": 964912,
+      "medianCompletionTimeMs": 210135
+    },
+    {
+      "guid": "76ec8f9ab77144d79be41c8b027e05ed.1c",
+      "title": "Can you handle Middelburg #43 van 60",
+      "image": "https://lh3.googleusercontent.com/_erwzwzMkxvqsxbiK_3MRACxVzr9YuuLuHz_rGMAfyhq1vOCSl1-Xgc0iT3P6iJwoBT3vd7J9sGKUW920B8",
+      "ratingE6": 947368,
+      "medianCompletionTimeMs": 197688
+    },
+    {
+      "guid": "eaf48ea848524dfda7e32263c1774001.1c",
+      "title": "Can you handle Middelburg #44 van 60",
+      "image": "https://lh3.googleusercontent.com/3IPrWoXZvMKT-YsIvTvN8LSKtqJs4f8Hd74pvff1qx9Sfly1Cn0jXFEFA-zlsp10CtjquThZkXjFQhJ3KsM7",
+      "ratingE6": 982456,
+      "medianCompletionTimeMs": 223530
+    },
+    {
+      "guid": "96c02a6e20aa481e88e2c3f7f2499d16.1c",
+      "title": "Can you handle Middelburg #45 van 60",
+      "image": "https://lh3.googleusercontent.com/aGcuU0hexWGgD6qHM0yFRtxZCp_ljzreUBcNo6ayGPQnp2bfGMRgsybHZ5gXcvJGXtAK5BP7jhtNv0UoJOCo",
+      "ratingE6": 945455,
+      "medianCompletionTimeMs": 364213
+    },
+    {
+      "guid": "ef8ef41fab9242bbbcc262e6f8ddfc28.1c",
+      "title": "Can you handle Middelburg #46 van 60",
+      "image": "https://lh3.googleusercontent.com/Kav83SLr1hv2O300sf6RzX5Yr1jiK4_w5sgjI8fU-rTku085SsjkvjqbvEA8Cm7SFVs3THF6qbYcDKgP9wQ",
+      "ratingE6": 945455,
+      "medianCompletionTimeMs": 356162
+    },
+    {
+      "guid": "b7f17b8997b9417f8e13ceaac98b6da7.1c",
+      "title": "Can you handle Middelburg #47 van 60",
+      "image": "https://lh3.googleusercontent.com/x6aTlR_Y4HuWqXL2J1HC30R2tOmUWlOWWTykdMq7BhlNO_3TMZPKVboUkyp9TtSsCEBVx7gVx17QBHdiVUWm",
+      "ratingE6": 910714,
+      "medianCompletionTimeMs": 305945
+    },
+    {
+      "guid": "cfffff48eda548f6a082802ffc1f7567.1c",
+      "title": "Can you handle Middelburg #48 van 60",
+      "image": "https://lh3.googleusercontent.com/fHxCAgn_Zr7vip6woYABjHYv13sv4TcKdnSX3miGjKynh0rW2Y0MPp23L3pExws-FNfHj-5om7m5ibJVTZJVnQ",
+      "ratingE6": 946429,
+      "medianCompletionTimeMs": 518471
+    },
+    {
+      "guid": "b8871d2f26f44e268070e2dfa6247aa2.1c",
+      "title": "Can you handle Middelburg #49 van 60",
+      "image": "https://lh3.googleusercontent.com/z8SqeXlQjlTFZAVt2HbB1U-eHtZ-gwi8R0zPa0Siw52kX0LvprWsoMUSrsabWEjsGi_Vpc0yoI7YYFW_t96b",
+      "ratingE6": 945455,
+      "medianCompletionTimeMs": 311257
+    },
+    {
+      "guid": "823c671ea4f04acaa5db617641fac14d.1c",
+      "title": "Can you handle Middelburg #50 van 60",
+      "image": "https://lh3.googleusercontent.com/0MlX2DqHvanKe2ZcNxZ4-wSliRiLkMYq_o-CP7QFidDClaSwh88QBcYdChWGSoZOzn0L0JkAjIFynsVIvnY",
+      "ratingE6": 982456,
+      "medianCompletionTimeMs": 265596
+    },
+    {
+      "guid": "696a10080bbc454290b44e8d28409153.1c",
+      "title": "Can you handle Middelburg #51 van 60",
+      "image": "https://lh3.googleusercontent.com/64e5wrOwYChgfkLECYy6SJjNrHuFvvq39gNHvMNOBZSBxSDuqXbThzQnvio_EDN6ENbGYYRIK2_gDVR8TGzzsg",
+      "ratingE6": 982143,
+      "medianCompletionTimeMs": 212014
+    },
+    {
+      "guid": "334cec6fac17469780003e51c7ecf256.1c",
+      "title": "Can you handle Middelburg #52 van 60",
+      "image": "https://lh3.googleusercontent.com/d3Sucd6JI6VJeXMkuZoliYT7ZZRhueSG1iMLwueSEB7aDZ7IkNm5Ld-oonee3yoBGjHxfFNyDdV11P7NR4z5zQ",
+      "ratingE6": 964286,
+      "medianCompletionTimeMs": 238680
+    },
+    {
+      "guid": "8765a6a02b7c4ad1ab239b92848eab08.1c",
+      "title": "Can you handle Middelburg #53 van 60",
+      "image": "https://lh3.googleusercontent.com/kBY6XeBtQ_hYhaxQNUNKpf5aBFQLZOLcjTq9rk5t6gQ4Tb9bMdIdEH7Xjrd8sem8FSXy25TriytozcrveQFvww",
+      "ratingE6": 945455,
+      "medianCompletionTimeMs": 146856
+    },
+    {
+      "guid": "52534bd561444909b47809c1135d538d.1c",
+      "title": "Can you handle Middelburg #54 van 60",
+      "image": "https://lh3.googleusercontent.com/RIJVFnTMc9lF6ANczROpmTlRbFxyOdEX-BguQOEV8cAP7YT828KrEwaDRls0BGZF672C0ighF8zJ_C2mXGYC",
+      "ratingE6": 982456,
+      "medianCompletionTimeMs": 145841
+    },
+    {
+      "guid": "4369a904b66c4ae5a91e4f9db5e96902.1c",
+      "title": "Can you handle Middelburg #55 van 60",
+      "image": "https://lh3.googleusercontent.com/Np4NiG5kk0LK-WQinh923wd4YNzUmR9Uk7lTjg9U7XReyxSLh7EarVacyGEy5i80lrPdplcnKGaQ9E2-deDDCA",
+      "ratingE6": 927273,
+      "medianCompletionTimeMs": 217303
+    },
+    {
+      "guid": "c5a3b88a7a394602a536e1ce30a7972c.1c",
+      "title": "Can you handle Middelburg #56 van 60",
+      "image": "https://lh3.googleusercontent.com/T5A4IAhPYfu8kyb69K6oCW-a5trV0YiAzGNsmL-41kmxaMYKM0GcJVE9bVyeeCJEAuyIZhgdqazgTV_-X_2lTw",
+      "ratingE6": 928571,
+      "medianCompletionTimeMs": 221722
+    },
+    {
+      "guid": "e6d0893d32744c8ab3fbff57fa484e99.1c",
+      "title": "Can you Handle Middelburg #57 van 60",
+      "image": "https://lh3.googleusercontent.com/ej-fWleYgpUdsOQ9tZ8h5KNeu5PtxwfFqxYRLmOrltMHzBcN161OP7FKJ2YClDIoCAwsytk7l_-ztYrrfizc",
+      "ratingE6": 928571,
+      "medianCompletionTimeMs": 197101
+    },
+    {
+      "guid": "fef3ba1b3cf646f0b77fb0a1975f1b21.1c",
+      "title": "Can you handle Middelburg #58 van 60",
+      "image": "https://lh3.googleusercontent.com/Vh8-2R5dtpTp5txoxxNi2NIpB1zbQF59Mdw_pXutzESKIPBuTSOxY2GvQ4uMzloiHqSvYHF28Msh1tjXphfb",
+      "ratingE6": 929825,
+      "medianCompletionTimeMs": 146980
+    },
+    {
+      "guid": "63f9fd85794f4b8f96bb829556da7f38.1c",
+      "title": "Can you handle Middelburg #59 van 60",
+      "image": "https://lh3.googleusercontent.com/LlzRZ15DiS2NL15H-gC7TTxYJ-3dfgqvt2RiYQzbTT3TBRNpLe9ZcPr4KNJoOYH7Vrb5RdrunghPhjA6XOCE",
+      "ratingE6": 910714,
+      "medianCompletionTimeMs": 608119
+    },
+    {
+      "guid": "14cb165fda4746f99c5c3ce8f4d18993.1c",
+      "title": "Can you handle Middelburg #60 van 60",
+      "image": "https://lh3.googleusercontent.com/51WZEXGMZZBmx9o_BGfKEwFYLAz5Ckcl7gWOSEFuv-s7TIGc2K2ayKds0lEcarlB2zqoBfHgQhOcRximWoBF",
+      "ratingE6": 859649,
+      "medianCompletionTimeMs": 473519
+    }
+  ]
+}

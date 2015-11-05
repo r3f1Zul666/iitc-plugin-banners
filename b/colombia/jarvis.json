@@ -1,0 +1,50 @@
+{
+  "name": "jarvis",
+  "authors": {
+    "Darkfields": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "d10dd373da654842bf591c41669c5563.1c",
+      "title": "jarvis 1",
+      "image": "https://lh3.googleusercontent.com/bweF-ba2IU2McY7hPZaEFIOFg34qu5tONFWrkB2_hjjJp4yzwf2BZGWbLqvQg1jnH2s-BlpOyXk_P6mcOUGi",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 695108
+    },
+    {
+      "guid": "9c67714ce5e44548817f4f717647c479.1c",
+      "title": "jarvis2",
+      "image": "https://lh3.googleusercontent.com/ttJsipRVdfLDKNPX71EAVH-nixG-gOVyEYd9wydW1arSLtxjCgONY4fiS2CBJ2GMIVE2TTZDygiuFfljt54x",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 785851
+    },
+    {
+      "guid": "3a29fe23ed0a467cb6bd67fd467ea679.1c",
+      "title": "jarvis 3",
+      "image": "https://lh3.googleusercontent.com/DfDPyohhYaUDd_Wm-bMvQICj64G0Ofs9mzfQBGh7D8_HSj6ZdOH2XDSgoy1kO0GIym2Z2hDTeHMtO4saX9dWvw",
+      "ratingE6": 777778,
+      "medianCompletionTimeMs": 794923
+    },
+    {
+      "guid": "73c6844d42264ea6ad13fee39e34adbf.1c",
+      "title": "jarvis 4",
+      "image": "https://lh3.googleusercontent.com/yZ62TRun0QKTbFMWa99yWtzcgs6IbyiWldqOzSL3VhtE1BcoHvtTOWN6sExOGnRo8EeXxDoYwXeqJROY5DbA",
+      "ratingE6": 818182,
+      "medianCompletionTimeMs": 531309
+    },
+    {
+      "guid": "93c3d5fa83324dc6bdef35c2b46d3a5f.1c",
+      "title": "jarvis 5",
+      "image": "https://lh3.googleusercontent.com/Pe-mJKmVPqYT3tn5rzQBym-VzzyZZ08MrgUnAyPtOVJoSzSbcv_VbBhRFMg1q0_jGVZihr6uADN-MrSh79eL",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 556942
+    },
+    {
+      "guid": "b4ff9f9efc884943b02244368b4da148.1c",
+      "title": "jarvis 6",
+      "image": "https://lh3.googleusercontent.com/YL_ROVXp9LcHl67d3KlvYrE3RQdHfnZ3S0_olXFcdzaR6oPc7qMCiyoBIM4R7KRFoxDYPRRmPYTKLAwPT6ZMQQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 709189
+    }
+  ]
+}

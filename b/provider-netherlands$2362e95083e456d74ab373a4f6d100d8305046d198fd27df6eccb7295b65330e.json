@@ -1,0 +1,13 @@
+{
+  "banners": {
+    "the-netherlands/discover-vlissingen": {
+      "length": 18, 
+      "sha256": "d1301f5ef51077196ab495bf8fee6d1f4d418d5558a615f72e80d0188b9a4bfe", 
+      "name": "Discover Vlissingen", 
+      "authors": {
+        "deBoskabouter": "Enlightened"
+      }
+    }
+  }, 
+  "name": "The Netherlands"
+}

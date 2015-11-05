@@ -1,4 +1,6 @@
 {
   "name": "The Netherlands",
-  "banners": {}
+  "banners": {
+  	"the-netherlands/discover-vlissingen": {},
+  }
 }

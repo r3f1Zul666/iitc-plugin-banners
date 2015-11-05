@@ -1,0 +1,253 @@
+{
+  "name": "kermit",
+  "authors": {
+    "Darkfields": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "b960c420bb304ceb8ca1c6eb3d8e7abc.1c",
+      "title": "kermit 1/36",
+      "image": "https://lh3.googleusercontent.com/ZpgmcFhG9on3IiKttOy1QcZQL7FO9nSIuM2EMKz6bMF73tYH2ldzOCLzkCy8PInF48YLyNh5TkzmZZNqFs2MNA",
+      "ratingE6": 958333,
+      "medianCompletionTimeMs": 1351730
+    },
+    {
+      "guid": "fea8aa3e3b9a43b0ab1d57cc10684689.1c",
+      "title": "kermit 2/36",
+      "image": "https://lh3.googleusercontent.com/9IGcX_HwJtyRSv8shPScEApwwzhH8aEiYxCNfi_tz6VCuAjoCk_x9A0W4ubnShJb737rYQqdJCqqrfHm8nou",
+      "ratingE6": 961538,
+      "medianCompletionTimeMs": 990920
+    },
+    {
+      "guid": "b4e1bc9d1daf41e0a19e760d8b00b6eb.1c",
+      "title": "kermit 3/36",
+      "image": "https://lh3.googleusercontent.com/O4j74cNEX7VCoPqNqGrCe4fy1EkDh0QkS-SjYf-Vq6iT1-lJCrL3cRKiPDt6gkD4b88A7EO33jMLjOVECfXw",
+      "ratingE6": 896552,
+      "medianCompletionTimeMs": 1494125
+    },
+    {
+      "guid": "02ff31b054f849139ea78e5017971383.1c",
+      "title": "kermit 4/36",
+      "image": "https://lh3.googleusercontent.com/oR--T0RJvYRMIm7ubt6kBRGT-uNTAqSvgZZ74TWyKBtC8EUIRPtXCU9xwsolEVvqCinClYQ1IWaz8N-Tbyr1",
+      "ratingE6": 960000,
+      "medianCompletionTimeMs": 668845
+    },
+    {
+      "guid": "5d7a9a37f8874641ad611bb6dc6324cc.1c",
+      "title": "kermit 5/36",
+      "image": "https://lh3.googleusercontent.com/eR8In8mICmJZMTMjdWoJ-cj5ZbSmCykQIpB4234MQHuzm8HsiZvaLzNBfL1Ck76CmBcRKAAgawHFQCPDwP4",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 605228
+    },
+    {
+      "guid": "2c039c8ef0e94d5eb846c39d08740956.1c",
+      "title": "kermit 6/36",
+      "image": "https://lh3.googleusercontent.com/RDXAmk_QVBjgQrsVLVANdRGiRhyHm3YZ-HOko9xc824zN4-B5x2I-5l4arPKgVPWarKeVHRFX3d4GiDTYFmo",
+      "ratingE6": 961538,
+      "medianCompletionTimeMs": 904302
+    },
+    {
+      "guid": "aa674789153e4ae2a4154aa87cdc04fa.1c",
+      "title": "kermit 7/36",
+      "image": "https://lh3.googleusercontent.com/jiRyCqiZVef_vwreDxiLaxeF_sHy83dHBYz1AfP6oI3sLT1aGMIExcyekvJPJaNqwt5MVnMaLpxiJ8trNsJh",
+      "ratingE6": 956522,
+      "medianCompletionTimeMs": 756900
+    },
+    {
+      "guid": "7d4595d7a4f3400bb697bb22e2417cd9.1c",
+      "title": "kermit 8/36",
+      "image": "https://lh3.googleusercontent.com/3k4vxG26fe5dqY1r-VGXRvtVB0G_2Eq2cNVCltXsk5M9_gGKe_N8fIajUSZU7czEBDe-yOBofqfcD7CZ1Rw",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 561674
+    },
+    {
+      "guid": "564fdb2ef1a7402db935f541ff183415.1c",
+      "title": "kermit 9/36",
+      "image": "https://lh3.googleusercontent.com/_yPeBj16znNChKkCC15zU_1YP8CtEJmLGIxnUdct1ukcS6Rm6GEzUSfJsCh16OMSnfeRJ-tM8IvIkZ_0sje7WQ",
+      "ratingE6": 956522,
+      "medianCompletionTimeMs": 641647
+    },
+    {
+      "guid": "6ad550f6ccdc4d058e43c01893f6e065.1c",
+      "title": "kermit 10/36",
+      "image": "https://lh3.googleusercontent.com/u2RssYWQmrQyH5fzDYabL9Wm8ohtJGVxEp3UNUgezKO4stZmJBCWPVznCeOWmMdgyJXm4OFTam6UxlXarqZs8Q",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 754768
+    },
+    {
+      "guid": "f9a8b8f945804888821fb8811c8aa019.1c",
+      "title": "kermit 11/36",
+      "image": "https://lh3.googleusercontent.com/5ocOiE-J0Evm3pdx6F6RtI-W1o8slpMP7O-iKdX807lCbOmWHX8SRoBvuEp9CWCAS29F6Izjgw1_VJmY5P0Oog",
+      "ratingE6": 916667,
+      "medianCompletionTimeMs": 457496
+    },
+    {
+      "guid": "df23ca7e6ef44f8589007a1dac8bc239.1c",
+      "title": "kermit 12/36",
+      "image": "https://lh3.googleusercontent.com/d-zwev4vweDxjquGSTQHqiZs1WZbNb7K_ZaPt0byLdyQhAw0_PxV_Qh-uXGKeS60ZiRbskhwLAbo42krldZb",
+      "ratingE6": 956522,
+      "medianCompletionTimeMs": 486910
+    },
+    {
+      "guid": "1f464acd67d74f2ead4e67860d45bd29.1c",
+      "title": "kermit 13/36",
+      "image": "https://lh3.googleusercontent.com/WuM2f2cP-ZIM-sHF4JAgeDpTW27zgj9zEBizrx-qZeLw87GGixWcSisaYST4Yc3VB6JQiS94mnNJm7kRIn3kZg",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 371925
+    },
+    {
+      "guid": "ed922320569143d0a3dd7708dbc29446.1c",
+      "title": "kermit 14/36",
+      "image": "https://lh3.googleusercontent.com/zbphXGabhJUqWfgqSNwEQNOlaucN-lW4ET573eqAzCCPaH5I_ZAFj8gR_4J3rvKccuRyGOBMoyAL6ZD4jsGt",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 398683
+    },
+    {
+      "guid": "f276f27cb0784c7a919882f92f1f6747.1c",
+      "title": "kermit 15/36",
+      "image": "https://lh3.googleusercontent.com/sJPLtSC0WzZZbesJO_AxjzYe6H8Rc1sWNTl_-dt_CVNIrGOQ-wlI_2aR_Q52c-nUjM3rOk5JgWY3cPMFrfjD",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 306285
+    },
+    {
+      "guid": "fc959e3d2a7d4b479371bffbbd3dd513.1c",
+      "title": "kermit 16/36",
+      "image": "https://lh3.googleusercontent.com/9kuv5E-1MhOqx7AbMW5SIfh45LmNsZUe-ErsQx6DZmlUfhh94lnfkApyKLVrGhTlpARTFGckB8ThDC7nbWmM",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 206304
+    },
+    {
+      "guid": "d24ff39fa2fd4cfc8c9a2bf52b6eb325.1c",
+      "title": "kermit 17/36",
+      "image": "https://lh3.googleusercontent.com/JO6uaEZEKZs9ghDSWCvUQe64bDIaNIJQAYA84c33yoSeoXAcLNMUmLd5GipgRFglA30W37mpAIJeZq8It8V6ZQ",
+      "ratingE6": 950000,
+      "medianCompletionTimeMs": 171340
+    },
+    {
+      "guid": "cc4d1f1d4adf4d8eb6e5214ab1b043a0.1c",
+      "title": "kermit 19/36",
+      "image": "https://lh3.googleusercontent.com/anTH3HCQ5hFzev6OB6VzgmhSzp7IENAUHrEiGaxh260omvxh5tYtbaMu-lGN4bCgl0ECrYcOj1QGs4_sQxY",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 294961
+    },
+    {
+      "guid": "f41fa5d7ef0144b1a9887b42ccefea25.1c",
+      "title": "kermit 20/36",
+      "image": "https://lh3.googleusercontent.com/R3mk2YXA4GfjajlhHiuF13Ve8HqWDvEMwvyTJ9wZ8KGr3CPZ7PbwgL-U4MuyiUl9Pn5KairkxvtovBp1rRc",
+      "ratingE6": 954545,
+      "medianCompletionTimeMs": 315672
+    },
+    {
+      "guid": "171414642c8942f98a32f0742ce90ec8.1c",
+      "title": "kermit 21/36",
+      "image": "https://lh3.googleusercontent.com/uq1R2DhYPQQBS0mPb44DKsW4xQPcfNpQha8nTTLkWdbrBxc7XLntqGHmjg2oA1Q22z_DsqRdHWGQhqc7LKSY",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 600765
+    },
+    {
+      "guid": "781e8d429607484ab3197403c9fd641e.1c",
+      "title": "kermit 22/36",
+      "image": "https://lh3.googleusercontent.com/evVCJae0ueky-dNX1PbsvoJQ8FtSvHjXMfZUlWgboKIH0nL_e2NU8fE0qO6_gUHp8JLKDeOZNlt2rvSZQEsC",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 273391
+    },
+    {
+      "guid": "d731cd9bfa934f0ca0d3ff46e3c0e67e.1c",
+      "title": "kermit 23/36",
+      "image": "https://lh3.googleusercontent.com/jxNcPXqCkOn0joIb_XlgyY9KaxcaLmQSrDrmvg-nJ4AYc04fesvcyGHV72juOfy1oYFEHZ4zZV8HyfmfxO7N",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 224177
+    },
+    {
+      "guid": "9944191010d54b96bfe885a77e3e544e.1c",
+      "title": "kermit 24/36",
+      "image": "https://lh3.googleusercontent.com/xlBF-7AUvOFZNZ6MMGbuRYPiCf567koAHnlJqQjiKP0F9QCQmWVac8Pq8apIjMiby_EDQTMWxb11QWW-mEsC",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 207708
+    },
+    {
+      "guid": "ebf579c6c04b4531ab034a3cb54ead66.1c",
+      "title": "kermit 25/36",
+      "image": "https://lh3.googleusercontent.com/KItFEW30Dz5liVJ_mVUgDk-epYG0MVgkFE9dikqHW7okcPT8JeetvjEwD_w3Ba2jFJhmbeEra3e7KX7doDmZGw",
+      "ratingE6": 944444,
+      "medianCompletionTimeMs": 349513
+    },
+    {
+      "guid": "f04d0f0e45324207a37927fa46debe18.1c",
+      "title": "kermit 26/36",
+      "image": "https://lh3.googleusercontent.com/KeHg5kuIrt-YjGdGzdJaL8lFFojb7xvVNPxl73ZgiIoL3K8g-Ui_DHFGeHxHS81RuZxmtgb7Bky9D-mjrEHh",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 160080
+    },
+    {
+      "guid": "084c873f4d564a73ad6299d2fc0f4da1.1c",
+      "title": "kermit 27/36",
+      "image": "https://lh3.googleusercontent.com/mn0MfBKhhN7VW5wnjdJWUdEkVC1RMQvui8e-6HNTG_7FPz1c3RhcGLIGEFvZhdvXsOtNx3Sng4Y66FYCAcWlCQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 207914
+    },
+    {
+      "guid": "555f0271a9e04ce69ed0e33ad6a34779.1c",
+      "title": "kermit 28/36",
+      "image": "https://lh3.googleusercontent.com/yYwaHegZ6-vJ6EAJbZzi_3rKm8EKWx8OmEvbs6XxeH8z8w23K9tmzdbEdCdHDOr_LrlhRka_FK51FDE37qTj",
+      "ratingE6": 944444,
+      "medianCompletionTimeMs": 201702
+    },
+    {
+      "guid": "6d639fc3561e4a91a929ea5a6bc8f5a4.1c",
+      "title": "kermit 29/36",
+      "image": "https://lh3.googleusercontent.com/KwkwqnYRqrW4MrMt6u2c6XEyo8cdpOd9Y5lRA4CaqZ1-Um4fEM55dNGb3MLTg-_w1doHerrF_dggIgvgTND7",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 248207
+    },
+    {
+      "guid": "7e844ae81b394c5a8e4e832b5f0c471f.1c",
+      "title": "kermit 30/36",
+      "image": "https://lh3.googleusercontent.com/Durxpih2i2z46aKiejIuD6z73ZGHDDBSiFJ1XAbg414KV5PejaE5Q0vJYFBQwQyKkvojyHrNNvk-ZbxmZoTL",
+      "ratingE6": 944444,
+      "medianCompletionTimeMs": 281836
+    },
+    {
+      "guid": "53e67d05924a4d599bdea07ca82cb935.1c",
+      "title": "kermit 31/36",
+      "image": "https://lh3.googleusercontent.com/Of0x6HIaETag-PwDHdaCAvp7YzdYm6YljkVtyY02M5uZZdXOLYMSI3HV3PmxkSmEuFwXgJyu1vAx89lh8Cg",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 238129
+    },
+    {
+      "guid": "be3004df5c0d4f1294fea9635733228c.1c",
+      "title": "kermit 32/36",
+      "image": "https://lh3.googleusercontent.com/QyxRAvR7pq0tadTgEzR0btkVnLloaNrluSvrO1MeAuF9oSaujLksdYXlZepQ6yJx6CclqMre7DdJq-8s8Qe3",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 321989
+    },
+    {
+      "guid": "e5d24a65756e4219970ccc86095b37b4.1c",
+      "title": "kermit 33/36",
+      "image": "https://lh3.googleusercontent.com/bzq4fcEW9g5XSOANKq2_WGpYcgHkscsHNUIOCsiEjWlYuorAY0IHoHWXg4dq4xFDPcLdvdActCUAzaib5LbZog",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 197753
+    },
+    {
+      "guid": "3ab9e5a3c0674c6b8c4d5f18e711702c.1c",
+      "title": "kermit 34/36",
+      "image": "https://lh3.googleusercontent.com/xMLVFkxazLGuLW2fDoyYx3FD2cupslRLvGQwv0g2a5Uqalp9W8fxdxN0jmPzELLM_t4XE8ba3GaFM0xDFuUL",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 273976
+    },
+    {
+      "guid": "6aa4de85d35e4aa7a8596ecc626f9dde.1c",
+      "title": "kermit 35/36",
+      "image": "https://lh3.googleusercontent.com/1KpYz7qMyZyakWwmA1zH4XQKfTrSlJIW2JmLt_bik-NwVJ_rXnVIRVuufI3KkYOjmO40qUSyVFO0o2nLfEoi6A",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 292654
+    },
+    {
+      "guid": "aa54ff4d58bb447780a0d055a2b13b7c.1c",
+      "title": "kermit 36/36",
+      "image": "https://lh3.googleusercontent.com/QgezxomzKorqtb77Hm3SVlLjArosXIs-_cGcis76bdKS-3YtjNs8Z1EPmYHn8YMnd77UCJGeCeTs9WlW0bmx",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 310820
+    }
+  ]
+}

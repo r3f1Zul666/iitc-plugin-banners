@@ -1,0 +1,50 @@
+{
+  "name": "Oostkapelle Banner",
+  "authors": {
+    "WolfOfTheDeath": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "23036027968d45838d8b6048b55c33d2.1c",
+      "title": "Oostkapelle Banner 1",
+      "image": "https://lh3.googleusercontent.com/9DnXyoCzEFm-tuady7RIrL-bByy-JrRwvgnJXpR-75ZL-T4vpmfFJJssVbX2SKagP_ZgEXPGUntGE1aro4Uw",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1309166
+    },
+    {
+      "guid": "372896d8d545496abcc491c5a4ae4455.1c",
+      "title": "Oostkapelle Banner 2",
+      "image": "https://lh3.googleusercontent.com/LM8NPvElcPPdcU0VIhUs4p8gm26h7NPnpUmnJl79jwuR1m35QmXNgerBhx82q_AlwD17Nc3_1nlTsqEDY3Fs",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2395931
+    },
+    {
+      "guid": "80a1eabb60174d239f66a59ed2718485.1c",
+      "title": "Oostkapelle Banner 3",
+      "image": "https://lh3.googleusercontent.com/FsMYe8f8LzvpCpKP3Bfk8z7zxWwOV_Q-i4atNuAHISN7OszpltTmIVc2xkzzWZj8hQ0Q7kq9JSO8F9vmCyOosQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1241313
+    },
+    {
+      "guid": "30f3dc95213646398603e5f23adab72d.1c",
+      "title": "Oostkapelle Banner 4",
+      "image": "https://lh3.googleusercontent.com/-Df3Kvd4QYZ3JE3NOV4S3hUwDHiAj7jAZMFqfiHAnxJi3hm5CcHcEzIyNyp8nbMwqQUxmgCo59aot41LhWZrXA",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 577227
+    },
+    {
+      "guid": "b190ae0f285648c9a4476258b9140c2b.1c",
+      "title": "Oostkapelle Banner 5",
+      "image": "https://lh3.googleusercontent.com/g0pOpWZkj0wPZgruwNVzbb7O1Y41LH4DuoV07W-ZlnyDyoFRXs7iRXqHRGgcTK4dTKjd53JZEuo8oS6y-LJp",
+      "ratingE6": 777778,
+      "medianCompletionTimeMs": 3341660
+    },
+    {
+      "guid": "37a18f4aba5c4748ab2098741bfe5111.1c",
+      "title": "Oostkapelle Banner 6",
+      "image": "https://lh3.googleusercontent.com/ST6-10NHK-ZFWhkORoNnlOKVoaUsiPHkvHcLopSWQyFIid13V-UQI2c7F9ylG5fid-5XGzRf9slIFDbjuO27uA",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 1332030
+    }
+  ]
+}

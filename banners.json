@@ -5,6 +5,11 @@
       "sha256": "f7c04a3cdf3ac3cfe40e7d280f998058b5d170774c2ed1ce96c3c61bffa8989e", 
       "name": "Europe"
     }, 
+    "provider-america": {
+      "length": 1, 
+      "sha256": "d2323c8397d666bc40282a649d75442a462f4c79fa4740cd764ba387fe7a4c8a", 
+      "name": "Am\u00e9rica"
+    }, 
     "provider-asia": {
       "length": 1, 
       "sha256": "425365e66876dcc373aa88d85218dec1f1def6b93ed459292eae7cdf6056d003", 

@@ -1,0 +1,13 @@
+{
+  "banners": {
+    "colombia/kermit": {
+      "length": 35, 
+      "sha256": "08bead2df46c5621596ac55f3a84afd1fa6f72fcbe74544839e7a1b12a33bbae", 
+      "name": "kermit", 
+      "authors": {
+        "Darkfields": "Enlightened"
+      }
+    }
+  }, 
+  "name": "Colombia"
+}

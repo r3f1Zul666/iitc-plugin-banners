@@ -1,0 +1,10 @@
+{
+  "name": "Am\u00e9rica", 
+  "providers": {
+    "provider-colombia": {
+      "length": 1, 
+      "sha256": "9cde8471f5657889f9fd539b6c9566873cb779f6a1def43ad18a44bf1888548d", 
+      "name": "Colombia"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Brugge ENL",
+  "authors": {
+    "TheBrugseZot": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "39b18c046f8b4e2fab77bcab5f9f1347.1c",
+      "title": "Brugge ENL part 1/3",
+      "image": "https://lh3.googleusercontent.com/L8oGbDE4pg-C-ek90UPp2oEb6d5pDBL6LvK9x1JnHeUZowC-MWUn4wcWTnKtP062h5hFl7vXqRaPdGddaVqm",
+      "ratingE6": 867925,
+      "medianCompletionTimeMs": 869415
+    },
+    {
+      "guid": "ab6c55a7a53b4c519d7747b4a9e49ca8.1c",
+      "title": "Brugge ENL part 2/3",
+      "image": "https://lh3.googleusercontent.com/CElBpFdJQrZptJPx4eD-_nHFrsataj0Yj5vsyaTxtwLXcBnFmbfECnKXoXxjM-RGViboFoCXZRjcj75xz-Xf",
+      "ratingE6": 860000,
+      "medianCompletionTimeMs": 444351
+    },
+    {
+      "guid": "d60dfc668e21456790ed5742ea07d0af.1c",
+      "title": "Brugge ENL part 3/3",
+      "image": "https://lh3.googleusercontent.com/VM8hwFFxd5DsmZgsjtsGBgn7-tP7r9tGoh8GInQNMTAvgUeWMV7Sikp1doYe-Lvjth9jYAZpi2NcIjHtgAg2",
+      "ratingE6": 895833,
+      "medianCompletionTimeMs": 455740
+    }
+  ]
+}

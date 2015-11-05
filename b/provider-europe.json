@@ -1,9 +1,7 @@
 {
-    "name": "Europe",
-    "providers":{
-        "provider-belgium":{
-        },
-        "provider-netherlands":{
-        }
-    }
+  "name": "Europe",
+  "providers": {
+    "provider-belgium": {},
+    "provider-netherlands": {}
+  }
 }

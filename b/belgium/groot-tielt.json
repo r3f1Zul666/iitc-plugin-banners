@@ -1,8 +1,9 @@
 {
-   "name": "Groot Tielt",
-   "authorNickname": "biazzi",
-   "authorFaction": "Resistance",
-   "missions": [
+  "name": "Groot Tielt",
+  "authors": {
+    "biazzi": "Resistance"
+  },
+  "missions": [
     {
       "guid": "09ca4ec6cfde406d8738ce31d31e5a57.1c",
       "title": "Groot Tielt 1/30",

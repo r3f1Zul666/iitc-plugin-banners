@@ -215,10 +215,18 @@ window.plugin.banners = {
                 sumMedianCompletionTimeMs += mission.medianCompletionTimeMs;
             }
         }
-
-        var author = container.appendChild(document.createElement('span'));
-        author.className = 'nickname ' + (banner.authorFaction === 'Resistance' ? 'res' : 'enl');
-        author.textContent = banner.authorNickname;
+        var authors = container.appendChild(document.createElement('span'));
+        for(var authorNickname in banner.authors) {
+            if(authors.childNodes.length) {
+                authors.appendChild(document.createTextNode(', '));
+            }
+            if(banner.authors.hasOwnProperty(authorNickname)) {
+                var author = authors.appendChild(document.createElement('span'));
+                author.className = 'nickname ' + (banner.authors[authorNickname] === 'Resistance' ? 'res' : 'enl');
+                author.textContent = authorNickname;
+            }
+        }
+        authors.appendChild(document.createTextNode('.'));
         container.appendChild(document.createElement('br'));
 
         var infoTime = container.appendChild(document.createElement('span'));

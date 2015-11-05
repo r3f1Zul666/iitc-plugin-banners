@@ -1,0 +1,92 @@
+{
+  "name": "Bruges Banner",
+  "authors": {
+    "mrDries": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "bc772eeb65024a74812da2438eb886f2.1c",
+      "title": "01 Bruges Banner START",
+      "image": "https://lh3.googleusercontent.com/e0WUj-UCZbOhdmwhh4ilJ_71C_0-o7XX7RuWfF61Oz_qhYMul8jw-oETXgor0MiQTxDubAU8xaU8B1aHvkc",
+      "ratingE6": 959184,
+      "medianCompletionTimeMs": 1152272
+    },
+    {
+      "guid": "c69c90486ac542c3bb998d1839026753.1c",
+      "title": "02 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/qGADAzxXcwDxUhXjrDs2hBRe5aaofnpJsKhV0DgFPCexQdz1OBo-deBxBQPFlW5I940sPhVN1hZsM9AsrKyZ",
+      "ratingE6": 892473,
+      "medianCompletionTimeMs": 1628465
+    },
+    {
+      "guid": "96e529bd8f7042ceab297e6306981381.1c",
+      "title": "03 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/hGksdINIt-ihLwt5mBH8Ve-kfrWjbuwcqhJjsMuLwNqUZAgjDLD8DFpAYz_FVrER8LCtLf0AN2SziNTmVNPBKQ",
+      "ratingE6": 960000,
+      "medianCompletionTimeMs": 546360
+    },
+    {
+      "guid": "e0700988a64a47bf83ada984d3c01523.1c",
+      "title": "04 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/sJyFpGhcLzu6C3Wuk-lVSlK_IE8uoI-40J0fRGCJxRED80nZohgS56fdJUXLvHtSa1U4e81g3UNxlUwYW-yx",
+      "ratingE6": 970297,
+      "medianCompletionTimeMs": 358139
+    },
+    {
+      "guid": "95a66decedd04db196da0ff3d4b10287.1c",
+      "title": "05 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/qZAaBeASLHoKvitfFEDjkUskfQ8ZUYvcxB8XphU7nwrewc4soMj7y39tpaWl6fD5a_76z9LiHJO2hA1awJI7",
+      "ratingE6": 989796,
+      "medianCompletionTimeMs": 421204
+    },
+    {
+      "guid": "eef47943c2a545f7ae2326a571e0510e.1c",
+      "title": "06 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/M_mmCCKDIxHnSBnw3zBVXD52cz4-Ke2u9yWjUfldZGN5yl1pZ8J6h8TKGU-mSyVQWSLOh_G8V6a8ap11GYFD",
+      "ratingE6": 980000,
+      "medianCompletionTimeMs": 545454
+    },
+    {
+      "guid": "8dccb37220ef49b0a873f54278262ca8.1c",
+      "title": "07 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/UFrpPJZgYKi5UI0JIiNINsYqiBMttQISgW4sfTrhvgpOh5U0dOF3PusPaSDP4JLOwXBAQwxGcNywDCzv1T4",
+      "ratingE6": 957895,
+      "medianCompletionTimeMs": 575489
+    },
+    {
+      "guid": "31c03d885513457682fa22f716264d83.1c",
+      "title": "08 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/3yfc7kmEKyof7w__v_8dTnNHi8yO6GJykuVGM4v2WKiLrKzDfNniVuPjkpefmXNcfCyvqYuQ6govvUzQy8vHuQ",
+      "ratingE6": 935484,
+      "medianCompletionTimeMs": 358942
+    },
+    {
+      "guid": "634581cf27aa41c686126da9305a2448.1c",
+      "title": "09 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/bFWfxwQP0KXR5UGxVHaknYYiaqXScS8rMHkPOG1oUR45HCCVIJGewqShA3ZcA3yMEgGPKSGTwGRrVxy4K8lg",
+      "ratingE6": 934066,
+      "medianCompletionTimeMs": 446478
+    },
+    {
+      "guid": "96f6f2285a0d40869f1908a5e8c6558c.1c",
+      "title": "010 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/veecRpmJb4z4EaJdcEGIVeiggjGP4gsGnn4Ramje90v0NQX4ea_BcW5Hqq7hUL8LS-YxkNN_sOrTPNK9FA4T",
+      "ratingE6": 946809,
+      "medianCompletionTimeMs": 514038
+    },
+    {
+      "guid": "8399193818864c4a9e666974a9c47986.1c",
+      "title": "011 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/EnBxRIlyVz-WLDftPJb8yKPuQ4CL81Fc5RN9C5cRpavHoeQLF9lTUQl1fgrIeWX7oJWj8bQYyt3MrX1AZLnz",
+      "ratingE6": 968750,
+      "medianCompletionTimeMs": 387389
+    },
+    {
+      "guid": "5b91bbc507464d16b8c23862b397c520.1c",
+      "title": "012 Bruges Banner",
+      "image": "https://lh3.googleusercontent.com/DlSHYkf6Bx5b4N4Tav0PJ4WtlBTTWAwpNIFtqorUTjCyCp1x9SnOABhEVcFQQ55sgga2d3WAnnJLP3GpFphx",
+      "ratingE6": 935484,
+      "medianCompletionTimeMs": 520995
+    }
+  ]
+}

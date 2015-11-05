@@ -1,7 +1,7 @@
 {
-    "providers-url":"\/b\/%banner%$%hash%.json",
-    "providers":{
-        "provider-europe":{
-        }
-    }
+  "providers-url": "/b/%banner%$%hash%.json",
+  "providers": {
+    "provider-europe": {},
+    "provider-asia": {}
+  }
 }

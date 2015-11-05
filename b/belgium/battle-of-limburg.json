@@ -1,343 +1,344 @@
 {
-   "name":"Battle Of Limburg",
-   "authorNickname":"XQlusioN",
-   "authorFaction":"Enlightened",
-   "missions":[
-      {
-         "guid":"08ba7608adc84a76b4ce4a8f1e963504.1c",
-         "title":"Battle Of Limburg #1",
-         "image":"https://lh3.googleusercontent.com/LsYokXvDLDdmnh7LH0g3iprhzBRwZbBsqUUSFB1RYeER8Rk3NWlslNAwDWqpA8m8-VM_TLAmxMESMQ0XtF8aPw",
-         "ratingE6":750000,
-         "medianCompletionTimeMs":3468986
-      },
-      {
-         "guid":"a2ca1a655ef5464db24806caa50beea8.1c",
-         "title":"Battle Of Limburg #2",
-         "image":"https://lh3.googleusercontent.com/TJQvi7jGwD7uFSjRyhFGNct02TYflsenoovMo24B3CzESA-oDtvP_hkRm7856DU99gW3rG5RrIg5Dea7Vqo",
-         "ratingE6":"750000",
-         "medianCompletionTimeMs":3799051
-      },
-      {
-         "guid":"6fcf4801ae954786ae16dc8d56fc8e54.1c",
-         "title":"Battle Of Limburg #3",
-         "image":"https://lh3.googleusercontent.com/ek085rx-os3eP01V_0o9H2PzibAIjNENuxi-WUGvlB1y0-5tPIGgIPO3jU4hBcxCBP7ioh1pXRW7k2N-BZZL",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":1922840
-      },
-      {
-         "guid":"0ea2c57d409740cbb0724d527634a079.1c",
-         "title":"Battle Of Limburg #4",
-         "image":"https://lh3.googleusercontent.com/mBLKUoqkBggBFaFQGpRS1TsYeIfqGud1lFEa0E6XuiAPsTE4oHle_na2GsQaEc0jKTMZgNAGyeTlbGOK98-4Rg",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2517381
-      },
-      {
-         "guid":"3c43e23659a34ed793dfefdef3a8fff7.1c",
-         "title":"Battle Of Limburg #5",
-         "image":"https://lh3.googleusercontent.com/wS4sDgil7vW3GeBhQ7p4XUju1kKtW1csHupBgD6th0FrIUHGNGSq7VTrWh-gmup8EgKcqGfrH5WbdtUoWRhs",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":1940643
-      },
-      {
-         "guid":"775aed1021c447a3ad5fbd8afdde0a4c.1c",
-         "title":"Battle Of Limburg #6",
-         "image":"https://lh3.googleusercontent.com/jYmIUKc6wN-tkSCw6svDQ867FI9fEEC1Xrj976qT4B3UzeLWd2M8oPaL3xk88mZpFwbGqGWghNddhZAgu30BQQ",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":3137490
-      },
-      {
-         "guid":"b81c6e70ed0a4fb594133a64bdead831.1c",
-         "title":"Battle Of Limburg #7",
-         "image":"https://lh3.googleusercontent.com/aJTqaAO4-6kQ2M_UZe-OXd-LCoxQtv3yfXpiSBENAz43mTE1ICTXfIJ10IpTZOYHV3YKzqUzae3nu5WWvKYf",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":3360792
-      },
-      {
-         "guid":"280d2ddfc74941abb52a6b040f7b16bb.1c",
-         "title":"Battle Of Limburg #8",
-         "image":"https://lh3.googleusercontent.com/JZZIt9K69f7qnb50tDBhrdvFDQiKKRP4BiQ6Xy4ojaqtibiEoP6p7RwtLnevMdieJwLUvVRkAScakxapHnLS",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2698616
-      },
-      {
-         "guid":"18be7b6be9ff4c05adc1ab27bcd065c4.1c",
-         "title":"Battle Of Limburg #9",
-         "image":"https://lh3.googleusercontent.com/Sfg2mRc0UUEJvSgSYzBvzntpS77EKUy0TufF42QeIcr4xqAsBRh9ya-5JnRsKMeEy9wEVSw4htvQzXBKeicj",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":3803753
-      },
-      {
-         "guid":"ef14eb8245794cc89e0c387fdc0e5c67.1c",
-         "title":"Battle Of Limburg #10",
-         "image":"https://lh3.googleusercontent.com/cG4oAWZ6C8X1Do2NyQB94SSz-r7S8VWSbtVzwxO_RZuRlbUwRFSa1yC4dOSN3UY0gMZXCdh8U-u10-LPk7pK",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2144913
-      },
-      {
-         "guid":"51db949a9a7f41549374be0326640d24.1c",
-         "title":"Battle Of Limburg #11",
-         "image":"https://lh3.googleusercontent.com/9Y53RNsJuyYTqBvjeZVliNz_v3QfCeTMUPB_Rqh5VjlMUotzICEZF7bCdJ71s9vV2vF5eF41rzlDKoBNCc1I",
-         "ratingE6":"875000",
-         "medianCompletionTimeMs":3084536
-      },
-      {
-         "guid":"55195e071277458b82d28b085448e24d.1c",
-         "title":"Battle Of Limburg #12",
-         "image":"https://lh3.googleusercontent.com/VyYBYFIskSo3UWzYaV-b5eK7tk-P4jszcR8WWuJ2eUo4KpN1zQ_xX7z9-2JsTZVdFV-womRGYz4UR9UhnyJp",
-         "ratingE6":"888889",
-         "medianCompletionTimeMs":1247347
-      },
-      {
-         "guid":"3894052bc8414d3b8d974dcc7fc24a7b.1c",
-         "title":"Battle Of Limburg #13",
-         "image":"https://lh3.googleusercontent.com/VWHV9xrL6E3_RyLQj0TVXQ6vqDcDfBZf7woSz4teqzv0hRm7UFAvOHrZGmNgrlgrP6BdNTkmt68ekP9eV4o",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":4528680
-      },
-      {
-         "guid":"bda62b68e3f9412d8a64917ab04b6de6.1c",
-         "title":"Battle Of Limburg #14",
-         "image":"https://lh3.googleusercontent.com/KXIDEIJtMfPpJFdkWixrMeXpDkQTdGjL_GT6YW6xC24DGmGhSd0qOJGx_H3zcjDzESOsmmpu5AwUCC2pnDh0tQ",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2058033
-      },
-      {
-         "guid":"f741301b531d461a9ab0edbc5f8bb57a.1c",
-         "title":"Battle Of Limburg #15",
-         "image":"https://lh3.googleusercontent.com/-3X8XPOV0HZwfeZonsWFePrtBkvAN9i3J1LMEGqztymJKbenr6_SLWZpIYFx-Q-QV6PWu4ELHuHpV15FBOT82g",
-         "ratingE6":"857143",
-         "medianCompletionTimeMs":5535003
-      },
-      {
-         "guid":"845785a48c764fc4a0a1242591b8bd22.1c",
-         "title":"Battle Of Limburg #16",
-         "image":"https://lh3.googleusercontent.com/Xa5qKxlvTtOZXhrj7UEdNJIL1xO5hUrEdmRH3BVVaeIYwYXtEpfBGzQgoJu059-rIq0HuYn-uc7O854Sze_4",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2026446
-      },
-      {
-         "guid":"1cf17c598f5a46e7ba9b734b4bef7ad3.1c",
-         "title":"Battle Of Limburg #17",
-         "image":"https://lh3.googleusercontent.com/7cz5dp-7AFOLakmnj6Dyxqne_UwHygrQvUZWDey3dJ9vMFJfHIOHJKhuTQGkVEzOvnM1qFBdoEmxOUyRdlX5lA",
-         "ratingE6":"875000",
-         "medianCompletionTimeMs":1908946
-      },
-      {
-         "guid":"86e14e3c5a194cbc89fc72719e168c9f.1c",
-         "title":"Battle Of Limburg #18",
-         "image":"https://lh3.googleusercontent.com/_NjrZi2_6nWY5rYpapVxnoJNV2Kj6iBuaqITSycCcoN_DHcqeIojEr5Poqtvf11jANNlVcOuCUPFL7qcxDg",
-         "ratingE6":"909091",
-         "medianCompletionTimeMs":753895
-      },
-      {
-         "guid":"a961461d9ea143c3a5ea170314353c2f.1c",
-         "title":"Battle Of Limburg #19",
-         "image":"https://lh3.googleusercontent.com/HuvzoCA4h3X_ISWf2rHMQgwzBbwZVFJkwb5vwCC2syR8RF3kH5umJ9ADNjNsP85aRhD_LGiGwim1hdmish6M",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":3129858
-      },
-      {
-         "guid":"04706f9dc69042048ceab9be406f906e.1c",
-         "title":"Battle Of Limburg #20",
-         "image":"https://lh3.googleusercontent.com/d0z07pBJhDLTnIafhGvsGhTJ5UkF1XYRtMg8vnKwDtaTwK28l1fplU9n7ct8j9mY48ZJYxqGnwU4eCqlJ-w9",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2786133
-      },
-      {
-         "guid":"d49901cfa709442794ea3ff2b4beb2aa.1c",
-         "title":"Battle Of Limburg #21",
-         "image":"https://lh3.googleusercontent.com/oyEtZh3is9-H8A1-lf4DTY32zgks4yDotZGAwg_Mj86zUtBG5jui0ai3xjq3WDeF4kGpGBpSPv3nMQRgwQc",
-         "ratingE6":"857143",
-         "medianCompletionTimeMs":3453857
-      },
-      {
-         "guid":"62142a7239284064bf7c93d8b9868f0d.1c",
-         "title":"Battle Of Limburg #22",
-         "image":"https://lh3.googleusercontent.com/YzJVGg4ttZExq563bAABXUG_U6W_rBMJvWwjaP8TpRMwOF5WIkgHXNojLApQMO6VyaAGYqLxOv2vnkusi90",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":4069821
-      },
-      {
-         "guid":"fcd7e0a160b540debbb38e6ca20609cb.1c",
-         "title":"Battle Of Limburg #23",
-         "image":"https://lh3.googleusercontent.com/9w3zAOZuhTCqlD-ynMc1hJzupnbwEybT1VbYhKEC4eW0QmVHipkc10Wy0_TsN2kA-1HQB4Yqb0wHg1BIe9-P",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":3779321
-      },
-      {
-         "guid":"da60ed4917d74f8495ba0508d4c6a73f.1c",
-         "title":"Battle Of Limburg #24",
-         "image":"https://lh3.googleusercontent.com/fLDCatIvWKfgG3Frrm7_Z4GTXOxN5JiPGDsmnk_cB2-7HFpHk0r3Lm6LmdDoGMwuAEuWFVhcHzcZK4NfyQ",
-         "ratingE6":"714286",
-         "medianCompletionTimeMs":1882721
-      },
-      {
-         "guid":"7e87fe2f3e094b1b8a02f5a52ae0455f.1c",
-         "title":"Battle Of Limburg #25",
-         "image":"https://lh3.googleusercontent.com/6fwHvhB7B5YVKIRDpZPylemIlGJbdT1M27FF2aSEnpDcvshkd-LUdAdp30ZShm5t_-8OkP6bMfocnrm5oEo",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2278871
-      },
-      {
-         "guid":"13f4bdc8c36e412d9ae656dfdf684f99.1c",
-         "title":"Battle Of Limburg #26",
-         "image":"https://lh3.googleusercontent.com/FbzZOq-quLqcNH4CjdryJ7cwYU5VROBNU4BlIzdl4rQIMLL5YzE-HeXdoNDzVUXO5c3y8F7IPu7H7PnCuDgU",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2569199
-      },
-      {
-         "guid":"8ef7f0ccbeae45b796da0d648cc21de5.1c",
-         "title":"Battle Of Limburg #27",
-         "image":"https://lh3.googleusercontent.com/IgXa88flJ0Ke_bcSbjtS5wpiMWcYIfEephX_8TnF0ptSFcqnBUEB2KCgsQA9xQbNa3B4yFkAyqObqH7sHjbp",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":1891930
-      },
-      {
-         "guid":"3321c815396f4db8b741eba2b58516e8.1c",
-         "title":"Battle Of Limburg #28",
-         "image":"https://lh3.googleusercontent.com/2Fq6pCDXiuIAjdnRBH-nRBwDbLBkaNvyywkFUBx3sfTunheP5qjoB_psZED-DQWjfCP4T8cR7KLVDQ6E5Z8",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":2154131
-      },
-      {
-         "guid":"41014edda433457cbd289fad0c75f60c.1c",
-         "title":"Battle Of Limburg #29",
-         "image":"https://lh3.googleusercontent.com/fWHjekRVlltPtO9ah8WXLUi3pJjyRzONyW8TzFfwASR_Nu3O3yPPiOSHQmVqdKtBZXfIToTVlChcbUuhCZ5x",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":1903247
-      },
-      {
-         "guid":"a912e563b4a64411995619496781fdb4.1c",
-         "title":"Battle Of Limburg #30",
-         "image":"https://lh3.googleusercontent.com/eA6EpRx7qzMpyyviC8i-UIWUwqS2SCVBTezO2GyzkEFHST58zJrXjahZHQW0Us7btdJSe35JXZ6oVxuiBVfO7g",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":2970140
-      },
-      {
-         "guid":"ba609b2ba2df4552aff6dfb9b0c148f7.1c",
-         "title":"Battle Of Limburg #31",
-         "image":"https://lh3.googleusercontent.com/zqkXT1cg1iLxyCg0ov21ljjSwDEaYkNRTX2U0tqiZ-goNwFA7AcyTKJ_MamguieEumlfVdPWTaisZLOAzbym7Q",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":969037
-      },
-      {
-         "guid":"7ddf6c63988544d2b06f0a5fe985f56c.1c",
-         "title":"Battle Of Limburg #32",
-         "image":"https://lh3.googleusercontent.com/aEnDaV6-jtDJW8uq0rDO3Dxv21_mem4tlGoB_1VHi_X9a1sGiQiIjjS34kci52ajeI7AyaLZQPmPQSghbLI42Q",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":1574315
-      },
-      {
-         "guid":"4ad1c8555aaf44f6b78b1425e3ca4bd9.1c",
-         "title":"Battle Of Limburg #33",
-         "image":"https://lh3.googleusercontent.com/Agyd4IlhSjs7_ppvU7hZU3yJmW7AOlichqPTcaCqyd3EpNYwN7WrzmawN25172lNUZt_UQu3NhWx7pyha0r7",
-         "ratingE6":"857143",
-         "medianCompletionTimeMs":4973526
-      },
-      {
-         "guid":"1fa1ca17b1ed489ba70a8629467b5547.1c",
-         "title":"Battle Of Limburg #34",
-         "image":"https://lh3.googleusercontent.com/nv0LU9d936Vbd9ogscDTGt8H-5hpOGyc72_bzbITF3CaJuc39plqkQ1LEAd2RMqobLcQhV-J9AibQoEo5boE",
-         "ratingE6":"714286",
-         "medianCompletionTimeMs":9961391
-      },
-      {
-         "guid":"d281c7e07ace4f228c48abd449ee1adf.1c",
-         "title":"Battle Of Limburg #35",
-         "image":"https://lh3.googleusercontent.com/ZyTsIOM0dU5XXwaH5j_EYtSGWJDYfe8tRnjDMtO60b8HP9Pz8zj7IWOJFAvhVdO6wchHoREZR4WZvO-RjUvR",
-         "ratingE6":"800000",
-         "medianCompletionTimeMs":7093191
-      },
-      {
-         "guid":"dce215fc070548fcb3664e89e7305dfb.1c",
-         "title":"Battle Of Limburg #36",
-         "image":"https://lh3.googleusercontent.com/woeXZRF_LSG2UCqVDh5D8eKCO1eIRQG3gFopY0WVfqwchhKuzJgq4ZTrQh3AKHqFWt0sJFGwurUnkFM6jgHW",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":1697413
-      },
-      {
-         "guid":"a60571d93e2942cf92eb7782de59bf23.1c",
-         "title":"Battle Of limburg #37",
-         "image":"https://lh3.googleusercontent.com/uj6lO2SombIJ839KLwXk-TkPZNcO-2eRPLiSlZW6syPcWN_2AJiBlHE0zrr-Z8p5afHxhlJzw8F6IXLHUO0",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":1353227
-      },
-      {
-         "guid":"1cf821a4dadf4c2aa45d318d18ea3412.1c",
-         "title":"Battle Of Limburg #38",
-         "image":"https://lh3.googleusercontent.com/c9PNrymwbyAa12uqxbszQCepZxFUSlTsNRKTob2_VxL_6sj7sr0yE8q5R6NNYuLXkjEKjTLpbANbOlY1jPBh",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":2368519
-      },
-      {
-         "guid":"4bf06199c8f345128f8ff1cc71f1f00f.1c",
-         "title":"Battle Of Limburg #39",
-         "image":"https://lh3.googleusercontent.com/zb7skgYXJm0IvvUPNaBEoS2yaCC1SulE-x1dIZmGDbVz-2wD_CACWkn4vExCeayueXeFfgFQLquBEEqwWjNuow",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":2767382
-      },
-      {
-         "guid":"8d9084c0cdaf46f487089399aa10d2cf.1c",
-         "title":"Battle Of Limburg #40",
-         "image":"https://lh3.googleusercontent.com/M70s0LM6FnrosknhA92NBOX1MmL4B6ItFHq3f2qtidG4qxmOYLh2oFw9kBh6n9hl7aMUkuwHWugxsp7VKjLe",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":1246703
-      },
-      {
-         "guid":"fa1abd83aaab4c999a52a85c565184f9.1c",
-         "title":"Battle Of Limburg #41",
-         "image":"https://lh3.googleusercontent.com/Adz5jmGLKVLqR9AtxOzH8EZGNITyPjZWe7FoXKVPkxgptqSVfBNeDdrRgNvL-rxpHKU-sHCu3G0BhkSNo0LY",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":4367417
-      },
-      {
-         "guid":"e880ab1cc3ec4770b1532b23345e83fc.1c",
-         "title":"Battle Of Limburg #42",
-         "image":"https://lh3.googleusercontent.com/olSgAz6GOP_Zb5u8lLtTMWuLOEONcy6pu8COKl3on1UwBq7zbFh192V2oovfgcV9OpX_Pw88JV7ZksPrWAY",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":5070508
-      },
-      {
-         "guid":"8b76a2f3a5f44facb046d37d1b538f6f.1c",
-         "title":"Battle Of Limburg #43",
-         "image":"https://lh3.googleusercontent.com/faEPo5npWOJRspXEGNasn0ZNDX2ryw0tK_JaVlAO1Qvd1YNeY0l9Zwx3B9DLV63L9sMWO30EoABRPGLGENm4",
-         "ratingE6":"833333",
-         "medianCompletionTimeMs":3170496
-      },
-      {
-         "guid":"93d75ad574eb4df99b0bb59dbf475878.1c",
-         "title":"Battle Of Limburg #44",
-         "image":"https://lh3.googleusercontent.com/87IMx_xFCyq2MUzzmc0kfCNbIC5YGj8owWpPHfRpSNBXDClypJEgKn7hG6GGW9k5lEpwej-ByfRxHaOKU199",
-         "ratingE6":"666667",
-         "medianCompletionTimeMs":2070168
-      },
-      {
-         "guid":"9908e1b7c8814ade8b8f0273b9591693.1c",
-         "title":"Battle Of Limburg #45",
-         "image":"https://lh3.googleusercontent.com/NHAJeGNXVwDikwkNo0FK6l2yLCanhoFOjDS0t3IzPr5HlGcMIjmq9CxCJy7yRHtrXN2vgim6HcaNOPP7Hzkd",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":4277445
-      },
-      {
-         "guid":"0b496b1b50824e6db0006aafe2dabf41.1c",
-         "title":"Battle Of Limburg #46",
-         "image":"https://lh3.googleusercontent.com/_9C1Z-sK53KAU0dtJeO-5QN1rtWLkvtDokLFrhJq6FBWe4Qaetg-FYSTroKPnEiaR6jT49TPGqIfJ6n8Qnb-",
-         "ratingE6":800000,
-         "medianCompletionTimeMs":1545549
-      },
-      {
-         "guid":"e6d08a85a6384336a3168f083d45b458.1c",
-         "title":"Battle Of Limburg #47",
-         "image":"https://lh3.googleusercontent.com/ABeoaklMqBy8OX75l83oc-vVpXl7BGaATUlExq5T4xGh4OmE_JWyL2Tf3QrM7MmCh9Z8FfaDyBSi8zBKrAJI",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":1074275
-      },
-      {
-         "guid":"d322e43ff7234baf9d72e9cdc689009a.1c",
-         "title":"Battle Of Limburg #48",
-         "image":"https://lh3.googleusercontent.com/wO0u6ZbyvCYuWX86lftb_cFKitNU2DWIGPQ_xDU2OtRwuwvEt2cbOYxnnr2Omj5k0xYuPMk0Ooe0w-pywuI",
-         "ratingE6":"1000000",
-         "medianCompletionTimeMs":2544731
-      }
-   ]
+  "name": "Battle Of Limburg",
+  "authors": {
+    "XQlusioN": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "08ba7608adc84a76b4ce4a8f1e963504.1c",
+      "title": "Battle Of Limburg #1",
+      "image": "https://lh3.googleusercontent.com/LsYokXvDLDdmnh7LH0g3iprhzBRwZbBsqUUSFB1RYeER8Rk3NWlslNAwDWqpA8m8-VM_TLAmxMESMQ0XtF8aPw",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 3468986
+    },
+    {
+      "guid": "a2ca1a655ef5464db24806caa50beea8.1c",
+      "title": "Battle Of Limburg #2",
+      "image": "https://lh3.googleusercontent.com/TJQvi7jGwD7uFSjRyhFGNct02TYflsenoovMo24B3CzESA-oDtvP_hkRm7856DU99gW3rG5RrIg5Dea7Vqo",
+      "ratingE6": 750000,
+      "medianCompletionTimeMs": 3799051
+    },
+    {
+      "guid": "6fcf4801ae954786ae16dc8d56fc8e54.1c",
+      "title": "Battle Of Limburg #3",
+      "image": "https://lh3.googleusercontent.com/ek085rx-os3eP01V_0o9H2PzibAIjNENuxi-WUGvlB1y0-5tPIGgIPO3jU4hBcxCBP7ioh1pXRW7k2N-BZZL",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1922840
+    },
+    {
+      "guid": "0ea2c57d409740cbb0724d527634a079.1c",
+      "title": "Battle Of Limburg #4",
+      "image": "https://lh3.googleusercontent.com/mBLKUoqkBggBFaFQGpRS1TsYeIfqGud1lFEa0E6XuiAPsTE4oHle_na2GsQaEc0jKTMZgNAGyeTlbGOK98-4Rg",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2517381
+    },
+    {
+      "guid": "3c43e23659a34ed793dfefdef3a8fff7.1c",
+      "title": "Battle Of Limburg #5",
+      "image": "https://lh3.googleusercontent.com/wS4sDgil7vW3GeBhQ7p4XUju1kKtW1csHupBgD6th0FrIUHGNGSq7VTrWh-gmup8EgKcqGfrH5WbdtUoWRhs",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1940643
+    },
+    {
+      "guid": "775aed1021c447a3ad5fbd8afdde0a4c.1c",
+      "title": "Battle Of Limburg #6",
+      "image": "https://lh3.googleusercontent.com/jYmIUKc6wN-tkSCw6svDQ867FI9fEEC1Xrj976qT4B3UzeLWd2M8oPaL3xk88mZpFwbGqGWghNddhZAgu30BQQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 3137490
+    },
+    {
+      "guid": "b81c6e70ed0a4fb594133a64bdead831.1c",
+      "title": "Battle Of Limburg #7",
+      "image": "https://lh3.googleusercontent.com/aJTqaAO4-6kQ2M_UZe-OXd-LCoxQtv3yfXpiSBENAz43mTE1ICTXfIJ10IpTZOYHV3YKzqUzae3nu5WWvKYf",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 3360792
+    },
+    {
+      "guid": "280d2ddfc74941abb52a6b040f7b16bb.1c",
+      "title": "Battle Of Limburg #8",
+      "image": "https://lh3.googleusercontent.com/JZZIt9K69f7qnb50tDBhrdvFDQiKKRP4BiQ6Xy4ojaqtibiEoP6p7RwtLnevMdieJwLUvVRkAScakxapHnLS",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2698616
+    },
+    {
+      "guid": "18be7b6be9ff4c05adc1ab27bcd065c4.1c",
+      "title": "Battle Of Limburg #9",
+      "image": "https://lh3.googleusercontent.com/Sfg2mRc0UUEJvSgSYzBvzntpS77EKUy0TufF42QeIcr4xqAsBRh9ya-5JnRsKMeEy9wEVSw4htvQzXBKeicj",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 3803753
+    },
+    {
+      "guid": "ef14eb8245794cc89e0c387fdc0e5c67.1c",
+      "title": "Battle Of Limburg #10",
+      "image": "https://lh3.googleusercontent.com/cG4oAWZ6C8X1Do2NyQB94SSz-r7S8VWSbtVzwxO_RZuRlbUwRFSa1yC4dOSN3UY0gMZXCdh8U-u10-LPk7pK",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2144913
+    },
+    {
+      "guid": "51db949a9a7f41549374be0326640d24.1c",
+      "title": "Battle Of Limburg #11",
+      "image": "https://lh3.googleusercontent.com/9Y53RNsJuyYTqBvjeZVliNz_v3QfCeTMUPB_Rqh5VjlMUotzICEZF7bCdJ71s9vV2vF5eF41rzlDKoBNCc1I",
+      "ratingE6": 875000,
+      "medianCompletionTimeMs": 3084536
+    },
+    {
+      "guid": "55195e071277458b82d28b085448e24d.1c",
+      "title": "Battle Of Limburg #12",
+      "image": "https://lh3.googleusercontent.com/VyYBYFIskSo3UWzYaV-b5eK7tk-P4jszcR8WWuJ2eUo4KpN1zQ_xX7z9-2JsTZVdFV-womRGYz4UR9UhnyJp",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 1247347
+    },
+    {
+      "guid": "3894052bc8414d3b8d974dcc7fc24a7b.1c",
+      "title": "Battle Of Limburg #13",
+      "image": "https://lh3.googleusercontent.com/VWHV9xrL6E3_RyLQj0TVXQ6vqDcDfBZf7woSz4teqzv0hRm7UFAvOHrZGmNgrlgrP6BdNTkmt68ekP9eV4o",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 4528680
+    },
+    {
+      "guid": "bda62b68e3f9412d8a64917ab04b6de6.1c",
+      "title": "Battle Of Limburg #14",
+      "image": "https://lh3.googleusercontent.com/KXIDEIJtMfPpJFdkWixrMeXpDkQTdGjL_GT6YW6xC24DGmGhSd0qOJGx_H3zcjDzESOsmmpu5AwUCC2pnDh0tQ",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2058033
+    },
+    {
+      "guid": "f741301b531d461a9ab0edbc5f8bb57a.1c",
+      "title": "Battle Of Limburg #15",
+      "image": "https://lh3.googleusercontent.com/-3X8XPOV0HZwfeZonsWFePrtBkvAN9i3J1LMEGqztymJKbenr6_SLWZpIYFx-Q-QV6PWu4ELHuHpV15FBOT82g",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 5535003
+    },
+    {
+      "guid": "845785a48c764fc4a0a1242591b8bd22.1c",
+      "title": "Battle Of Limburg #16",
+      "image": "https://lh3.googleusercontent.com/Xa5qKxlvTtOZXhrj7UEdNJIL1xO5hUrEdmRH3BVVaeIYwYXtEpfBGzQgoJu059-rIq0HuYn-uc7O854Sze_4",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2026446
+    },
+    {
+      "guid": "1cf17c598f5a46e7ba9b734b4bef7ad3.1c",
+      "title": "Battle Of Limburg #17",
+      "image": "https://lh3.googleusercontent.com/7cz5dp-7AFOLakmnj6Dyxqne_UwHygrQvUZWDey3dJ9vMFJfHIOHJKhuTQGkVEzOvnM1qFBdoEmxOUyRdlX5lA",
+      "ratingE6": 875000,
+      "medianCompletionTimeMs": 1908946
+    },
+    {
+      "guid": "86e14e3c5a194cbc89fc72719e168c9f.1c",
+      "title": "Battle Of Limburg #18",
+      "image": "https://lh3.googleusercontent.com/_NjrZi2_6nWY5rYpapVxnoJNV2Kj6iBuaqITSycCcoN_DHcqeIojEr5Poqtvf11jANNlVcOuCUPFL7qcxDg",
+      "ratingE6": 909091,
+      "medianCompletionTimeMs": 753895
+    },
+    {
+      "guid": "a961461d9ea143c3a5ea170314353c2f.1c",
+      "title": "Battle Of Limburg #19",
+      "image": "https://lh3.googleusercontent.com/HuvzoCA4h3X_ISWf2rHMQgwzBbwZVFJkwb5vwCC2syR8RF3kH5umJ9ADNjNsP85aRhD_LGiGwim1hdmish6M",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 3129858
+    },
+    {
+      "guid": "04706f9dc69042048ceab9be406f906e.1c",
+      "title": "Battle Of Limburg #20",
+      "image": "https://lh3.googleusercontent.com/d0z07pBJhDLTnIafhGvsGhTJ5UkF1XYRtMg8vnKwDtaTwK28l1fplU9n7ct8j9mY48ZJYxqGnwU4eCqlJ-w9",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2786133
+    },
+    {
+      "guid": "d49901cfa709442794ea3ff2b4beb2aa.1c",
+      "title": "Battle Of Limburg #21",
+      "image": "https://lh3.googleusercontent.com/oyEtZh3is9-H8A1-lf4DTY32zgks4yDotZGAwg_Mj86zUtBG5jui0ai3xjq3WDeF4kGpGBpSPv3nMQRgwQc",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 3453857
+    },
+    {
+      "guid": "62142a7239284064bf7c93d8b9868f0d.1c",
+      "title": "Battle Of Limburg #22",
+      "image": "https://lh3.googleusercontent.com/YzJVGg4ttZExq563bAABXUG_U6W_rBMJvWwjaP8TpRMwOF5WIkgHXNojLApQMO6VyaAGYqLxOv2vnkusi90",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 4069821
+    },
+    {
+      "guid": "fcd7e0a160b540debbb38e6ca20609cb.1c",
+      "title": "Battle Of Limburg #23",
+      "image": "https://lh3.googleusercontent.com/9w3zAOZuhTCqlD-ynMc1hJzupnbwEybT1VbYhKEC4eW0QmVHipkc10Wy0_TsN2kA-1HQB4Yqb0wHg1BIe9-P",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 3779321
+    },
+    {
+      "guid": "da60ed4917d74f8495ba0508d4c6a73f.1c",
+      "title": "Battle Of Limburg #24",
+      "image": "https://lh3.googleusercontent.com/fLDCatIvWKfgG3Frrm7_Z4GTXOxN5JiPGDsmnk_cB2-7HFpHk0r3Lm6LmdDoGMwuAEuWFVhcHzcZK4NfyQ",
+      "ratingE6": 714286,
+      "medianCompletionTimeMs": 1882721
+    },
+    {
+      "guid": "7e87fe2f3e094b1b8a02f5a52ae0455f.1c",
+      "title": "Battle Of Limburg #25",
+      "image": "https://lh3.googleusercontent.com/6fwHvhB7B5YVKIRDpZPylemIlGJbdT1M27FF2aSEnpDcvshkd-LUdAdp30ZShm5t_-8OkP6bMfocnrm5oEo",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2278871
+    },
+    {
+      "guid": "13f4bdc8c36e412d9ae656dfdf684f99.1c",
+      "title": "Battle Of Limburg #26",
+      "image": "https://lh3.googleusercontent.com/FbzZOq-quLqcNH4CjdryJ7cwYU5VROBNU4BlIzdl4rQIMLL5YzE-HeXdoNDzVUXO5c3y8F7IPu7H7PnCuDgU",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2569199
+    },
+    {
+      "guid": "8ef7f0ccbeae45b796da0d648cc21de5.1c",
+      "title": "Battle Of Limburg #27",
+      "image": "https://lh3.googleusercontent.com/IgXa88flJ0Ke_bcSbjtS5wpiMWcYIfEephX_8TnF0ptSFcqnBUEB2KCgsQA9xQbNa3B4yFkAyqObqH7sHjbp",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1891930
+    },
+    {
+      "guid": "3321c815396f4db8b741eba2b58516e8.1c",
+      "title": "Battle Of Limburg #28",
+      "image": "https://lh3.googleusercontent.com/2Fq6pCDXiuIAjdnRBH-nRBwDbLBkaNvyywkFUBx3sfTunheP5qjoB_psZED-DQWjfCP4T8cR7KLVDQ6E5Z8",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 2154131
+    },
+    {
+      "guid": "41014edda433457cbd289fad0c75f60c.1c",
+      "title": "Battle Of Limburg #29",
+      "image": "https://lh3.googleusercontent.com/fWHjekRVlltPtO9ah8WXLUi3pJjyRzONyW8TzFfwASR_Nu3O3yPPiOSHQmVqdKtBZXfIToTVlChcbUuhCZ5x",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1903247
+    },
+    {
+      "guid": "a912e563b4a64411995619496781fdb4.1c",
+      "title": "Battle Of Limburg #30",
+      "image": "https://lh3.googleusercontent.com/eA6EpRx7qzMpyyviC8i-UIWUwqS2SCVBTezO2GyzkEFHST58zJrXjahZHQW0Us7btdJSe35JXZ6oVxuiBVfO7g",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 2970140
+    },
+    {
+      "guid": "ba609b2ba2df4552aff6dfb9b0c148f7.1c",
+      "title": "Battle Of Limburg #31",
+      "image": "https://lh3.googleusercontent.com/zqkXT1cg1iLxyCg0ov21ljjSwDEaYkNRTX2U0tqiZ-goNwFA7AcyTKJ_MamguieEumlfVdPWTaisZLOAzbym7Q",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 969037
+    },
+    {
+      "guid": "7ddf6c63988544d2b06f0a5fe985f56c.1c",
+      "title": "Battle Of Limburg #32",
+      "image": "https://lh3.googleusercontent.com/aEnDaV6-jtDJW8uq0rDO3Dxv21_mem4tlGoB_1VHi_X9a1sGiQiIjjS34kci52ajeI7AyaLZQPmPQSghbLI42Q",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 1574315
+    },
+    {
+      "guid": "4ad1c8555aaf44f6b78b1425e3ca4bd9.1c",
+      "title": "Battle Of Limburg #33",
+      "image": "https://lh3.googleusercontent.com/Agyd4IlhSjs7_ppvU7hZU3yJmW7AOlichqPTcaCqyd3EpNYwN7WrzmawN25172lNUZt_UQu3NhWx7pyha0r7",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 4973526
+    },
+    {
+      "guid": "1fa1ca17b1ed489ba70a8629467b5547.1c",
+      "title": "Battle Of Limburg #34",
+      "image": "https://lh3.googleusercontent.com/nv0LU9d936Vbd9ogscDTGt8H-5hpOGyc72_bzbITF3CaJuc39plqkQ1LEAd2RMqobLcQhV-J9AibQoEo5boE",
+      "ratingE6": 714286,
+      "medianCompletionTimeMs": 9961391
+    },
+    {
+      "guid": "d281c7e07ace4f228c48abd449ee1adf.1c",
+      "title": "Battle Of Limburg #35",
+      "image": "https://lh3.googleusercontent.com/ZyTsIOM0dU5XXwaH5j_EYtSGWJDYfe8tRnjDMtO60b8HP9Pz8zj7IWOJFAvhVdO6wchHoREZR4WZvO-RjUvR",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 7093191
+    },
+    {
+      "guid": "dce215fc070548fcb3664e89e7305dfb.1c",
+      "title": "Battle Of Limburg #36",
+      "image": "https://lh3.googleusercontent.com/woeXZRF_LSG2UCqVDh5D8eKCO1eIRQG3gFopY0WVfqwchhKuzJgq4ZTrQh3AKHqFWt0sJFGwurUnkFM6jgHW",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1697413
+    },
+    {
+      "guid": "a60571d93e2942cf92eb7782de59bf23.1c",
+      "title": "Battle Of limburg #37",
+      "image": "https://lh3.googleusercontent.com/uj6lO2SombIJ839KLwXk-TkPZNcO-2eRPLiSlZW6syPcWN_2AJiBlHE0zrr-Z8p5afHxhlJzw8F6IXLHUO0",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1353227
+    },
+    {
+      "guid": "1cf821a4dadf4c2aa45d318d18ea3412.1c",
+      "title": "Battle Of Limburg #38",
+      "image": "https://lh3.googleusercontent.com/c9PNrymwbyAa12uqxbszQCepZxFUSlTsNRKTob2_VxL_6sj7sr0yE8q5R6NNYuLXkjEKjTLpbANbOlY1jPBh",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 2368519
+    },
+    {
+      "guid": "4bf06199c8f345128f8ff1cc71f1f00f.1c",
+      "title": "Battle Of Limburg #39",
+      "image": "https://lh3.googleusercontent.com/zb7skgYXJm0IvvUPNaBEoS2yaCC1SulE-x1dIZmGDbVz-2wD_CACWkn4vExCeayueXeFfgFQLquBEEqwWjNuow",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 2767382
+    },
+    {
+      "guid": "8d9084c0cdaf46f487089399aa10d2cf.1c",
+      "title": "Battle Of Limburg #40",
+      "image": "https://lh3.googleusercontent.com/M70s0LM6FnrosknhA92NBOX1MmL4B6ItFHq3f2qtidG4qxmOYLh2oFw9kBh6n9hl7aMUkuwHWugxsp7VKjLe",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1246703
+    },
+    {
+      "guid": "fa1abd83aaab4c999a52a85c565184f9.1c",
+      "title": "Battle Of Limburg #41",
+      "image": "https://lh3.googleusercontent.com/Adz5jmGLKVLqR9AtxOzH8EZGNITyPjZWe7FoXKVPkxgptqSVfBNeDdrRgNvL-rxpHKU-sHCu3G0BhkSNo0LY",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 4367417
+    },
+    {
+      "guid": "e880ab1cc3ec4770b1532b23345e83fc.1c",
+      "title": "Battle Of Limburg #42",
+      "image": "https://lh3.googleusercontent.com/olSgAz6GOP_Zb5u8lLtTMWuLOEONcy6pu8COKl3on1UwBq7zbFh192V2oovfgcV9OpX_Pw88JV7ZksPrWAY",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 5070508
+    },
+    {
+      "guid": "8b76a2f3a5f44facb046d37d1b538f6f.1c",
+      "title": "Battle Of Limburg #43",
+      "image": "https://lh3.googleusercontent.com/faEPo5npWOJRspXEGNasn0ZNDX2ryw0tK_JaVlAO1Qvd1YNeY0l9Zwx3B9DLV63L9sMWO30EoABRPGLGENm4",
+      "ratingE6": 833333,
+      "medianCompletionTimeMs": 3170496
+    },
+    {
+      "guid": "93d75ad574eb4df99b0bb59dbf475878.1c",
+      "title": "Battle Of Limburg #44",
+      "image": "https://lh3.googleusercontent.com/87IMx_xFCyq2MUzzmc0kfCNbIC5YGj8owWpPHfRpSNBXDClypJEgKn7hG6GGW9k5lEpwej-ByfRxHaOKU199",
+      "ratingE6": 666667,
+      "medianCompletionTimeMs": 2070168
+    },
+    {
+      "guid": "9908e1b7c8814ade8b8f0273b9591693.1c",
+      "title": "Battle Of Limburg #45",
+      "image": "https://lh3.googleusercontent.com/NHAJeGNXVwDikwkNo0FK6l2yLCanhoFOjDS0t3IzPr5HlGcMIjmq9CxCJy7yRHtrXN2vgim6HcaNOPP7Hzkd",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 4277445
+    },
+    {
+      "guid": "0b496b1b50824e6db0006aafe2dabf41.1c",
+      "title": "Battle Of Limburg #46",
+      "image": "https://lh3.googleusercontent.com/_9C1Z-sK53KAU0dtJeO-5QN1rtWLkvtDokLFrhJq6FBWe4Qaetg-FYSTroKPnEiaR6jT49TPGqIfJ6n8Qnb-",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 1545549
+    },
+    {
+      "guid": "e6d08a85a6384336a3168f083d45b458.1c",
+      "title": "Battle Of Limburg #47",
+      "image": "https://lh3.googleusercontent.com/ABeoaklMqBy8OX75l83oc-vVpXl7BGaATUlExq5T4xGh4OmE_JWyL2Tf3QrM7MmCh9Z8FfaDyBSi8zBKrAJI",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 1074275
+    },
+    {
+      "guid": "d322e43ff7234baf9d72e9cdc689009a.1c",
+      "title": "Battle Of Limburg #48",
+      "image": "https://lh3.googleusercontent.com/wO0u6ZbyvCYuWX86lftb_cFKitNU2DWIGPQ_xDU2OtRwuwvEt2cbOYxnnr2Omj5k0xYuPMk0Ooe0w-pywuI",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 2544731
+    }
+  ]
 }

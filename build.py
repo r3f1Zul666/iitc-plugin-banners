@@ -49,8 +49,7 @@ def generate(provider):
                 print "hashing: %s" % (banner,)
                 metadata, sha256 = hash(banner)
                 include["banners"][banner]["name"] = metadata["name"]
-                include["banners"][banner]["authorNickname"] = metadata["authorNickname"]
-                include["banners"][banner]["authorFaction"] = metadata["authorFaction"]
+                include["banners"][banner]["authors"] = metadata["authors"]
                 include["banners"][banner]["sha256"] = sha256
                 include["banners"][banner]["length"] = len(metadata["missions"])
 

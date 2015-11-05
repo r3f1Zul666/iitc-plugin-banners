@@ -1,0 +1,260 @@
+{
+  "name": "Liège City Trip",
+  "authors": {
+    "DjDirtboy": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "7b8289da6e94403ebc98da4416912889.1c",
+      "title": "Liège City Trip 1/36",
+      "image": "https://lh3.googleusercontent.com/qWSuCAdVnsfTzVkR4nssja8T3iS2_21H6kfZEMiOPiiSiz0cRspBlPqU9WRgbX2ZHUnR0n5e5YNnoUmZfRcP",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 997119
+    },
+    {
+      "guid": "b53a0d55194549bd80f6bd249ecba5be.1c",
+      "title": "Liège City Trip 2/36",
+      "image": "https://lh3.googleusercontent.com/gW3iXBW5j-NzS9xrz7V-XDH1XOEwxOx8-blrm_5CcIF4wZ0IY-TklikRKkcjzmCve03n9NJ_vyszc3bMbZzp",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 734708
+    },
+    {
+      "guid": "1a6c3953f5c347d4823520c8d5d8c2fc.1c",
+      "title": "Liège City Trip 3/36",
+      "image": "https://lh3.googleusercontent.com/yX7mjfKEXg4l4Ysg1037raWaoHcWY1c4dl4J_zxtpnAz_G4KLkPSn4rVCzMLLb3FJcYFveFsWQpi3bjPc4lH",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 407684
+    },
+    {
+      "guid": "0b05eecce84d4142952b9e8a1635da44.1c",
+      "title": "Liège City Trip 4/36",
+      "image": "https://lh3.googleusercontent.com/9d39B58oFkFmrVw67XPT0uCtl7qD3A9rrVSPnxtz-tQCnwUl5yuQu2yEZb242GDMr4cuUkV5OsxE1uzO_6HK-Q",
+      "ratingE6": 857143,
+      "medianCompletionTimeMs": 1376383
+    },
+    {
+      "guid": "13e78379174144b99fde533bf60f6c61.1c",
+      "title": "Liège City Trip 5/36",
+      "image": "https://lh3.googleusercontent.com/hiLcTMmacE1Scgvp-qOT3gYiMHyQ4ATVSjo-CP4xeC5_tPl6e7CMVRxQw-5B2oDxZl9DXY9-wjwujcfYemo",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 900026
+    },
+    {
+      "guid": "a226c2ce3a4a437d9083e49fa5953ef5.1c",
+      "title": "Liège City Trip 6/36",
+      "image": "https://lh3.googleusercontent.com/isTKpJgHgNcoe3w7IvAF5mKlLQRzzo1sAuSwA74YciQbK81y1coLGqggJ-MnRAd0aQdmoTyxBN-CJy1GyGIc",
+      "ratingE6": 842105,
+      "medianCompletionTimeMs": 854011
+    },
+    {
+      "guid": "866f0253cf244a049fc118240ebd7a18.1c",
+      "title": "Liège City Trip 7/36",
+      "image": "https://lh3.googleusercontent.com/YKeHOQWvz1LtbepWADcC0S-trKYfbZCP8QEeNE-hNL2YepG4V0txkoJgrEYY5tjZOICAXTsygoVcKk8_SW_YNw",
+      "ratingE6": 950000,
+      "medianCompletionTimeMs": 523028
+    },
+    {
+      "guid": "15f47b6d4e9640ddadce90c25d37ba8d.1c",
+      "title": "Liège City Trip8/36",
+      "image": "https://lh3.googleusercontent.com/VQJOKP1mnzq3duP2DKP7-E80oUyXuj40nHm9rrV_6KaRrAPR7t1wRMGJBxW4aJvKmcCud2zxSOQ_BRy-N42Ieg",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 528534
+    },
+    {
+      "guid": "dcd8d80331ab40cb873c8463f6274952.1c",
+      "title": "Liège City Trip 9/36",
+      "image": "https://lh3.googleusercontent.com/Oc-5FGXgMDUxS4awp_ZB0u7asRS0HZ9RYehE0A_bCpdSI6YccKzea4tqdld4NtzEcU2Qiu5aaYrgxF-XUGg",
+      "ratingE6": 850000,
+      "medianCompletionTimeMs": 446303
+    },
+    {
+      "guid": "3857743d50e44875babdb5c2c3212136.1c",
+      "title": "Liège City Trip 10/36",
+      "image": "https://lh3.googleusercontent.com/lKuqVeGRVX9fNyzS3FemZslk0BvEa3FRpsNhw95nVSQQwsT7pbx3XumGr3AluvE7Gf_tI2v-SQhYEPw6IPn-Yg",
+      "ratingE6": 947368,
+      "medianCompletionTimeMs": 361163
+    },
+    {
+      "guid": "e7663418762f466e8b5235f3f05c1c82.1c",
+      "title": "Liège City Trip 11/36",
+      "image": "https://lh3.googleusercontent.com/QK2AhbVyqlNGqcWPEV6nSqr3RyFNZW6dei8Znd1gz6IesX0AafLAvHyOAIxKIhWCkfwwM08RYnUwPnl_1Dou",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 911499
+    },
+    {
+      "guid": "2e3ec01fe78a42f2a449f781be749cd7.1c",
+      "title": "Liège City Trip 12/36",
+      "image": "https://lh3.googleusercontent.com/PF7pirSNhl3pPpPl8kWrlxq5a9Zn0WRvramAk8gQ_cPBCmSTk0qPJhef0NMvnXfXYhMW9wDgRu1jZurLau_k",
+      "ratingE6": 947368,
+      "medianCompletionTimeMs": 528935
+    },
+    {
+      "guid": "1be0109863c14734ab74ceb4f0ff259c.1c",
+      "title": "Liège City Trip 13/36",
+      "image": "https://lh3.googleusercontent.com/IpaA6AELLHJwoJnBxM_XD7V_ItSZ_akqaPDCfKjXSiYPyvP9rITRpI3EnzlF2Ece0ws32bmqD7fOLp29fEE",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 225766
+    },
+    {
+      "guid": "8fafca1c89d040ffb3a52ce1a3f1fe7d.1c",
+      "title": "Liège City Trip 14/36",
+      "image": "https://lh3.googleusercontent.com/5ChTZwxOM1mX_Z-T1BQLBtuJyEHSy4n6R5Pejh8O_FHsvIAFvMEsrU6JRHDEC0CaK4T1wbpKsEEWodzedWHEKw",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 259634
+    },
+    {
+      "guid": "f33d55d52f0742c89d90afbe3927ec59.1c",
+      "title": "Liège City Trip 15/36",
+      "image": "https://lh3.googleusercontent.com/nl0vUkhTFSQXMT4gaKg-56qSs9axwe_RFHUJ1aZivjc4DqZfz4WK0WLfyRJnROLJ3KyAuEK2KqbOGqF2qW_j",
+      "ratingE6": 950000,
+      "medianCompletionTimeMs": 356669
+    },
+    {
+      "guid": "09c356dff18a4686b6a1d69e90d36f81.1c",
+      "title": "Liège City Trip 16/36",
+      "image": "https://lh3.googleusercontent.com/lz607JOI9vv_iiTMjtC_9bFi05ORsuV3R3ZJOd4WeyJWEfkz4YRoEgaaY0xga12t9PiAZtN9nV9aEPA92wA",
+      "ratingE6": 950000,
+      "medianCompletionTimeMs": 391722
+    },
+    {
+      "guid": "8c3e359e997d4dccaeaf02f40fbb3a2f.1c",
+      "title": "Liège City Trip 17/36",
+      "image": "https://lh3.googleusercontent.com/IqcAi6xs_hVIcE_V_nZczcYDrnwE1jA4wpe2HULZVXFv7osJgNuhX7-u4nIbJHwXhmcwbldg9BYvHS-AGOU98Q",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 119664
+    },
+    {
+      "guid": "0e988d5d937c4f7fb530e6f50fffaa81.1c",
+      "title": "Liège City Trip 18/36",
+      "image": "https://lh3.googleusercontent.com/QygqpKRyMCx8uiN5-kDyMCrWOfeyP7I-F3PdsWOeDqMOAwi_Q50bXFLhCdn2pdn03T5Yfs-8jeXF8JvZRJ8",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 85656
+    },
+    {
+      "guid": "bbdb8f50a55d4bcf8832dc177a412201.1c",
+      "title": "Liège City Trip 19/36",
+      "image": "https://lh3.googleusercontent.com/B_XQzNmqYPr6Qmf5viYA5x_PNIRVgWy3OhjhFTPSaizmxlKELtanEdm4dtnBr_UMLU2LHqaej_HC99eQb-Q",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 65497
+    },
+    {
+      "guid": "52c5a0996f3c4b5dbc8cc9a4f94a3c61.1c",
+      "title": "Liège City Trip 20/36",
+      "image": "https://lh3.googleusercontent.com/m7gNy46F8Cqzzv7QTE_dg4Q6OP-N4ItFPoPZMBungXK5hvd4Niw3VNgNiHQQY-gnpMsiCZPQbyBCm6KpwgE",
+      "ratingE6": 863636,
+      "medianCompletionTimeMs": 107469
+    },
+    {
+      "guid": "36b14df7df5d469886ee63f1005ef0e4.1c",
+      "title": "Liège City Trip 21/36",
+      "image": "https://lh3.googleusercontent.com/lMXqcGS111eih4-dIfm1NGBe_bax0qDUXXRHm2VEBQH2zeXoQOBur4TjSwDOQ6lpWvGy2FGd2yb3Mv_BXEJY",
+      "ratingE6": 800000,
+      "medianCompletionTimeMs": 294193
+    },
+    {
+      "guid": "82a1138a239c41068c974916ae296def.1c",
+      "title": "Liège City Trip 22/36",
+      "image": "https://lh3.googleusercontent.com/XMHgHLeKK_QuV1knDun6ejyqWOcAUQyMH9Y0aRpcHQHnrIP7yeouRPcRHKrwjnkWLkx_s1mRY85oj4mxGMY",
+      "ratingE6": 850000,
+      "medianCompletionTimeMs": 180168
+    },
+    {
+      "guid": "7273959a44f248f5b9e7574154e91f71.1c",
+      "title": "Liège City Trip 23/36",
+      "image": "https://lh3.googleusercontent.com/05jjbv1f1gweLodDds23v2W3lE_10L2-YBHT-YQd8hjx5uK_SCZVb0QUGH9nDBLyhxLTp_3r1rTcz68klscs",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 92098
+    },
+    {
+      "guid": "01647442e6dc4a9f868a7691841cd0e6.1c",
+      "title": "Liège City Trip 24/36",
+      "image": "https://lh3.googleusercontent.com/q-sf67q3vPoD6EL8R8wOm3dEQF_Vvq5Cqj8QA8ZoJUPrb49a05MsgbSyi7XCxK8-Cgf_rj8yb2Mu5o51sKfa",
+      "ratingE6": 850000,
+      "medianCompletionTimeMs": 137023
+    },
+    {
+      "guid": "be7d8c9b342a4638a224fca5e45dabed.1c",
+      "title": "Liège City Trip 25/36",
+      "image": "https://lh3.googleusercontent.com/3b_sqHm88rb4RaG2JIxNvW_-GEoKgevdjknJkCy2CRa7WWt-bIPOqo89XagW_FhsJ1xGgND3LD2vqtLQBiVk",
+      "ratingE6": 850000,
+      "medianCompletionTimeMs": 145987
+    },
+    {
+      "guid": "6efefb0b0f1e45aca6f623ab4bfd3b2f.1c",
+      "title": "Liège City Trip 26/36",
+      "image": "https://lh3.googleusercontent.com/8AjyOqkSqDEkNa4JLcvbcJ7i4RsrDQ6tfShsjUDeuwiHLy_6ofhbtHKId64urO5aXYShVjdNoK_mgyJMnbBEFg",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 261303
+    },
+    {
+      "guid": "60fab151166f4c099f534025a26882a6.1c",
+      "title": "Liège City Trip 27/36",
+      "image": "https://lh3.googleusercontent.com/FG5k-VPzy85mDn9e-VUExpATDLN008HZcoTNiZZlmFeq0Snaj8V0RPCgu2xHvt5xUv__TDL-uEbKjU4Iria6",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 200410
+    },
+    {
+      "guid": "b8986cde82d640c092c672ea1a68465e.1c",
+      "title": "Liège City Trip 28/36",
+      "image": "https://lh3.googleusercontent.com/vLxcueE7pyRVZz54-_VyBHgs7ahMpk0AxcjCW3e0N43ZxT3B0vK-TrfvqQJHMOhuvhQD2SIOc9tgYPM0OmlhSw",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 452042
+    },
+    {
+      "guid": "9a7123c2af2144fca7f3baa8cc8ce296.1c",
+      "title": "Liège City Trip 29/36",
+      "image": "https://lh3.googleusercontent.com/vkQLi4PB7qGq4EjigRlZvzsOCRAvzyMQ40r39K8A4ZDA6FzVRU6f7vYap0tg6-d3HaVDu9usquT203nbIr6p",
+      "ratingE6": 850000,
+      "medianCompletionTimeMs": 292938
+    },
+    {
+      "guid": "f68da395ec0e4dbcb2ed237ea0ba6253.1c",
+      "title": "Liège City Trip 30/36",
+      "image": "https://lh3.googleusercontent.com/IQvyvXPt13mI-E1G8MSW0Sx_G2clgpi_T-I74tR6hP6Yydp6_znAey5AWIVHYXPYRGbCrNz7l1YKv9gfrXzt",
+      "ratingE6": 904762,
+      "medianCompletionTimeMs": 569017
+    },
+    {
+      "guid": "d9eefba3e08d41f9b550c41095468a49.1c",
+      "title": "Liège City Trip 31/36",
+      "image": "https://lh3.googleusercontent.com/WzbtOFakz8vUyM4Y4ZzOOuKn4FNVoFHz9Mp7SSLWxrxxZSf0ZIXLBHr86D0qxSiVtkxTtZQRvSaL_OchFjE",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 486164
+    },
+    {
+      "guid": "37a1fcb397154d848d57dabfc217334f.1c",
+      "title": "Liège City Trip 32/36",
+      "image": "https://lh3.googleusercontent.com/rAy4ePx-b0x1_oVWQ5BuqCQpaz90tcHGCQPpEtZg4VrwpEbW1dKtHlC2aFZxdw3D1lduqT2IE0Wf57z_GKfp",
+      "ratingE6": 894737,
+      "medianCompletionTimeMs": 625622
+    },
+    {
+      "guid": "1c0a427fea444cceb1239bcae2239f28.1c",
+      "title": "Liège City Trip 33/36",
+      "image": "https://lh3.googleusercontent.com/fyUCGKEQOS5XGFxnvBQFm-69ZDWmW-nKUG0VmtFPwGi2uHVHXAw06ydXDXn2jT_SN2SqI3mZmty9zEHLcss",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 579090
+    },
+    {
+      "guid": "afd57ca5fb92459c8d4625c9ab068173.1c",
+      "title": "Liège City Trip 34/36",
+      "image": "https://lh3.googleusercontent.com/eeFLXUomAQgrR-8hCLMAw4cGKr-a_wn4U4DOzxGGrn1oxsPj4MAdQ8oAoezAXq33vzsnDlaRJqj-WvDQ3-s",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 398607
+    },
+    {
+      "guid": "5a7476f745f5482a957afc91bb3db680.1c",
+      "title": "Liège City Trip 35/36",
+      "image": "https://lh3.googleusercontent.com/GzXSwxRDArw7SI_6bK48y2PQWXZa86_hEy9f_63XgqF1KN_H7UK7NIdCCQoeA_PSgDmLCh7D0DxSC1pMmA4",
+      "ratingE6": 842105,
+      "medianCompletionTimeMs": 245803
+    },
+    {
+      "guid": "310c8bbfba4543c49caf4628e2926017.1c",
+      "title": "Liège City Trip 36/36 Neutre",
+      "image": "https://lh3.googleusercontent.com/IWLXtM6imKWIndq0zIPc0BxoKCBnggM1t7tU8oBIV4RFsYDo-v5RE_e-AbqMp3w5_2EJefUhihUiso7lUcEJ4A",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 0
+    }
+  ]
+}

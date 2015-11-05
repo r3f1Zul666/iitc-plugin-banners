@@ -1,49 +1,50 @@
 {
-   "name": "Olen shield missions",
-   "authorNickname": "hydrotherion",
-   "authorFaction": "Enlightened",
-   "missions": [
-      {
-         "guid":"384228e486a740f68814279766bb68d9.1c",
-         "title":"Olen shield missions 1/6",
-         "image":"https://lh3.googleusercontent.com/s7DBsHSF0R_f1zVpK0qYzw8tNQgLJ7mBdIWHHOZMTsm5sw-6xnOX2Le_Eds86ARxtDa11rOLTWDCcgeALR6PsA",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":686041
-      },
-      {
-         "guid":"874feba04cdb498a8c84bcc8d982a905.1c",
-         "title":"Olen shield missions 2/6",
-         "image":"https://lh3.googleusercontent.com/ejjjMpFwQ5AVEdtI4rdzZIzgUJk0sm6Bs-qNVdrno4X_VW_kjq47VvNNHCsFOPzJl8xGeqkM4BTtJTOQ4Zs",
-         "ratingE6":666667,
-         "medianCompletionTimeMs":3812473
-      },
-      {
-         "guid":"e8e189c2ae044dd386ef5e43ef06f844.1c",
-         "title":"Olen shield missions 3/6",
-         "image":"https://lh3.googleusercontent.com/-GIU9CO9aF0J3avJ4jAQuD8b9a9cOTfSxpZzElEfSKOl5j8ZeK07wpRmCZsh8ViULSQyNrbfVvPq6B1QgmxG",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":714367
-      },
-      {
-         "guid":"b5e6a218137844bebf2fdaa83572ff0b.1c",
-         "title":"Olen shield missions 4/6",
-         "image":"https://lh3.googleusercontent.com/6Zazjrsew_-yVtFi2NQiOoxz4teXSVQmd45EUF5FZEOYjlU3Decpr9tm5DSDqvUS3y1GOo1UVu1eBn-OZ7g",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":521992
-      },
-      {
-         "guid":"3393d8fa7bce4edfbb25ade90ab77bf2.1c",
-         "title":"Olen shield missions 5/6",
-         "image":"https://lh3.googleusercontent.com/k3CXOom-4Wk4vJHNqCqvERRndU0jxMGPpOxeVAa7tb1EP7LsuHFMpljbZ7ZE2mgFKqziks5KZ2NlCGrWqItlrA",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":380367
-      },
-      {
-         "guid":"cb795379131641f2aa9ba061be50e558.1c",
-         "title":"Olen shield missions 6/6",
-         "image":"https://lh3.googleusercontent.com/SJ2DG7WEXJ1WQKirww1OIH2jliERvAqT1FKuvqNW-B31NPjJ5To5SYrBk_7vK90iJb4dXQUS_asRlfqB5prm",
-         "ratingE6":1000000,
-         "medianCompletionTimeMs":652860
-      }
-   ]
+  "name": "Olen shield missions",
+  "authors": {
+    "hydrotherion": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "384228e486a740f68814279766bb68d9.1c",
+      "title": "Olen shield missions 1/6",
+      "image": "https://lh3.googleusercontent.com/s7DBsHSF0R_f1zVpK0qYzw8tNQgLJ7mBdIWHHOZMTsm5sw-6xnOX2Le_Eds86ARxtDa11rOLTWDCcgeALR6PsA",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 686041
+    },
+    {
+      "guid": "874feba04cdb498a8c84bcc8d982a905.1c",
+      "title": "Olen shield missions 2/6",
+      "image": "https://lh3.googleusercontent.com/ejjjMpFwQ5AVEdtI4rdzZIzgUJk0sm6Bs-qNVdrno4X_VW_kjq47VvNNHCsFOPzJl8xGeqkM4BTtJTOQ4Zs",
+      "ratingE6": 666667,
+      "medianCompletionTimeMs": 3812473
+    },
+    {
+      "guid": "e8e189c2ae044dd386ef5e43ef06f844.1c",
+      "title": "Olen shield missions 3/6",
+      "image": "https://lh3.googleusercontent.com/-GIU9CO9aF0J3avJ4jAQuD8b9a9cOTfSxpZzElEfSKOl5j8ZeK07wpRmCZsh8ViULSQyNrbfVvPq6B1QgmxG",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 714367
+    },
+    {
+      "guid": "b5e6a218137844bebf2fdaa83572ff0b.1c",
+      "title": "Olen shield missions 4/6",
+      "image": "https://lh3.googleusercontent.com/6Zazjrsew_-yVtFi2NQiOoxz4teXSVQmd45EUF5FZEOYjlU3Decpr9tm5DSDqvUS3y1GOo1UVu1eBn-OZ7g",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 521992
+    },
+    {
+      "guid": "3393d8fa7bce4edfbb25ade90ab77bf2.1c",
+      "title": "Olen shield missions 5/6",
+      "image": "https://lh3.googleusercontent.com/k3CXOom-4Wk4vJHNqCqvERRndU0jxMGPpOxeVAa7tb1EP7LsuHFMpljbZ7ZE2mgFKqziks5KZ2NlCGrWqItlrA",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 380367
+    },
+    {
+      "guid": "cb795379131641f2aa9ba061be50e558.1c",
+      "title": "Olen shield missions 6/6",
+      "image": "https://lh3.googleusercontent.com/SJ2DG7WEXJ1WQKirww1OIH2jliERvAqT1FKuvqNW-B31NPjJ5To5SYrBk_7vK90iJb4dXQUS_asRlfqB5prm",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 652860
+    }
+  ]
 }

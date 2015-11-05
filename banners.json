@@ -2,7 +2,7 @@
   "providers": {
     "provider-europe": {
       "length": 27, 
-      "sha256": "6dac8f60eb40d225d8bba0948809b3a98f28723088c18eadeea42b2c14ceb21d", 
+      "sha256": "ad8ed987c02ae7cfa2c8dec27c2502f76d33dccc14229755fece0ef5882964af", 
       "name": "Europe"
     }, 
     "provider-asia": {

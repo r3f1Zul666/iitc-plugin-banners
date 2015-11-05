@@ -154,8 +154,8 @@
       }
     }, 
     "belgium/roeselare": {
-      "length": 11, 
-      "sha256": "79e5c5522f732086b77f7b267cb759970bc3a3fb193f6dd7d722b4e25f726f1c", 
+      "length": 12, 
+      "sha256": "5fd4f0c7a83adfc9ba25d370caa3025e03938eb9c251c50b0d4e2f153c9d28c7", 
       "name": "Roeselare", 
       "authors": {
         "IGuruMadMatI": "Resistance"

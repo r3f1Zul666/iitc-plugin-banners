@@ -2,8 +2,8 @@
   "name": "Am\u00e9rica", 
   "providers": {
     "provider-colombia": {
-      "length": 3, 
-      "sha256": "971f7d87436944eefd6ea089b4a12d5c46643555f5d8190390894405aef02f0e", 
+      "length": 4, 
+      "sha256": "9c7ac06dadbcae8af1b01f328b4665b3f46e17f2a2078cbe407f2bee69ef361e", 
       "name": "Colombia"
     }
   }

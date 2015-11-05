@@ -2,6 +2,7 @@
   "name": "Asia", 
   "providers": {
     "provider-south-korea": {
+      "length": 1, 
       "sha256": "c634314543ed621a0b3db341a372f07fa85425c23499c5d0bf16ad2868b91614", 
       "name": "South Korea"
     }

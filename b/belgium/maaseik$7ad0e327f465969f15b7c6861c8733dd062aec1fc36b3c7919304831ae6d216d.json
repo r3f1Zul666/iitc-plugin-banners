@@ -1,0 +1,57 @@
+{
+  "name": "Maaseik",
+  "authors": {
+    "Wietskie": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "b1eff248d6af4346aaf26195e3f2812d.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 1/7",
+      "image": "https://lh3.googleusercontent.com/VXNtHONRh2ssXdcWlmR3-_OkGzAvJ-2VWxMWl9xXARQj24fjobp90Z_o-UHH2z7KHHahxEPdGD2AuwU224DAjw",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "f52e0a2095f947a2939c8d8de87bcb43.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 2/7",
+      "image": "https://lh3.googleusercontent.com/kZCfPV3vSqG9h5LzA56ISjgRMR0OhqqYXSRVehhasjbmxKNGyUC-cR3YUSOV0jdIZ9jObU9vA6ZLfbreE2yw",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "43c6b74b91fd4cd3976b137c6a645c7f.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 3/7",
+      "image": "https://lh3.googleusercontent.com/d8U4UC2hIX0LI0AcI_LK7a1CMwsfAyIsb8ilkHjtDf5uRj6dCawlUp5PMPhTFUC4QE_i_POBNEfw7OvLB0yGCA",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "a4fd7c327fe34f58b424fada799692ed.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 4/7",
+      "image": "https://lh3.googleusercontent.com/CsBH0vbQXK09u_2ewfcxjybqVGEMY9FRJGnrqMRDyZBo7dQxIx2dDmPKmtZNiFsslp2xCpOMWb1G6rM-NZs",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "51df886970f8492eb9a06b81b6ab0dd7.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 5/7",
+      "image": "https://lh3.googleusercontent.com/bh6O-fuVztVNLcvJmc4rpMM0hDMQbh8iLlMALjveLnRBWnBfDhUVweOCfqFLdnvCXKVh41umFm7AusJX9YP2Ww",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "7bd282bf550c40089606587fe23680bc.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 6/7",
+      "image": "https://lh3.googleusercontent.com/fgez1GKmnpH7xBxeD-SdROK0sUndDUMrf0s_tVFpWjf5lZCpUYTxI8AsgatrtYQzrJ6eWehs8Zh80wJRO90",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    },
+    {
+      "guid": "08da09b642084015b89c421e24f75452.1c",
+      "title": "Maaseik - Vrolijk En Verrassend 7/7",
+      "image": "https://lh3.googleusercontent.com/dEM5xPHMF3nqwU8aCzMbpNMnytnCV-pY3SjfM7JTe72nm9nJBOk3TMlPh3sDhx4-5tfWhRoovwbd5_eF55s",
+      "ratingE6": 0,
+      "medianCompletionTimeMs": 0
+    }
+  ]
+}

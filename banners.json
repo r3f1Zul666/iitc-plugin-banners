@@ -1,11 +1,13 @@
 {
   "providers": {
     "provider-europe": {
-      "sha256": "c2c510028b9674e8ac68f4bad2884d4234051e52e05f250ffd4f4cbaf0d136c6", 
+      "length": 27, 
+      "sha256": "6dac8f60eb40d225d8bba0948809b3a98f28723088c18eadeea42b2c14ceb21d", 
       "name": "Europe"
     }, 
     "provider-asia": {
-      "sha256": "e9d350789cdcac802840fc062e0faa6dad375e149e90ec47125a7cb4f380cb1e", 
+      "length": 1, 
+      "sha256": "425365e66876dcc373aa88d85218dec1f1def6b93ed459292eae7cdf6056d003", 
       "name": "Asia"
     }
   }, 

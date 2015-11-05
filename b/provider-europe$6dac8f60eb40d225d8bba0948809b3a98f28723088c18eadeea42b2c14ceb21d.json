@@ -2,11 +2,13 @@
   "name": "Europe", 
   "providers": {
     "provider-netherlands": {
+      "length": 0, 
       "sha256": "816383833e137c95873b9273797e7084a9ad27a590997127db1bf18a4d890464", 
       "name": "The Netherlands"
     }, 
     "provider-belgium": {
-      "sha256": "80c466e147017588fc4c8094ffbb7e18da687f996e678d02aa965bdde6686dc9", 
+      "length": 27, 
+      "sha256": "fe1bfdc8823c4cae7091c5cab97ae80941a679133f0dd27417e60ad9b2c81260", 
       "name": "Belgium"
     }
   }

@@ -25,7 +25,6 @@ if(typeof window.plugin !== 'function') window.plugin = function() {};
 // PLUGIN START ////////////////////////////////////////////////////////
 
 var timeToRemaining = function(t) {
-    console.log(t);
     var minutes = Math.floor(t/60)%60;
     var hours = Math.floor(t/3600)%24;
     var days = Math.floor(t/86400);
@@ -64,14 +63,11 @@ Repository = function(base) {
         var self = this;
         var url = this.base + this.providers_url.replace("%banner%", provider).replace("%hash%", sha256);
 
-        console.log("fetching " + url);
         $.ajax({
             dataType: "json",
             url: url,
             success: function(data) {
-                console.log("fetched");
                 if(self.check(data, sha256)) {
-                    console.log("integrity OK");
                     callback(data);
                 }
             },
@@ -118,6 +114,9 @@ window.plugin.banners = {
                         return false;
                     }, false);
                 })(provider, metadata);
+
+                var length = div.appendChild(document.createElement('span'));
+                length.textContent = " (" + metadata.length + ")";
             }
         }
 
@@ -182,7 +181,6 @@ window.plugin.banners = {
 
     show: function(data) {
         if(data.hasOwnProperty("providers")) {
-            console.log("showing providers");
             this.showProviders(data.providers);
         }
         else if(data.hasOwnProperty("banners")) {
@@ -240,7 +238,6 @@ window.plugin.banners = {
     },
 
     displayBanner: function(name, banner){
-        console.log(banner);
         dialog({
             id: 'plugin-banner-details',
             // title: mission.title,
@@ -265,9 +262,7 @@ window.plugin.banners = {
     },
 
     openBanners: function() {
-        console.log("loading repository");
         this.repository.root(function(data){
-            console.log("repository loaded");
             this.show(data);
         }.bind(this));
     },

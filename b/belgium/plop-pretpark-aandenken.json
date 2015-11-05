@@ -1,0 +1,36 @@
+{
+  "name": "Plop pretpark aandenken",
+  "authors": {
+    "Bicky": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "8709c43d897242699c0dce64ca3d6f42.1c",
+      "title": "Plop pretpark aandenken (1 van 4)",
+      "image": "https://lh3.googleusercontent.com/7yDmD4vrpVNEOG-a2NNLyXvOWnegTz7WYAEEHU3LNFKFLZqJq0zvmhOHeApUr-Wr825JI2MuUEUk0u7vHI6J",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 1307972
+    },
+    {
+      "guid": "88fbfc359a674199af7b3187bb1bfcde.1c",
+      "title": "Plop pretpark aandenken (2 van 4)",
+      "image": "https://lh3.googleusercontent.com/SjAhhKn2SeyISk7doum4ZsZrubtXVGSw1k-1IjJNqc9hLTiRvSVvnNnHRyFUl21kAdys2vEPmzJb7wjehZewIg",
+      "ratingE6": 777778,
+      "medianCompletionTimeMs": 2890565
+    },
+    {
+      "guid": "bc3e69c205264fcdb4039c1d56c8f6c1.1c",
+      "title": "Plop pretpark aandenken (3 van 4)",
+      "image": "https://lh3.googleusercontent.com/U5_g7AJS_YOEYla9re0OWMzD_sbJLwhKIXn6UCjYdRVSzFSI6stGs00FheLfWs-xHBZ1-ZqqCGajTeqfzlu-",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 1515601
+    },
+    {
+      "guid": "b07f06bffe6b4cf589b549230d93318c.1c",
+      "title": "Plop pretpark aandenken (4/4)",
+      "image": "https://lh3.googleusercontent.com/rbadjXCmc7ReaLn9JXgdIcSdcsoDN8-oqrk_aviQAwlyHnf7JLInul3zxBTFImqPFk4wpsrggrmxsYaAx1A",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 1638602
+    }
+  ]
+}

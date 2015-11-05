@@ -34,26 +34,30 @@ def hash(banner):
 
 
 def generate(provider):
+    provider_length = 0
+
     with open(path(provider)) as data:
         include = json.load(data)
 
-        if "providers" in include:
-            for subprovider in include["providers"]:
-                print "building: %s" % (subprovider,)
-                metadata, sha256 = generate(subprovider)
-                include["providers"][subprovider]["name"] = metadata["name"]
-                include["providers"][subprovider]["sha256"] = sha256
+        for subprovider in include.get("providers", []):
+            print "building: %s" % (subprovider,)
+            metadata, sha256, subprovider_length = generate(subprovider)
+            include["providers"][subprovider]["name"] = metadata["name"]
+            include["providers"][subprovider]["sha256"] = sha256
+            include["providers"][subprovider]["length"] = subprovider_length
+            provider_length += subprovider_length
 
-        if "banners" in include:
-            for banner in include["banners"]:
-                print "hashing: %s" % (banner,)
-                metadata, sha256 = hash(banner)
-                include["banners"][banner]["name"] = metadata["name"]
-                include["banners"][banner]["authors"] = metadata["authors"]
-                include["banners"][banner]["sha256"] = sha256
-                include["banners"][banner]["length"] = len(metadata["missions"])
+        for banner in include.get("banners", []):
+            print "hashing: %s" % (banner,)
+            metadata, sha256 = hash(banner)
+            include["banners"][banner]["name"] = metadata["name"]
+            include["banners"][banner]["authors"] = metadata["authors"]
+            include["banners"][banner]["sha256"] = sha256
+            include["banners"][banner]["length"] = len(metadata.get("missions", []))
 
-    return dump(provider, include)
+        provider_length += len(include.get("banners", []))
+
+    return include, dump(provider, include), provider_length
 
 
 def dump(provider, include):
@@ -63,7 +67,7 @@ def dump(provider, include):
     output_file = dpath("%s$%s" % (provider, sha256))
     with open(output_file, "wb") as f:
         f.write(contents)
-    return include, sha256
+    return sha256
 
 if not os.path.exists(build_directory):
     os.makedirs(build_directory)
@@ -80,9 +84,10 @@ with open("banners.json") as data:
     if "providers" in root:
         for provider in root["providers"]:
             print "building: %s" % (provider,)
-            metadata, sha256 = generate(provider)
+            metadata, sha256, provider_length = generate(provider)
             root["providers"][provider]["name"] = metadata["name"]
             root["providers"][provider]["sha256"] = sha256
+            root["providers"][provider]["length"] = provider_length
 
     output_file = os.path.join(build_directory, "banners.json")
     with open(output_file, "wb") as f:

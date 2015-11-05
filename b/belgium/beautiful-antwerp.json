@@ -1,0 +1,36 @@
+{
+  "name": "Beautiful Antwerp",
+  "authors": {
+    "sonjohan": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "a9ba6eccdf234e61a7423dab86567b94.1c",
+      "title": "Beautiful Antwerp 1",
+      "image": "https://lh3.googleusercontent.com/Rfs1NJ9_GMf525HrwsfAU9Fw0utleTGgdBlbO9_txp43RTh3e0mokgjQwN5gltnYEx10f4xK4zVrwkB2ENU-",
+      "ratingE6": 897436,
+      "medianCompletionTimeMs": 2116237
+    },
+    {
+      "guid": "1f3d73fadc7f4b95a59e27f9fe51bda1.1c",
+      "title": "Beautiful Antwerp 2",
+      "image": "https://lh3.googleusercontent.com/dfX72aZwTfrwUAVcPT7qRTjoZOT93pJ6ioggbmJUh_1JL31qOBH4gpuudrzw5u_WvyAapE_cj52gxIbq8hje",
+      "ratingE6": 933333,
+      "medianCompletionTimeMs": 1605790
+    },
+    {
+      "guid": "218f3bb6e9064462bdc14c2c0341f06e.1c",
+      "title": "Beautiful Antwerp 3",
+      "image": "https://lh3.googleusercontent.com/4uT57zuwRkWM-Efa3OCJFBdB9f8iwLOn6tiR5fSc7XFUfE8D0eYhTK2A1PEWriaPqzNbl2Oh8699z7amlAQ",
+      "ratingE6": 884615,
+      "medianCompletionTimeMs": 2943299
+    },
+    {
+      "guid": "123e8caef94c46828d0844c7d927348c.1c",
+      "title": "Beautiful Antwerp 4",
+      "image": "https://lh3.googleusercontent.com/P7nIQJOGQA59HhKpBXDHpWmDUrz1BOPp2dVcLZ-NWx-z39fMeH22g5Q7ZanIebg4MV1oBBy3XHhS32sZ_Kk",
+      "ratingE6": 894737,
+      "medianCompletionTimeMs": 4524286
+    }
+  ]
+}

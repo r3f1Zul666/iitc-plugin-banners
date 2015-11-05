@@ -1,5 +1,13 @@
 {
   "banners": {
+    "the-netherlands/can-you-handle-middelburg": {
+      "length": 60, 
+      "sha256": "09092361839a47ca8f75ff449af90c11d737bff4d9ca577e5c5d1c132082d02d", 
+      "name": "Can you Handle Middelburg", 
+      "authors": {
+        "ArchAngelCass": "Resistance"
+      }
+    }, 
     "the-netherlands/discover-vlissingen": {
       "length": 18, 
       "sha256": "d1301f5ef51077196ab495bf8fee6d1f4d418d5558a615f72e80d0188b9a4bfe", 

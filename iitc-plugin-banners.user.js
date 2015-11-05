@@ -2,7 +2,7 @@
 // @id             iitc-plugin-banners@aeurielesn
 // @name           IITC plugin: Banners
 // @category       Info
-// @version        0.1.4
+// @version        0.1.5
 // @namespace      https://github.com/aeurielesn
 // @updateURL      https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
 // @downloadURL    https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js
@@ -202,7 +202,7 @@ window.plugin.banners = {
         
         for(var i = 0; i < banner.missions.length; i += 6) {
             var row = table.appendChild(document.createElement('tr'));
-            for(var j = 0, k = i; j < 6; j++, k++) {
+            for(var j = 0, k = i; j < 6 && k < banner.missions.length; j++, k++) {
                 var mission = banner.missions[banner.missions.length - k - 1];
                 var cell = row.appendChild(document.createElement('td'));
                 img = cell.appendChild(document.createElement('img'));

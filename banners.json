@@ -1,8 +1,8 @@
 {
   "providers": {
     "provider-europe": {
-      "length": 31, 
-      "sha256": "3bb49d60da189d728aa6b0e7960983244ac0704f57ff77dbc05c96e1c98a6f2b", 
+      "length": 36, 
+      "sha256": "1ec6932ded79a7d8639e19a00ecb47746762d7758042295eca9ffe729fd735eb", 
       "name": "Europe"
     }, 
     "provider-america": {

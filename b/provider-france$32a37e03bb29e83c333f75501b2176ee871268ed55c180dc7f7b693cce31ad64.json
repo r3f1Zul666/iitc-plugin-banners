@@ -1,0 +1,21 @@
+{
+  "banners": {
+    "france/tour-d-eiffel": {
+      "length": 30, 
+      "sha256": "a05099669939ed0a0f0d6bbe1cc1561c70ffd313b3bce693b65cd4e505ca83d8", 
+      "name": "Tour d'Eiffel", 
+      "authors": {
+        "D3w3y": "Enlightened"
+      }
+    }, 
+    "france/the-eiffel-tower-banner": {
+      "length": 60, 
+      "sha256": "bbe72df4423df50364ed243d725ccf7595205a2a07f4db21389654a2c75ed974", 
+      "name": "The Eiffel Tower Banner", 
+      "authors": {
+        "FrNico": "Resistance"
+      }
+    }
+  }, 
+  "name": "France"
+}

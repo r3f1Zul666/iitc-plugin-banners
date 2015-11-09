@@ -2,9 +2,14 @@
   "name": "Europe", 
   "providers": {
     "provider-netherlands": {
-      "length": 4, 
-      "sha256": "0329d15dce972c315395e1033bb7596be7a8c5723c3202421b6a08efeceb8c06", 
+      "length": 7, 
+      "sha256": "909d3b43deebc5da4293857b5e003381028719727986e57e4259879d7db956f2", 
       "name": "The Netherlands"
+    }, 
+    "provider-france": {
+      "length": 2, 
+      "sha256": "32a37e03bb29e83c333f75501b2176ee871268ed55c180dc7f7b693cce31ad64", 
+      "name": "France"
     }, 
     "provider-belgium": {
       "length": 27, 

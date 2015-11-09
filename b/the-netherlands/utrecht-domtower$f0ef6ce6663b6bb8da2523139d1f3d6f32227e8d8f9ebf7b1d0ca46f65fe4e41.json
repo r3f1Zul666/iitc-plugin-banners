@@ -1,0 +1,428 @@
+{
+  "name": "Utrecht Domtower",
+  "authors": {
+    "odyssey2002": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "42c72bd956374b4fb73de40cb154f531.1c",
+      "title": "Utrecht Domtower Part 1/60",
+      "image": "https://lh3.googleusercontent.com/QVKT5UCvDLTuy-Euv5ZGolwMZNTHvx4iII7g2QKqk_DDXvGCLaI45mf1slbEb9DWmz-8BVG_7eh-ZOl-qQeU",
+      "ratingE6": 964286,
+      "medianCompletionTimeMs": 350861
+    },
+    {
+      "guid": "d3fb96becf234d5cbc93c1b9917877ca.1c",
+      "title": "Utrecht Domtower Part 2/60",
+      "image": "https://lh3.googleusercontent.com/qRLSqdU9wIHawWIjBOVXb78LN7u-0AvvWwy39ri8ZtSPBCJjc6TNQcv7YyTtoZJVh-OuWC-iSptW6QgkxWI70A",
+      "ratingE6": 968586,
+      "medianCompletionTimeMs": 221241
+    },
+    {
+      "guid": "7947cd6dc70a44ca97537836800c985a.1c",
+      "title": "Utrecht Domtower Part 3/60",
+      "image": "https://lh3.googleusercontent.com/tp95RfpfMbI9KyWeNNynfDFGHMl9_stjyv5sZmbqfczGCFMxjai2BBYAiXLlFxNaUtdYy10feByTLumvOJ0AqQ",
+      "ratingE6": 962766,
+      "medianCompletionTimeMs": 137315
+    },
+    {
+      "guid": "d122d430567a41e2a1032372b68a8381.1c",
+      "title": "Utrecht Domtower Part 4/60",
+      "image": "https://lh3.googleusercontent.com/GvMibLRjgAVCLGCr24udSUFkdeCGn1sJHqieL04Fxg7j1bE5yef7fgdKDiu0VrmSvuJ5zEg1uOWWDPIcbWv1lA",
+      "ratingE6": 950549,
+      "medianCompletionTimeMs": 315155
+    },
+    {
+      "guid": "289fde44237447dba38719108c27656e.1c",
+      "title": "Utrecht Domtower Part 5/60",
+      "image": "https://lh3.googleusercontent.com/a-kky-KZkmGMUM0uoEvbh7ZLxBCQYsxFWExzVFYdfqRyXPBumDAK9LKTIvaeudCHG_Aw_KOuWU9QUbXSBc84",
+      "ratingE6": 973262,
+      "medianCompletionTimeMs": 210132
+    },
+    {
+      "guid": "24e6afc1df3343e8bfa579f40ed13cc1.1c",
+      "title": "Utrecht Domtower Part 6/60",
+      "image": "https://lh3.googleusercontent.com/YaNNAKz-QKyMVTxmMTHGYYVgBpLFyzlthspanBYa9s3NCpjKPuwIXOCIdonmQvLFfZk9o0AR1cO3WbB5hEVcgQ",
+      "ratingE6": 978022,
+      "medianCompletionTimeMs": 164224
+    },
+    {
+      "guid": "5a74a7c13b044205ac2edeedb1d1ab8e.1c",
+      "title": "Utrecht Domtower Part 7/60",
+      "image": "https://lh3.googleusercontent.com/tBWGBmoRhB5nY0rMxYP7aqfSnTAs0WFhzoR4w59KQdZw3PJ6UyzYdNaSS_KPEtffn5HKCr26BJd16mRYZu-y",
+      "ratingE6": 952381,
+      "medianCompletionTimeMs": 336016
+    },
+    {
+      "guid": "746aab73eb2747d7b59ad60328c51ed4.1c",
+      "title": "Utrecht Domtower Part 8/60",
+      "image": "https://lh3.googleusercontent.com/98ZxtbGPtRi88chR82vVUklElNEXcBdxLaNcn2WMdxjDGsgSsy6Bx5_7MyexfQorTZUr7QAYhjy8mLpWzG6xxQ",
+      "ratingE6": 967742,
+      "medianCompletionTimeMs": 272894
+    },
+    {
+      "guid": "bac201c92aff493ea55c7d6191735ee4.1c",
+      "title": "Utrecht Domtower Part 9/60",
+      "image": "https://lh3.googleusercontent.com/y5McYvPJ6fjrNRk2v6KUJ_YZb2kFkIM6fPTq-Ll2ZgkjtN5y1Jj8TTkn-3lFpBtwkQmBDAHQzyZxdVDWVg2H",
+      "ratingE6": 972678,
+      "medianCompletionTimeMs": 179443
+    },
+    {
+      "guid": "6143646faf324beb8542c91d486e5ec4.1c",
+      "title": "Utrecht Domtower Part 10/60",
+      "image": "https://lh3.googleusercontent.com/jlBiecfnokoifI1QihG7dd1fXgX5TLKSGTfGJBmzorcqDXJl9lReRC9IdfrjHhFkwEIH3If80-GGLVRf1wM",
+      "ratingE6": 972973,
+      "medianCompletionTimeMs": 333242
+    },
+    {
+      "guid": "064b78b1b2a64009894efa41b3cfa143.1c",
+      "title": "Utrecht Domtower Part 11/60",
+      "image": "https://lh3.googleusercontent.com/bcx1oB3dNeWQdlrTzLa6yeykIv9yUKeuiFweIinz90uv118foDwE2OYn6pSOxBPVXbP7a3YpkkvtMrwLtumZcw",
+      "ratingE6": 972973,
+      "medianCompletionTimeMs": 167969
+    },
+    {
+      "guid": "e7fb3ed588394d61be613928786d6bd8.1c",
+      "title": "Utrecht Domtower Part 12/60",
+      "image": "https://lh3.googleusercontent.com/wE8SvlTESWf9tiD1d7TdEjrh4V1PYXfPK8Q-IFAgNRZwJYXcq1qVPm7Tqy4sS_5nE5GOsSW5zGo7rw5N9db9",
+      "ratingE6": 983696,
+      "medianCompletionTimeMs": 203558
+    },
+    {
+      "guid": "029488bb67274223a0cd68d538869495.1c",
+      "title": "Utrecht Domtower Part 13/60",
+      "image": "https://lh3.googleusercontent.com/ImWSOXVu-jU7UPRudzu6uLEyVvSvKj7lXihUPyMuhR0JZ0w1_NxdSMXGV8-Ehq7ANL3OSJqP8qgEV5YgLr6W",
+      "ratingE6": 994536,
+      "medianCompletionTimeMs": 181961
+    },
+    {
+      "guid": "30fa160285b64a8a8b14f506f4cf6b42.1c",
+      "title": "Utrecht Domtower Part 14/60",
+      "image": "https://lh3.googleusercontent.com/Qv3iXwOIZsqSSltJg67WsXP-Ic_Yw6Uz1hjlrVkbuR-eEhfbcVodM4khSuT7fP2C3BzXK9vRqJosu3V2wug",
+      "ratingE6": 983696,
+      "medianCompletionTimeMs": 153421
+    },
+    {
+      "guid": "a8943eaffbfc48f38d86d72479a410b6.1c",
+      "title": "Utrecht Domtower Part 15/60",
+      "image": "https://lh3.googleusercontent.com/SDxu8J2eWJQx5T0GMenPC5En3peJMuOizfH-eUDhE1ETAzqPvib8Zic9k_f9zm8Fca9IqkjpWJVc1dTSBZTIig",
+      "ratingE6": 972973,
+      "medianCompletionTimeMs": 343627
+    },
+    {
+      "guid": "21b1937a7b36420b8086e2a063dc8570.1c",
+      "title": "Utrecht Domtower Part 16/60",
+      "image": "https://lh3.googleusercontent.com/JgLnjlN-lsV3kIrQtJShi9xFv5nyNfix0ltqpj4j82zCXI3TpU_lOo8RIUcR6koDEB8c3ESSglV16MbdL354",
+      "ratingE6": 957447,
+      "medianCompletionTimeMs": 477121
+    },
+    {
+      "guid": "0535bb384d7044919d11c34a4a12ed75.1c",
+      "title": "Utrecht Domtower Part 17/60",
+      "image": "https://lh3.googleusercontent.com/QuFUvYSo9d-UdgKG454LmkZqns9V_8AJSLpCnq7h9PsgkO60TrK7LODbyintC7eFqxJfYhUOiSCsFWZjBGE9-A",
+      "ratingE6": 972826,
+      "medianCompletionTimeMs": 253586
+    },
+    {
+      "guid": "5d32812c6f3e435e9d6c63e8194fed84.1c",
+      "title": "Utrecht Domtower Part 18/60",
+      "image": "https://lh3.googleusercontent.com/DIka7pKwza0luEi_niDdpVv9QncBO0YAZKp3YjUiI6toODCOjElDNkxe_4U19ti8qaUYdDrXn-2QJQXnQ4gLPw",
+      "ratingE6": 961538,
+      "medianCompletionTimeMs": 386649
+    },
+    {
+      "guid": "a38e3b6c318145a8826134b7622f2b56.1c",
+      "title": "Utrecht Domtower Part 19/60",
+      "image": "https://lh3.googleusercontent.com/lxwPjLXLHQItB22eP9PNctJCzSFvROy-6QAR5pf26z5l12AL4BAcN44cpIg93X5wKAjRxn9FXqLJUODZ2BJL",
+      "ratingE6": 967391,
+      "medianCompletionTimeMs": 317975
+    },
+    {
+      "guid": "e439f9d95a674168b2e0ed29ee7299a2.1c",
+      "title": "Utrecht Domtower Part 20/60",
+      "image": "https://lh3.googleusercontent.com/FesO4gdabCbcZ1n09_fsr582Jgx4L7JOgKOe2vr6IYSaxG3S3YChkbA0sMuesqPFEt8ZP5c0ruA4lPMv50nn",
+      "ratingE6": 962366,
+      "medianCompletionTimeMs": 376340
+    },
+    {
+      "guid": "ad45402fbe944ef9b01082af01616f5e.1c",
+      "title": "Utrecht Domtower Part 21/60",
+      "image": "https://lh3.googleusercontent.com/Ns9bBfDDAOYQPIEkUm2Nia5QZ2-EA9JKveGifU1QHr0tGPbpcqgRS5qeu2HyKCV02YiGuJ9ugWsI2cmLSl0",
+      "ratingE6": 972973,
+      "medianCompletionTimeMs": 213269
+    },
+    {
+      "guid": "17da253aa577465095eee023366a944e.1c",
+      "title": "Utrecht Domtower Part 22/60",
+      "image": "https://lh3.googleusercontent.com/x9Vb8rMiqVn1H0gL2X9R2Qsa6tcgdjbfrF_HRXGjie14tAgRU_oWwSzUIMPLmzhwprDXiOng7Gsab7z9viL7YA",
+      "ratingE6": 961749,
+      "medianCompletionTimeMs": 276215
+    },
+    {
+      "guid": "49c2d0b320a640a9a054f6c407a31a13.1c",
+      "title": "Utrecht Domtower Part 23/60",
+      "image": "https://lh3.googleusercontent.com/RjoAWgJWWTQFjwOaHvZpTVe37s0nGH8rgmp1yKkXdFUzEuG378AHNsqNFHEoX-5R38znhuRK0igScrKPxqeX",
+      "ratingE6": 978022,
+      "medianCompletionTimeMs": 313222
+    },
+    {
+      "guid": "28acb2e49a084547bc87d15935f2b38c.1c",
+      "title": "Utrecht Domtower Part 24/60",
+      "image": "https://lh3.googleusercontent.com/5Lhno9oeTtP2h45VK_iGtgrryVd_iiCkUGxswBxnBwPPovKaXBmkVss92fP12SJEmcTT39qtYw26EtlhyM4u",
+      "ratingE6": 977901,
+      "medianCompletionTimeMs": 297609
+    },
+    {
+      "guid": "1e1b6b4b9e9c4bcf9e45191d6fbdae5d.1c",
+      "title": "Utrecht Domtower Part 25/60",
+      "image": "https://lh3.googleusercontent.com/UX6IcfhgpduLHkYXt0CuWHWDRgOCqScjzINXVRTViNUpvdmEGYD48PPwNR2PRAq6IVj--4uJ0sM0A44TpDvp",
+      "ratingE6": 983240,
+      "medianCompletionTimeMs": 146417
+    },
+    {
+      "guid": "67ccbde453464665bd741bbd947f069c.1c",
+      "title": "Utrecht Domtower Part 26/60",
+      "image": "https://lh3.googleusercontent.com/_lHBYGKgd_9DVFW2B0JTehyCR_K-9TTjaaNXV5agkVv_lcmWEa-mSfjdI-hf51h_uYUOAYPd8WjddGJs2YTpaA",
+      "ratingE6": 927778,
+      "medianCompletionTimeMs": 259945
+    },
+    {
+      "guid": "70d0c4ee1926410fac1f7f0e13fe3225.1c",
+      "title": "Utrecht Domtower Part 27/60",
+      "image": "https://lh3.googleusercontent.com/t9y_egjFkR8kZ3sTmjNFyU67caTxylcTWlY6CxdNhM7b926KL1EXN0EmGn-Rk1bjbYmBoE3CX_Gsd82we-FQ",
+      "ratingE6": 983333,
+      "medianCompletionTimeMs": 226705
+    },
+    {
+      "guid": "b338be6207d84b5aa9f40f7e49769205.1c",
+      "title": "Utrecht Domtower Part 28/60",
+      "image": "https://lh3.googleusercontent.com/XUVUyij3aB-2DWv68OtseniFi1I9Vb0EBt4FdgQqnj4VnLxygES6WdoJBk8EDPrO7uLxuqYQofkh7eEKghQ",
+      "ratingE6": 971751,
+      "medianCompletionTimeMs": 263360
+    },
+    {
+      "guid": "b7f07e670d7f4f98bec30386eefd01d3.1c",
+      "title": "Utrecht Domtower Part 29/60",
+      "image": "https://lh3.googleusercontent.com/_wQk1NuHIvQVBI58pbv0YUVG0ncaDsHofy0KG5cMZuIIDaWNBaK2hFl8GMXYm1OT94fp8e4EBdSJLGaMlVNZ",
+      "ratingE6": 967033,
+      "medianCompletionTimeMs": 182775
+    },
+    {
+      "guid": "ed1b4ad60c3d4bc9a6a82eeeb6573669.1c",
+      "title": "Utrecht Domtower Part 30/60",
+      "image": "https://lh3.googleusercontent.com/osMVD2htDKkDsS3CV68tyQSQOZQXfoNWBqMdNY_yV5cbMaV3rO7S262eArrcPlxWjR4azC2yWNJdVkgMikO_",
+      "ratingE6": 977654,
+      "medianCompletionTimeMs": 180129
+    },
+    {
+      "guid": "2866a77c099048f3bef609b80654367e.1c",
+      "title": "Utrecht Domtower Part 31/60",
+      "image": "https://lh3.googleusercontent.com/kZmEr-AVdEhiROAtiP7Z65kUBP-TzQYxWWQVgWibtfLjVk0KE6HQokD3EYyPcTknh4WR3MybAwPuzTCF_3pM",
+      "ratingE6": 944134,
+      "medianCompletionTimeMs": 182049
+    },
+    {
+      "guid": "446a16c2693c4777a43ceeaa297cec4a.1c",
+      "title": "Utrecht Domtower Part 32/60",
+      "image": "https://lh3.googleusercontent.com/8Tkz7kqjAWsbYzQIIhr9f4JYeYvcAa0P2g_612KudlmLenZ7l_0fqpAybXzACXwdkmSfVJhji0TAs3vxinlv",
+      "ratingE6": 977011,
+      "medianCompletionTimeMs": 256045
+    },
+    {
+      "guid": "8512e74b66cd4602abc42a95c3acb1a2.1c",
+      "title": "Utrecht Domtower Part 33/60",
+      "image": "https://lh3.googleusercontent.com/9P_tK62_nL6TYUm64ar7doq-Bz0S55kPUkiyHlmeYcMDRAMtdOjEHUVdrfYBPk6VtuH2pEi8kuLap9SeOko",
+      "ratingE6": 977273,
+      "medianCompletionTimeMs": 185773
+    },
+    {
+      "guid": "500777a8cf2b464991d4258fb1ecd27f.1c",
+      "title": "Utrecht Domtower Part 34/60",
+      "image": "https://lh3.googleusercontent.com/iBvvgLhHCJ86m1S6z2GM39z_L2s9SWx1OXGYAq4MG3oklBZFXHsERrCa6AnuWvX3mPPOOYeiwcFNF9sc6Vw",
+      "ratingE6": 966480,
+      "medianCompletionTimeMs": 253724
+    },
+    {
+      "guid": "0128f08769214bb1993131d029a041a0.1c",
+      "title": "Utrecht Domtower Part 35/60",
+      "image": "https://lh3.googleusercontent.com/_NJN78GL5Ru1e2L7h5v080nS7taTyhC5z7IDbf4R-UzD4KByNENO3ou5LmP2AvXs2lyp8l2_ZSDFcTvDV3vF",
+      "ratingE6": 971910,
+      "medianCompletionTimeMs": 222832
+    },
+    {
+      "guid": "05c44e4be7bb45118fcdc555bf7728d2.1c",
+      "title": "Utrecht Domtower Part 36/60",
+      "image": "https://lh3.googleusercontent.com/r5cVZXQe7rIC1Zbji3b1i82tcqaMXK6xqwGcoqzx-vSucpfLn0ddFLbKlWr1qZW-P6I3HQLmdy6p65yCQA4",
+      "ratingE6": 966292,
+      "medianCompletionTimeMs": 221487
+    },
+    {
+      "guid": "93abdee12fda4663b6d3df56ffe077ad.1c",
+      "title": "Utrecht Domtower Part 37/60",
+      "image": "https://lh3.googleusercontent.com/r2RzHQ5Cp5T9IjwadsU_RrhPATZbdnIcV-CRs_mEIyKRXZlwMwLQOlfXpXQqTuz99DHx1GkGEuogeopimbo",
+      "ratingE6": 983333,
+      "medianCompletionTimeMs": 265895
+    },
+    {
+      "guid": "e8faafe25c6a43d8864545ef8461cce6.1c",
+      "title": "Utrecht Domtower Part 38/60",
+      "image": "https://lh3.googleusercontent.com/hJRDrGqThKLIHKPQ3WxduTSwC9Rr95SSvgiKIxzid8P9VcBORjA7o6wZ728UfjET6l7uvX2yjuiYn9uCQFMr",
+      "ratingE6": 937143,
+      "medianCompletionTimeMs": 301143
+    },
+    {
+      "guid": "afb996f178b04b80b130aeab2130476f.1c",
+      "title": "Utrecht Domtower Part 39/60",
+      "image": "https://lh3.googleusercontent.com/TR2LaIdavb1_dqhSyb6dbGo94TgytibA6HJgclb_E-_SneQtH3kLOgtZNjDuKONpls9h0NWlH1aRKAdIDqKx",
+      "ratingE6": 977528,
+      "medianCompletionTimeMs": 199281
+    },
+    {
+      "guid": "58968101c57843469278c78c9760858f.1c",
+      "title": "Utrecht Domtower Part 40/60",
+      "image": "https://lh3.googleusercontent.com/EoapfpvRIZn1010UsclimTJlcapmZ1jL7TaeycuTJpvlIP6pg_QxrXxPortI7IAM5X6BmV0_EN-Yx9u4Q5o",
+      "ratingE6": 960894,
+      "medianCompletionTimeMs": 220549
+    },
+    {
+      "guid": "9a8933e9a2404abbb7b86de82e1ba450.1c",
+      "title": "Utrecht Domtower Part 41/60",
+      "image": "https://lh3.googleusercontent.com/sU2rYQXJ9WvQ7MAh8d0o0-3nhuhr3T7ovowpSwoToVQw6Anopy_nTwFH18S-vCIuCFo5SlYg9YrTZc4cDDI",
+      "ratingE6": 971910,
+      "medianCompletionTimeMs": 272935
+    },
+    {
+      "guid": "f2f5adabea0440868a8a83e8983c5b52.1c",
+      "title": "Utrecht Domtower Part 42/60",
+      "image": "https://lh3.googleusercontent.com/-NHHvt6Dkzrp-kwTwiVfdKJDO8B-vANO4BVYv0yrNA07oTsTNq40f1jrk5diF0EvgalGn2m5XN6ZtTf1NjqQ",
+      "ratingE6": 971910,
+      "medianCompletionTimeMs": 185316
+    },
+    {
+      "guid": "a106a28387564e6cb36cd6a058d2c6e9.1c",
+      "title": "Utrecht Domtower Part 43/60",
+      "image": "https://lh3.googleusercontent.com/KfSUz1lvcy3uL20K2CuhoFso7DKyt539ygrjm1bVjPPNjmjq-yuJwV4bV1Nn6WSc09KA7dot8oUbjNNFV6s",
+      "ratingE6": 988764,
+      "medianCompletionTimeMs": 205504
+    },
+    {
+      "guid": "1ad2d71fd29e4fb6b0dec939bf1f041c.1c",
+      "title": "Utrecht Domtower Part 44/60",
+      "image": "https://lh3.googleusercontent.com/SzwcrWGUaAtO5dmVVPwgpiKs2oDE3COxogFSq_Q4pomYEqfGFjcRDLz408mF6m5kcHkfN6OBtRvxOZkbAfbn",
+      "ratingE6": 961326,
+      "medianCompletionTimeMs": 346196
+    },
+    {
+      "guid": "7141c13ba2ac4bc58ff1a83dc391fed6.1c",
+      "title": "Utrecht Domtower Part 45/60",
+      "image": "https://lh3.googleusercontent.com/VEOUZOVyGiX6QlKWiK0c1fxbcO1VKy6X1Wy0wmHUfPAGiCpI_tZMzlgMDvWNkI4Qwi9ZUYViXrSQMczpwMg",
+      "ratingE6": 865169,
+      "medianCompletionTimeMs": 590413
+    },
+    {
+      "guid": "d5862b1dc2da4c50b6a9e45bb665c577.1c",
+      "title": "Utrecht Domtower Part 46/60",
+      "image": "https://lh3.googleusercontent.com/FZ_1LSFij1JpwayT5_reTzarcgO-4p-fPV1VJ_edJOu_KoSdb91pvOVpihAqcbs7I7RcTBB6wKC8GMQgfER1",
+      "ratingE6": 966667,
+      "medianCompletionTimeMs": 212251
+    },
+    {
+      "guid": "cc835761e6bb400080c239f9ebc28ac1.1c",
+      "title": "Utrecht Domtower Part 47/60",
+      "image": "https://lh3.googleusercontent.com/A8piqfZGeFXzJeNLkYh34YHvtMmn_TaC8EtuJTQYDS-qjUmp4MJ8wUm-nh28tIQulKl9Mr6n35BsuNrqNSTVtQ",
+      "ratingE6": 965318,
+      "medianCompletionTimeMs": 189950
+    },
+    {
+      "guid": "0b3cfb1fd72e4cc5b7ed68d63eae7d91.1c",
+      "title": "Utrecht Domtower Part 48/60",
+      "image": "https://lh3.googleusercontent.com/6G_NMeiONKuyAq6HtjhY00w6IEffYCj2wQA0jyC02eFFoKU8yGBjVKQdyJgioH8BAwf8XyRPHcMssA3VMiI",
+      "ratingE6": 971264,
+      "medianCompletionTimeMs": 156472
+    },
+    {
+      "guid": "d60aa0d736a34031b98b8d8b44b09b55.1c",
+      "title": "Utrecht Domtower Part 49/60",
+      "image": "https://lh3.googleusercontent.com/Hx8PNB6deHXrBfqXdaPdY93I-wXHi9L3RqDabRTNOoYhh8r8qBZOioT9jvZR4X29866voL39CgwcxfaAw2VI",
+      "ratingE6": 971591,
+      "medianCompletionTimeMs": 215413
+    },
+    {
+      "guid": "b30aff4e954b46b2a5877fb3b4d321a1.1c",
+      "title": "Utrecht Domtower Part 50/60",
+      "image": "https://lh3.googleusercontent.com/zNkUhqN06G-Eec7ecB-x-MkbkGkYnJOPrZ0hEchQbfTyeVRQ65P5esJue8NnFVr4iI_XMB8hdDhEqWDFL8lE",
+      "ratingE6": 965714,
+      "medianCompletionTimeMs": 162965
+    },
+    {
+      "guid": "6cc5c75e0fb346e78ca64253586bd11e.1c",
+      "title": "Utrecht Domtower Part 51/60",
+      "image": "https://lh3.googleusercontent.com/1i7wyykTfMG2_kWKr_d2HegAy50WJ4hVOjmo747gzd-mzjh98JyN13UQwkbMKGkdkC8gZda842xjFW0lr6qIbQ",
+      "ratingE6": 960674,
+      "medianCompletionTimeMs": 178710
+    },
+    {
+      "guid": "17e18306a2544482b9055dac1224c531.1c",
+      "title": "Utrecht Domtower Part 52/60",
+      "image": "https://lh3.googleusercontent.com/BN5o1r9NFYCH1143vseeDfeLG_m_4jA24ExE7JtjnnucikVXWxz57FVMSVBBsevPH22ENAQ8mnUUPQpi759MZQ",
+      "ratingE6": 947977,
+      "medianCompletionTimeMs": 193362
+    },
+    {
+      "guid": "748dc0f47877431583bbf89231938393.1c",
+      "title": "Utrecht Domtower Part 53/60",
+      "image": "https://lh3.googleusercontent.com/EE4WMYdNO8TZ3jcOrUuHnSKwFbPzFR2csWsk5PSOsgJABNSERUmkLNRap14eXTVJusqINu3YR-2O_UFhlMs",
+      "ratingE6": 982249,
+      "medianCompletionTimeMs": 189226
+    },
+    {
+      "guid": "4a39a84423e74f9d94a1d92852169ac6.1c",
+      "title": "Utrecht Domtower Part 54/60",
+      "image": "https://lh3.googleusercontent.com/dpdMwOLeWBtLDyhmFo25Bbm2NtNzQz5vDd723R6lxBzRm9xOTV0LMVCsVkLmHYgnlR7Mr0-YcjhIFNKqd-88",
+      "ratingE6": 982659,
+      "medianCompletionTimeMs": 186581
+    },
+    {
+      "guid": "9626a94fbc5444539c2fdf7d917dd2a2.1c",
+      "title": "Utrecht Domtower Part 55/60",
+      "image": "https://lh3.googleusercontent.com/NY9eGe8CdG6SSFaihwo5Sxv3ZZjsv8hXZEXzqJsUiVDpl0M2FpwLvx_tvZq9PvIlnFgm6G6u6aCDSIMMqgQ",
+      "ratingE6": 965116,
+      "medianCompletionTimeMs": 193077
+    },
+    {
+      "guid": "f51fa9fe31544518bfff977dee1342ab.1c",
+      "title": "Utrecht Domtower Part 56/60",
+      "image": "https://lh3.googleusercontent.com/FtpBHqsx2l9qAtfnPxbUtqlS5JSS--kgvFbl6ZvX8K41S4dZsPFCOztSZKKo57zBSVHjN2TcSxqg07q1RFQ0",
+      "ratingE6": 965714,
+      "medianCompletionTimeMs": 187134
+    },
+    {
+      "guid": "5e117ccc62aa48edaf7cf5f596c3cd0e.1c",
+      "title": "Utrecht Domtower Part 57/60",
+      "image": "https://lh3.googleusercontent.com/cEt-0kpzAqqhUEJN8qg2pPXNT6b3-M5M1FpalKkPPpKWofU7qUaCvk-6k8JoYx-f3x9RhLsDSV8ngKmrRzhwEw",
+      "ratingE6": 960000,
+      "medianCompletionTimeMs": 144955
+    },
+    {
+      "guid": "102ac6a2540e4818b6545abd5fc1279b.1c",
+      "title": "Utrecht Domtower Part 58/60",
+      "image": "https://lh3.googleusercontent.com/winarSqnHJ4df4bs02l9bOT9dCZjDvdqzsXB3Zw8y85E9x9KUDbRTGLzDCv9XhrbwtF_OKTEpEBi9ozb4-0",
+      "ratingE6": 970760,
+      "medianCompletionTimeMs": 233554
+    },
+    {
+      "guid": "9a1e1a85c4314f74a11cfcfc914dff14.1c",
+      "title": "Utrecht Domtower Part 59/60",
+      "image": "https://lh3.googleusercontent.com/JzN0DXwUNzG43-vExpd87nxOVf2yv71l5Th6kpnq7QyWc2J-Gm10pxSoPcnfpYnxz8mzLbQz5XajRgjiDZgu",
+      "ratingE6": 958580,
+      "medianCompletionTimeMs": 275417
+    },
+    {
+      "guid": "b76b3e2cc4864688b541135cd33d71d2.1c",
+      "title": "Utrecht Domtower Part 60/60",
+      "image": "https://lh3.googleusercontent.com/iY9pr28BxeMsmo0K0akKipditEXl_SvAxTnNtHNzf48v3zxwVRGuRZqpzyME_JWvdQwZHm4yK-oihANDQtAW",
+      "ratingE6": 971098,
+      "medianCompletionTimeMs": 174734
+    }
+  ]
+}

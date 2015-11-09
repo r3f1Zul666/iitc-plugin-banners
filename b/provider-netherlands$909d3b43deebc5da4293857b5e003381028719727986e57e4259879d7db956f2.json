@@ -1,0 +1,61 @@
+{
+  "banners": {
+    "the-netherlands/can-you-handle-middelburg": {
+      "length": 60, 
+      "sha256": "09092361839a47ca8f75ff449af90c11d737bff4d9ca577e5c5d1c132082d02d", 
+      "name": "Can you Handle Middelburg", 
+      "authors": {
+        "ArchAngelCass": "Resistance"
+      }
+    }, 
+    "the-netherlands/bergen-op-zoom-banner": {
+      "length": 24, 
+      "sha256": "75ce3787013ed48ec29d3963a95552bd592a5f3b4f68dd04cb05cbbd4d3f64c7", 
+      "name": "Bergen op Zoom Banner", 
+      "authors": {
+        "DDhamphir": "Enlightened"
+      }
+    }, 
+    "the-netherlands/oostkapelle-banner": {
+      "length": 6, 
+      "sha256": "342ca0de22b741bb1cbf2c9baa1e7a14b79ae80a8ecf70e0cb578500cf958473", 
+      "name": "Oostkapelle Banner", 
+      "authors": {
+        "WolfOfTheDeath": "Resistance"
+      }
+    }, 
+    "the-netherlands/discover-vlissingen": {
+      "length": 18, 
+      "sha256": "d1301f5ef51077196ab495bf8fee6d1f4d418d5558a615f72e80d0188b9a4bfe", 
+      "name": "Discover Vlissingen", 
+      "authors": {
+        "deBoskabouter": "Enlightened"
+      }
+    }, 
+    "the-netherlands/utrecht-domtower": {
+      "length": 60, 
+      "sha256": "f0ef6ce6663b6bb8da2523139d1f3d6f32227e8d8f9ebf7b1d0ca46f65fe4e41", 
+      "name": "Utrecht Domtower", 
+      "authors": {
+        "odyssey2002": "Resistance"
+      }
+    }, 
+    "the-netherlands/hardcore-hacker-banner": {
+      "length": 36, 
+      "sha256": "e91d40ff892a846fcfda2e5ee3184f81fab4b61e017980dae41664a8d0db1407", 
+      "name": "Hardcore Hacker Banner", 
+      "authors": {
+        "Levathean": "Resistance"
+      }
+    }, 
+    "the-netherlands/goes-city-tour": {
+      "length": 24, 
+      "sha256": "d30aaf1405c7a6fae751895f49dc97c6690d31e887eecfa6d7f3f71b500f8684", 
+      "name": "Goes City Tour", 
+      "authors": {
+        "mediadeo": "Resistance"
+      }
+    }
+  }, 
+  "name": "The Netherlands"
+}

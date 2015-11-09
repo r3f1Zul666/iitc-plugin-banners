@@ -95,7 +95,7 @@ window.plugin.banners = {
         var self = this;
         var container = document.createElement('div');
 
-        for(var provider in providers) {
+        Object.keys(providers).sort().forEach(function(provider) {
             if(providers.hasOwnProperty(provider)) {
                 var metadata = providers[provider];
 
@@ -118,7 +118,7 @@ window.plugin.banners = {
                 var length = div.appendChild(document.createElement('span'));
                 length.textContent = " (" + metadata.length + ")";
             }
-        }
+        });
 
         dialog({
             id: 'plugin-banner-provider-id',
@@ -139,7 +139,7 @@ window.plugin.banners = {
         var self = this;
         var container = document.createElement('div');
 
-        for(var banner in banners) {
+        Object.keys(banners).sort().forEach(function(banner) {
             if(banners.hasOwnProperty(banner)) {
                 var metadata = banners[banner];
 
@@ -162,7 +162,7 @@ window.plugin.banners = {
                 var length = div.appendChild(document.createElement('span'));
                 length.textContent = " (" + metadata.length + ")";
             }
-        }
+        });
 
         dialog({
             id: 'plugin-banner-banners',
@@ -273,7 +273,8 @@ window.plugin.banners = {
            return;
         }
 
-        this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
+        // this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
+        this.repository = Repository("https://missions-dev.com/missions");
 
         $('<style>').prop('type', 'text/css').html('.plugin-banner-summary img { cursor: pointer; width: 50px; }').appendTo('head');
         $('#toolbox').append('<a tabindex="0" onclick="plugin.banners.openBanners();">Discover banners</a>');

@@ -2,7 +2,7 @@
 // @id             iitc-plugin-banners@aeurielesn
 // @name           IITC plugin: Banners
 // @category       Info
-// @version        0.1.6
+// @version        0.1.7
 // @namespace      https://github.com/aeurielesn
 // @updateURL      https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
 // @downloadURL    https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js
@@ -273,8 +273,7 @@ window.plugin.banners = {
            return;
         }
 
-        // this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
-        this.repository = Repository("https://missions-dev.com/missions");
+        this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
 
         $('<style>').prop('type', 'text/css').html('.plugin-banner-summary img { cursor: pointer; width: 50px; }').appendTo('head');
         $('#toolbox').append('<a tabindex="0" onclick="plugin.banners.openBanners();">Discover banners</a>');

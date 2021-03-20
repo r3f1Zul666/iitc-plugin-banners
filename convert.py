@@ -63,7 +63,8 @@ for file in os.listdir(__location__ + "/convert"):
                 with open(__location__ + f'{output_folder}/{file}') as data:
                     data = json.load(data)
                 path = rel_path.removeprefix(f"{__location__}{output_folder}/") 
-                data['banners'][f"{path}/{region}/{file_name.split(".")[0]}"] = {}
+                name = file_name.split(".")[0]
+                data['banners'][f"{path}/{region}/{name}"] = {}
                 with open(__location__ + f'{output_folder}/{file}', 'w') as outfile:
                         json.dump(data, outfile, indent=2)
                 

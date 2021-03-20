@@ -1,0 +1,10 @@
+{
+  "name": "Pankow",
+  "providers": {
+    "provider-pberg": {
+      "name": "Prenzlauer Berg",
+      "sha256": "ca61d5af70d50242aac007367463a0f71daa713a330d9a49703e7a552d97b4a9",
+      "length": 0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Europa",
+  "providers": {
+    "provider-germany": {
+      "name": "Deutschland",
+      "sha256": "c72cc6b8535d9518506a3ea55e8d3a5d0d74207c631ab247a2fe0ca042e87583",
+      "length": 0
+    }
+  }
+}

@@ -2,9 +2,9 @@
   "providers-url": "/b/%banner%$%hash%.json",
   "providers": {
     "provider-europe": {
-      "name": "Europe",
-      "sha256": "facf4c169e33b18960de5dbbaffe6184049f8d28f814b91d419569aff0e6b874",
-      "length": 2
+      "name": "Europa",
+      "sha256": "dc88cf55e2c3899edc54ea5ab71947a0d1d01a0a0fc50e949b8e5f3de3c4740f",
+      "length": 0
     }
   }
 }

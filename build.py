@@ -89,5 +89,5 @@ with open("banners.json") as data:
             root["providers"][provider]["length"] = provider_length
 
     output_file = os.path.join(build_directory, "banners.json")
-    with open(output_file, "wb") as f:
+    with open(output_file, "w") as f:
         json.dump(root, f, indent=2)

@@ -1,0 +1,7 @@
+{
+  "name": "Europe",
+  "providers": {
+    "provider-berlin": {},
+    "provider-brandenburg": {}
+  }
+}

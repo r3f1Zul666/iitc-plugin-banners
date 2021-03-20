@@ -3,8 +3,8 @@
   "providers": {
     "provider-europe": {
       "name": "Europe",
-      "sha256": "a58c7ccde8a2b1c4fbf7784ce3db0ec2d81c83dfc0c16b4666d45e1e22008521",
-      "length": 7
+      "sha256": "facf4c169e33b18960de5dbbaffe6184049f8d28f814b91d419569aff0e6b874",
+      "length": 2
     }
   }
 }

@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616273905931,
+        "guid": "9f80d2321ce54223ae2c4c29b1bf798c.1c",
+        "title": "Nyan Cat Walk 1",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 1000000,
+        "medianCompletionTimeMs": 383496,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/3DWH3aRvPhQ92irmAPnG7AfCyIc7HJJOS4sI8kdckoIyWycBe6gAbe4rqSXH-2WV1a9WPlRlg1TtqgY9sy4",
+        "portalTitle": [
+          "S Treptower Park Ost",
+          "Stern Und Kreis",
+          "Der alte Anker",
+          "Flowers 'n' Cups Mural",
+          "Bernhard Langwaldt",
+          "Marble Tentacle"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.462305,
+            52.493721
+          ],
+          [
+            13.463728,
+            52.493683
+          ],
+          [
+            13.465177,
+            52.49332
+          ],
+          [
+            13.465449,
+            52.493075
+          ],
+          [
+            13.466154,
+            52.492971
+          ],
+          [
+            13.466083,
+            52.492439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616273929286,
+        "guid": "f0d2c1964c724a3b90fb3b9a942c1a26.1c",
+        "title": "Nyan Cat Walk 2",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks wi the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 1000000,
+        "medianCompletionTimeMs": 504942,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/NtOic77zqlH3Nl0VS6coljCXvrvg6RIGAdcSfdL2_M5Aw8s_WyJ52ivTU55kIk1bWz_Xe76E2vt178HUJYhQVg",
+        "portalTitle": [
+          "Infotafel 2 - Treptower Park ",
+          "Raubkatze im Treptower Park",
+          "Kissing Beans",
+          "Ping-Pong im Park",
+          "Heide- und Stauengarten im Treptower Park",
+          "Curvy Sculpture "
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.469173,
+            52.49189
+          ],
+          [
+            13.469578,
+            52.491706
+          ],
+          [
+            13.4725,
+            52.491111
+          ],
+          [
+            13.472622,
+            52.490732
+          ],
+          [
+            13.475845,
+            52.489704
+          ],
+          [
+            13.476524,
+            52.489565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616273952442,
+        "guid": "a5f09f603c0446d5a0733e57396f3c2d.1c",
+        "title": "Nyan Cat Walk 3",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 933333,
+        "medianCompletionTimeMs": 581564,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/dgqQgw3WUYxmIlpIjVSPlXCcPV3I-VUaCBxKy5_3gCmKg348rj6Ntr5vv8hRFiYFZzj8dCHgO0ePRK9gGH-1rA",
+        "portalTitle": [
+          "'Zenner' Biergarten",
+          "Trink- und Unterkunftshalle von 1903",
+          "Kunst am Bootshaus",
+          "Br\u00fccke zur Insel der Jugend",
+          "Infotafel an der Insel der Jugend",
+          "Berti Vogts Stolperstein"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.478092,
+            52.487517
+          ],
+          [
+            13.478471,
+            52.487117
+          ],
+          [
+            13.478803,
+            52.486831
+          ],
+          [
+            13.480552,
+            52.486017
+          ],
+          [
+            13.48145,
+            52.485834
+          ],
+          [
+            13.480265,
+            52.485727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616273971168,
+        "guid": "971b768962d844caadaabf9058866934.1c",
+        "title": "Nyan Cat Walk 4",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 1000000,
+        "medianCompletionTimeMs": 519213,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/cGlleUO0xZOXuOxTiXKABCcD5kNgKvx8SzX9iVH7sQTn2Fbnk24jw6wEWlHjUjpiZb2bKMN17j5NMkXrHgHQ",
+        "portalTitle": [
+          "Cirque du Zwergs",
+          "Weltspielplatz",
+          "K\u00fcnstliche Eisberglandschaft",
+          "Der Sommerblumengarten im Treptower Park",
+          "Nutze den Tag",
+          "Gro\u00dfe Liegende"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.480116,
+            52.48506
+          ],
+          [
+            13.479219,
+            52.485128
+          ],
+          [
+            13.47902,
+            52.486086
+          ],
+          [
+            13.476596,
+            52.488742
+          ],
+          [
+            13.475816,
+            52.488745
+          ],
+          [
+            13.474624,
+            52.489492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616274003397,
+        "guid": "2e3be7939640480d80281ce21d83abda.1c",
+        "title": "Nyan Cat Walk 5",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 1000000,
+        "medianCompletionTimeMs": 398982,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/GmBSQ2KUYYzPZsSVHqDiGCVq8iutAhkYcs1q3SpUl-M62UwDzrZq0dGtOHu8dP5VKxbs88ve-OVUOluDfLCq_w",
+        "portalTitle": [
+          "Concrete Artwork",
+          "Rosengarten Weltfestspiele",
+          "Springbrunnen Treptower Park",
+          "Skulptur Treptower Park",
+          "S\u00e4ule Treptower Park",
+          "Infotafel Treptower Park "
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.470259,
+            52.490128
+          ],
+          [
+            13.469648,
+            52.490362
+          ],
+          [
+            13.468847,
+            52.490578
+          ],
+          [
+            13.468575,
+            52.491428
+          ],
+          [
+            13.467826,
+            52.491822
+          ],
+          [
+            13.466823,
+            52.491344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616274047328,
+        "guid": "5260916c685a4dc9ad41b36e9df541c9.1c",
+        "title": "Nyan Cat Walk 6",
+        "description": "Follow the nyan cat through the Treptower park and gain it as companion on your future walks with the scanner.",
+        "author": "picoh3rtz",
+        "authorTeam": "E",
+        "ratingE6": 1000000,
+        "medianCompletionTimeMs": 510796,
+        "numUniqueCompletedPlayers": 16,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/29p35xvK6JFgHcaF6iE2qURqIV1vZCB5qTycO5ctZ1a0bFEBHl8RxIdzLhArFQUaygxt1Z9CujB0VRUKwtY",
+        "portalTitle": [
+          "Figurentheater Grash\u00fcpfer",
+          "Stele Mit Durchblick",
+          "Oak Tree Preservation Tomb Stone",
+          "Infopoint - Treptower Park",
+          "S-Bahnhof Treptower Park",
+          "Satellite Dish-Like Wind Chime"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.466066,
+            52.491555
+          ],
+          [
+            13.465328,
+            52.491885
+          ],
+          [
+            13.464785,
+            52.491712
+          ],
+          [
+            13.462131,
+            52.492965
+          ],
+          [
+            13.461527,
+            52.493062
+          ],
+          [
+            13.46238,
+            52.493351
+          ]
+        ]
+      }
+    }
+  ]
+}

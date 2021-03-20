@@ -1,7 +1,8 @@
 {
   "name": "Berlin",
   "providers": {
-    "provider-pankow": {}
+    "provider-pankow": {},
+    "provider-treptow-koepenick": {}
   }
 }
 

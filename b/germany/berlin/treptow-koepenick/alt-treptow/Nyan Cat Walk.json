@@ -1,0 +1,68 @@
+{
+  "name": "Nyan Cat Walk",
+  "authors": {
+    "picoh3rtz": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "9f80d2321ce54223ae2c4c29b1bf798c.1c",
+      "title": "Nyan Cat Walk 1",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 383496,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/3DWH3aRvPhQ92irmAPnG7AfCyIc7HJJOS4sI8kdckoIyWycBe6gAbe4rqSXH-2WV1a9WPlRlg1TtqgY9sy4"
+    },
+    {
+      "guid": "f0d2c1964c724a3b90fb3b9a942c1a26.1c",
+      "title": "Nyan Cat Walk 2",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 504942,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/NtOic77zqlH3Nl0VS6coljCXvrvg6RIGAdcSfdL2_M5Aw8s_WyJ52ivTU55kIk1bWz_Xe76E2vt178HUJYhQVg"
+    },
+    {
+      "guid": "a5f09f603c0446d5a0733e57396f3c2d.1c",
+      "title": "Nyan Cat Walk 3",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 933333,
+      "medianCompletionTimeMs": 581564,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/dgqQgw3WUYxmIlpIjVSPlXCcPV3I-VUaCBxKy5_3gCmKg348rj6Ntr5vv8hRFiYFZzj8dCHgO0ePRK9gGH-1rA"
+    },
+    {
+      "guid": "971b768962d844caadaabf9058866934.1c",
+      "title": "Nyan Cat Walk 4",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 519213,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/cGlleUO0xZOXuOxTiXKABCcD5kNgKvx8SzX9iVH7sQTn2Fbnk24jw6wEWlHjUjpiZb2bKMN17j5NMkXrHgHQ"
+    },
+    {
+      "guid": "2e3be7939640480d80281ce21d83abda.1c",
+      "title": "Nyan Cat Walk 5",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 398982,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/GmBSQ2KUYYzPZsSVHqDiGCVq8iutAhkYcs1q3SpUl-M62UwDzrZq0dGtOHu8dP5VKxbs88ve-OVUOluDfLCq_w"
+    },
+    {
+      "guid": "5260916c685a4dc9ad41b36e9df541c9.1c",
+      "title": "Nyan Cat Walk 6",
+      "author": "picoh3rtz",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 510796,
+      "numUniqueCompletedPlayers": 16,
+      "image": "https://lh3.googleusercontent.com/29p35xvK6JFgHcaF6iE2qURqIV1vZCB5qTycO5ctZ1a0bFEBHl8RxIdzLhArFQUaygxt1Z9CujB0VRUKwtY"
+    }
+  ]
+}

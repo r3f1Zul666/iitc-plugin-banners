@@ -49,14 +49,17 @@ for file in os.listdir(__location__ + "/convert"):
 
         rel_path = ""
         file_name = file
-        for root, subdirs, files in os.walk(__location__ + output_folder):
+        for wurzel, subdirs, files in os.walk(__location__ + output_folder):
             for d in subdirs:
                 if d == region:
-                    rel_path = root
-                    with open(root + "/" + region + f"/{file_name}", 'w') as outfile:
+                    rel_path = wurzel
+                    with open(wurzel + "/" + region + f"/{file_name}", 'w') as outfile:
                         json.dump(file_json, outfile, indent=2)
                     
-                    shutil.move( __location__ + f"/convert/{file}", __location__ + f"{backup_folder}/{file}")
+                    with open(__location__ + f"{backup_folder}/{file}", 'w') as outfile:
+                        json.dump(root, outfile, indent=2)
+                        
+                    os.remove( __location__ + f"/convert/{file}")
                     
         for file in os.listdir(__location__ + output_folder):
             if file == f"provider-{region}.json":

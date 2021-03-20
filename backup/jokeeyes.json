@@ -1,1 +1,425 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"time":1616244767711,"guid":"9958ad9f7afa40dab57d8892d92e0f2d.1c","title":"Jokeeyes #1","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":978261,"medianCompletionTimeMs":685357,"numUniqueCompletedPlayers":46,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/1-kTQ8rMH3VHzqIQpHkpKDXYV7eu6VrFvmETKfVjobc99QSOWQVzV-Ip6sDztr3rsVe7liUWOVdMMLTege0Z","portalTitle":["Filmtheater 'Colosseum'","Evil Cat","Bretzel on the Wall","Rosenmädchen","Stuckengel 1870","Haus Skulptur Schönhauser 129"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.413134,52.547847],[13.413562,52.546789],[13.413466,52.546401],[13.41335,52.546063],[13.413234,52.545804],[13.412581,52.545743]]}},{"type":"Feature","properties":{"time":1616244773752,"guid":"77f578aab18b4d72b9cb3afb275a6eca.1c","title":"Jokeeyes #2","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":978261,"medianCompletionTimeMs":366901,"numUniqueCompletedPlayers":47,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/4e-5bW8i5yD0FbuOZEM6tkxXoJId44nj9FOFOUDuGx1o4jC0ISf77MRRn8lMMPDNOgVcwxIDGJENlOmbj64s","portalTitle":["Stolperstein Georg Streiter","Hochglanzpolierte Spiegelkugeln ","Villa Rodizio","Fußball Champion Mural","Prenzi VIII","Pipe Smoker Mural"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.412534,52.545536],[13.412134,52.545206],[13.4114,52.545426],[13.410967,52.545294],[13.410809,52.545513],[13.409776,52.54664]]}},{"type":"Feature","properties":{"time":1616244800425,"guid":"8c784fdd03c84d5eb75360f6e10c13d8.1c","title":"Jokeeyes #3","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin. It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":953488,"medianCompletionTimeMs":559753,"numUniqueCompletedPlayers":46,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/RZB0kDkc_BppCQBpiXBmP9hrEBHcnwc8iVu0XbteQE4J9VGq7NFC2Iz24EB5XVyh0TbeKUaOQFGDuiJYPngncQ","portalTitle":["Riding on Eye Mural","Sportplatz","Thirteen","Sport and Nature Mural","Schwein Gehabt Street Art ","Seebaer"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.409516,52.546334],[13.408719,52.545857],[13.408064,52.545941],[13.407774,52.545877],[13.405795,52.546428],[13.404399,52.546178]]}},{"type":"Feature","properties":{"time":1616244805059,"guid":"716ebcc207e24de88f7913709d70e27b.1c","title":"Jokeeyes #4","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":911111,"medianCompletionTimeMs":416700,"numUniqueCompletedPlayers":47,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/mJwgrTVe18jF1ap1IwBzhTbPS2Jvsa3ZGhE6Nsv0A6dwxCufUP7dvFAwaBXNtIsGTQFJYhWpHsLMs1l3F60","portalTitle":["Wooden Orangutan","Pirate's Cove","Lärmquelle","Ice Bear","Max-Schmeling-Halle","Shaper Climbe"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.404017,52.546492],[13.403577,52.54653],[13.403334,52.546354],[13.40283,52.545528],[13.404237,52.545286],[13.401537,52.544859]]}},{"type":"Feature","properties":{"time":1616244821484,"guid":"b1e69c7b0f3c4d1b8a98a0016e47e6a3.1c","title":"Jokeeyes #5","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":933333,"medianCompletionTimeMs":486827,"numUniqueCompletedPlayers":46,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/aTzc9bmwge9HmzVEHKdQn9YISe9VPGZQtuBW3Jt1-AtTwJ-dxm1JraM0gY95-puC8uIaZZaPVoNfp8UX-rM","portalTitle":["Broken Sunflowers","Geschichtsmeile Berliner Mauer","Parkportal","Holzpferd ","Jugendfarm Moritzhof","Kinderkletterwand"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.40167,52.546387],[13.401394,52.546572],[13.400765,52.54754],[13.400489,52.547659],[13.40047,52.548173],[13.399647,52.548505]]}},{"type":"Feature","properties":{"time":1616244851140,"guid":"1cf2cde7acd24fa6a005d806825a8296.1c","title":"Jokeeyes #6","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.","author":"wasahrbia","authorTeam":"R","ratingE6":954545,"medianCompletionTimeMs":533518,"numUniqueCompletedPlayers":46,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/8piw2DQpdK7F_Wb9cgBFE-AZCKDPIxGD5lr-LNJZnFK2PX7Bd1q74S46yXmzotccmsVErW8QPfl4w9oMLLEpoA","portalTitle":["Schwedter Nordwand","Schwedter Steg Süd","Romeo and Juliet Statue","Bushy","Turm","Relief"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.399596,52.548805],[13.40033,52.549084],[13.402931,52.548499],[13.40446,52.549182],[13.404538,52.548879],[13.404799,52.548309]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244767711,
+        "guid": "9958ad9f7afa40dab57d8892d92e0f2d.1c",
+        "title": "Jokeeyes #1",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 978261,
+        "medianCompletionTimeMs": 685357,
+        "numUniqueCompletedPlayers": 46,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/1-kTQ8rMH3VHzqIQpHkpKDXYV7eu6VrFvmETKfVjobc99QSOWQVzV-Ip6sDztr3rsVe7liUWOVdMMLTege0Z",
+        "portalTitle": [
+          "Filmtheater 'Colosseum'",
+          "Evil Cat",
+          "Bretzel on the Wall",
+          "Rosenm\u00e4dchen",
+          "Stuckengel 1870",
+          "Haus Skulptur Sch\u00f6nhauser 129"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.413134,
+            52.547847
+          ],
+          [
+            13.413562,
+            52.546789
+          ],
+          [
+            13.413466,
+            52.546401
+          ],
+          [
+            13.41335,
+            52.546063
+          ],
+          [
+            13.413234,
+            52.545804
+          ],
+          [
+            13.412581,
+            52.545743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244773752,
+        "guid": "77f578aab18b4d72b9cb3afb275a6eca.1c",
+        "title": "Jokeeyes #2",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 978261,
+        "medianCompletionTimeMs": 366901,
+        "numUniqueCompletedPlayers": 47,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/4e-5bW8i5yD0FbuOZEM6tkxXoJId44nj9FOFOUDuGx1o4jC0ISf77MRRn8lMMPDNOgVcwxIDGJENlOmbj64s",
+        "portalTitle": [
+          "Stolperstein Georg Streiter",
+          "Hochglanzpolierte Spiegelkugeln ",
+          "Villa Rodizio",
+          "Fu\u00dfball Champion Mural",
+          "Prenzi VIII",
+          "Pipe Smoker Mural"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.412534,
+            52.545536
+          ],
+          [
+            13.412134,
+            52.545206
+          ],
+          [
+            13.4114,
+            52.545426
+          ],
+          [
+            13.410967,
+            52.545294
+          ],
+          [
+            13.410809,
+            52.545513
+          ],
+          [
+            13.409776,
+            52.54664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244800425,
+        "guid": "8c784fdd03c84d5eb75360f6e10c13d8.1c",
+        "title": "Jokeeyes #3",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin. It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 953488,
+        "medianCompletionTimeMs": 559753,
+        "numUniqueCompletedPlayers": 46,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/RZB0kDkc_BppCQBpiXBmP9hrEBHcnwc8iVu0XbteQE4J9VGq7NFC2Iz24EB5XVyh0TbeKUaOQFGDuiJYPngncQ",
+        "portalTitle": [
+          "Riding on Eye Mural",
+          "Sportplatz",
+          "Thirteen",
+          "Sport and Nature Mural",
+          "Schwein Gehabt Street Art ",
+          "Seebaer"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.409516,
+            52.546334
+          ],
+          [
+            13.408719,
+            52.545857
+          ],
+          [
+            13.408064,
+            52.545941
+          ],
+          [
+            13.407774,
+            52.545877
+          ],
+          [
+            13.405795,
+            52.546428
+          ],
+          [
+            13.404399,
+            52.546178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244805059,
+        "guid": "716ebcc207e24de88f7913709d70e27b.1c",
+        "title": "Jokeeyes #4",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 911111,
+        "medianCompletionTimeMs": 416700,
+        "numUniqueCompletedPlayers": 47,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/mJwgrTVe18jF1ap1IwBzhTbPS2Jvsa3ZGhE6Nsv0A6dwxCufUP7dvFAwaBXNtIsGTQFJYhWpHsLMs1l3F60",
+        "portalTitle": [
+          "Wooden Orangutan",
+          "Pirate's Cove",
+          "L\u00e4rmquelle",
+          "Ice Bear",
+          "Max-Schmeling-Halle",
+          "Shaper Climbe"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.404017,
+            52.546492
+          ],
+          [
+            13.403577,
+            52.54653
+          ],
+          [
+            13.403334,
+            52.546354
+          ],
+          [
+            13.40283,
+            52.545528
+          ],
+          [
+            13.404237,
+            52.545286
+          ],
+          [
+            13.401537,
+            52.544859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244821484,
+        "guid": "b1e69c7b0f3c4d1b8a98a0016e47e6a3.1c",
+        "title": "Jokeeyes #5",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 933333,
+        "medianCompletionTimeMs": 486827,
+        "numUniqueCompletedPlayers": 46,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/aTzc9bmwge9HmzVEHKdQn9YISe9VPGZQtuBW3Jt1-AtTwJ-dxm1JraM0gY95-puC8uIaZZaPVoNfp8UX-rM",
+        "portalTitle": [
+          "Broken Sunflowers",
+          "Geschichtsmeile Berliner Mauer",
+          "Parkportal",
+          "Holzpferd ",
+          "Jugendfarm Moritzhof",
+          "Kinderkletterwand"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.40167,
+            52.546387
+          ],
+          [
+            13.401394,
+            52.546572
+          ],
+          [
+            13.400765,
+            52.54754
+          ],
+          [
+            13.400489,
+            52.547659
+          ],
+          [
+            13.40047,
+            52.548173
+          ],
+          [
+            13.399647,
+            52.548505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616244851140,
+        "guid": "1cf2cde7acd24fa6a005d806825a8296.1c",
+        "title": "Jokeeyes #6",
+        "description": "This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Joker.",
+        "author": "wasahrbia",
+        "authorTeam": "R",
+        "ratingE6": 954545,
+        "medianCompletionTimeMs": 533518,
+        "numUniqueCompletedPlayers": 46,
+        "typeNumMission": 1,
+        "image": "https://lh3.googleusercontent.com/8piw2DQpdK7F_Wb9cgBFE-AZCKDPIxGD5lr-LNJZnFK2PX7Bd1q74S46yXmzotccmsVErW8QPfl4w9oMLLEpoA",
+        "portalTitle": [
+          "Schwedter Nordwand",
+          "Schwedter Steg S\u00fcd",
+          "Romeo and Juliet Statue",
+          "Bushy",
+          "Turm",
+          "Relief"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.399596,
+            52.548805
+          ],
+          [
+            13.40033,
+            52.549084
+          ],
+          [
+            13.402931,
+            52.548499
+          ],
+          [
+            13.40446,
+            52.549182
+          ],
+          [
+            13.404538,
+            52.548879
+          ],
+          [
+            13.404799,
+            52.548309
+          ]
+        ]
+      }
+    }
+  ]
+}

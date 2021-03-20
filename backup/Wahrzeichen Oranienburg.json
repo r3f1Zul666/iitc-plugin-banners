@@ -1,1 +1,1731 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"time":1616270407463,"guid":"430ea626609c4ebdb8b62b4bce4b227f.1c","title":"Harleyeyes #6","description":"This mission is guiding you through the beautyfull Prenzlauer Berg Kiez in Berlin.It is part of Missionmosaik which gives you a really nice banner of the Harley Quinn.","author":"wasahrbia","authorTeam":"R","ratingE6":1000000,"medianCompletionTimeMs":219973,"numUniqueCompletedPlayers":44,"typeNumMission":1,"image":"https://lh3.googleusercontent.com/iNMO7Ifcgjx3XowKoZQDLCpBg5yADjgyW4q03396rJ6muSTe5c-J89-l00xG6jdWPAEGHor6MIUR1Rz9816d","portalTitle":["Old Joe","A Man Art","Spielplatz","None Shell Pass","Agnes Wendland","Strength","Relief"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.416893,52.547526],[13.416592,52.547564],[13.417148,52.547939],[13.41632,52.547848],[13.416593,52.548148],[13.415707,52.548119],[13.415833,52.548263]]}},{"type":"Feature","properties":{"time":1616270610815,"guid":"5c1d0cd8805148bab30bf754a3f6abb7.1c","title":"1 / 24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*Zu Fuß je Mission ca 10 min.Viel Spaß","author":"Opasiehtdich","authorTeam":"R","ratingE6":930233,"medianCompletionTimeMs":959184,"numUniqueCompletedPlayers":130,"typeNumMission":1,"image":"https://lh4.ggpht.com/mvxePu-x12ZzJlUbMG8jTadd_fIa64jDy2aXB68UJwYbvOATdfg7WTyCDfeVD_odfHduGYY3evcgt6w-rB0f","portalTitle":["S-Bahnhof Oranienburg","Spinnennetz","S-Bahnhof Oranienburg","Textilkasten","Porzellan Gemälde","Bahnhofplatz"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.249462,52.75329],[13.248477,52.75368],[13.248415,52.754504],[13.247874,52.754363],[13.247178,52.754089],[13.24692,52.754363]]}},{"type":"Feature","properties":{"time":1616270623104,"guid":"482f674e17f944019e5ce02fd14df49a.1c","title":"2/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":873016,"medianCompletionTimeMs":618416,"numUniqueCompletedPlayers":128,"typeNumMission":1,"image":"https://lh3.ggpht.com/1ll1Iyy_BHdvITtYNs57Ny-_t6YPg3uoQFSEUsk0M9RDvmt9Vk0mECcaFNDgOh9sC4CUVLLDKPqUcbO5natw","portalTitle":["Post Oranienburg","Graf Post","Der Soldat","Bemaltes Haus Mural","Oranienburger S-Bahn-Bild","Kanalarbeiten","Gemütliche Trafostation"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.247578,52.754716],[13.247138,52.754882],[13.247418,52.755146],[13.247671,52.755339],[13.247237,52.75605],[13.246913,52.75624],[13.247696,52.757218]]}},{"type":"Feature","properties":{"time":1616270628979,"guid":"7c669d553d0d4aa5a025bf1072664bf6.1c","title":"3/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":901639,"medianCompletionTimeMs":443028,"numUniqueCompletedPlayers":126,"typeNumMission":1,"image":"https://lh6.ggpht.com/uWNhmdGYoYnOLzP1tOzLBhYN0UnNSXWAekEqUqmzLJxWzvwlQoqjg-WAdNo9l50NGT8cKOlJ-_FuXizzng4","portalTitle":["Plekwek Am Stromkasten","Wir Sind Oranienburg","Panda Stromkasten","Die Sonne","Brotkasten","Bad Cat"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,8,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.24643,52.756783],[13.245867,52.756614],[13.245295,52.756491],[13.244983,52.756645],[13.244588,52.756318],[13.244858,52.755966]]}},{"type":"Feature","properties":{"time":1616270645229,"guid":"9e077bd9ae1c4be6ad7a5a4781af76bd.1c","title":"4/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":854701,"medianCompletionTimeMs":401012,"numUniqueCompletedPlayers":123,"typeNumMission":1,"image":"https://lh6.ggpht.com/7hewt5lS5C13_QV09CBtsQie74SJLzzzGVnM_nKI534wcI_uMDG_V1OdEXDo8ETyJ9giGkh2a9CLsFTE61ai","portalTitle":["Bad Cat","Spray Art","Dead Kenny","Kinderspielplatz ","Brotkasten","Haushaltsgeräte"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,8,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.244858,52.755966],[13.245277,52.755829],[13.245204,52.755444],[13.244068,52.755677],[13.244588,52.756318],[13.243784,52.756487]]}},{"type":"Feature","properties":{"time":1616270650212,"guid":"7f12a3af3e954e019520a69c0159fe25.1c","title":"5/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":882353,"medianCompletionTimeMs":219723,"numUniqueCompletedPlayers":124,"typeNumMission":1,"image":"https://lh6.ggpht.com/rWGIosqlLFDZNkz82EV_v78qrjKEsVt5z0X7-qaGbAhzP6rRz4PvEWDgiaJ7OJ-CwcLmlszN8Pnk-clcAdvt","portalTitle":["Haushaltsgeräte","Bagger Kasten ","Fassadenkunst ","Haus Fresko"],"portalTypeNum":[1,1,1,1],"portalObjectiveNum":[8,2,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.243784,52.756487],[13.243384,52.756105],[13.243051,52.756252],[13.242968,52.755981]]}},{"type":"Feature","properties":{"time":1616270656736,"guid":"8154e2643d634771935e92f7f0488e4c.1c","title":"6/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":898305,"medianCompletionTimeMs":281766,"numUniqueCompletedPlayers":125,"typeNumMission":1,"image":"https://lh5.ggpht.com/no8bAu1sgfj4d0IWcLHqNh5bDnt1GgszR65JvwtdXUCcam_DWCFeLPCscEuvmyNo5VNYUl2_LX5U7LBMY4JbfQ","portalTitle":["Bombe aus dem 2. Weltkrieg","Die Kugel","Wasserspiele ","Harry Potter Mural","Wand Mural "],"portalTypeNum":[1,1,1,1,1],"portalObjectiveNum":[1,1,1,8,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.242655,52.756231],[13.242348,52.756249],[13.242007,52.756183],[13.24157,52.756035],[13.241994,52.756442]]}},{"type":"Feature","properties":{"time":1616270668632,"guid":"ea1c6454e9dc4063b2d741cdeb975a16.1c","title":"7/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":852174,"medianCompletionTimeMs":431452,"numUniqueCompletedPlayers":123,"typeNumMission":1,"image":"https://lh3.ggpht.com/Ks7j4CVdN5_Ai_BPbvLWTlR1E3ucbydR3GsbyErOOvV6Y9WGEvRGpQUWZulYQqulzix8bVJh7NZdEDH1onRv","portalTitle":["Bemalte Trafostation ","Friedens Tafel ","Two Horses ","Regine Hildebrandt Haus","Stadt Bibliothek"],"portalTypeNum":[1,1,1,1,1],"portalObjectiveNum":[1,1,8,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.242581,52.756685],[13.241887,52.756637],[13.241384,52.756864],[13.240807,52.756397],[13.240387,52.756328]]}},{"type":"Feature","properties":{"time":1616270682968,"guid":"2091140d3371450eb89bfe97f155c392.1c","title":"8/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":890909,"medianCompletionTimeMs":659690,"numUniqueCompletedPlayers":124,"typeNumMission":1,"image":"https://lh5.ggpht.com/-k_Z3FvHc-Zxgraww95dKVQugZdGXEm2BxJKrEtTM0D-Fin2k3Atiffk3seiQ4VnOF0957vgQt4iR_Z9tHyp","portalTitle":["Unavailable","Herr Runge Statue","Runge Laboratorium","Ankerplatz","Schlosshafen"],"portalTypeNum":[1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.240943,52.758167],[13.240677,52.758357],[13.237966,52.758359],[13.236752,52.758237]]}},{"type":"Feature","properties":{"time":1616270696966,"guid":"68fae394966e403b9a3f0b82643c8fa3.1c","title":"9/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":844828,"medianCompletionTimeMs":540917,"numUniqueCompletedPlayers":124,"typeNumMission":1,"image":"https://lh3.ggpht.com/8gmGI0rRhVmiG4PQz2OVlx3HWnzuk5QmDoCdoc4LWEQ68gKqXm2b13eeuDdMVSmEXvhxysQb-sXsDHRUASsH","portalTitle":["Stadtrundgang","Kinderburg","Stein Minigolf ","Kleine Kinderbilder","Stadt Oranienburg","Unavailable"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.236531,52.758065],[13.234996,52.757742],[13.235342,52.756204],[13.235987,52.755335],[13.235985,52.755019]]}},{"type":"Feature","properties":{"time":1616270717614,"guid":"85658d19e35f4dfca898e0bf2f395e74.1c","title":"10/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":889831,"medianCompletionTimeMs":659848,"numUniqueCompletedPlayers":124,"typeNumMission":1,"image":"https://lh3.ggpht.com/8wbbpeOc9KeGwuneCVozkdYwYz3NSTAm_5uICcKrVEMcwKRUVnmZom6O_UPiLE09Ym2pUU_5DYcgXunoAl83","portalTitle":["Der Löwe","Schloss Oranienburg","Tor zum Schlosspark","Statue Louise Henriette","Blumenthalsche Haus","Bemalte Stromkästen","Neue Bibliothek"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.237121,52.755011],[13.236654,52.754692],[13.235944,52.754064],[13.236361,52.754094],[13.235985,52.753857],[13.237033,52.753603],[13.237636,52.753831]]}},{"type":"Feature","properties":{"time":1616270723162,"guid":"b61d1bb972dc4a6fbd27944a56fc85c4.1c","title":"11/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":863248,"medianCompletionTimeMs":370983,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh6.ggpht.com/IP6sbw1D0S-FEgw6fiLtyfo6V_b8l5bO6EJVqpTCGnpSvd3ghj3RYhO4YveYusIGM7b_YpPtQR6szIDUQ20","portalTitle":["Oranienburg - Mahnmal „Die Ank","Stolpersteine Oranienburger Schlossbrücke","Stolperstein am Rossmann","Famous Abraham Stolpersteine","Wächterinnen von Oranienburg","Fahrrad Sporthaus","Unavailable"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.237245,52.754151],[13.238529,52.754456],[13.238826,52.754374],[13.238964,52.755113],[13.238466,52.755242],[13.238538,52.755483]]}},{"type":"Feature","properties":{"time":1616270728049,"guid":"13d9ffcdeeda4ab19528b0743f09ac72.1c","title":"12/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":860870,"medianCompletionTimeMs":370773,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh3.ggpht.com/IuMTWVM7306hQRNErDjyuHRfhK3hYT-9poF1X7nJ9vHPuwW6xBR0YsxX_EU8rnxiYe5QN-lziVOYp4OjLPd8","portalTitle":["Woman with camera","Unavailable","Königliches Forsthaus","Alte Forsthaus","Pippi","Kaufhaus","Art of Paint"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.240459,52.755505],[13.2409,52.755853],[13.241057,52.755984],[13.241299,52.755934],[13.240792,52.755562],[13.241164,52.755217]]}},{"type":"Feature","properties":{"time":1616270733794,"guid":"2a61ace2750d4c999b2e9c4fc6791350.1c","title":"13/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":855932,"medianCompletionTimeMs":1467010,"numUniqueCompletedPlayers":123,"typeNumMission":1,"image":"https://lh3.ggpht.com/lOzHheS-ZjbqkFIk2ucR_lBnrqjmxlgJcYs7uX56JL_uo-0OfHbTPboqiV8m8kdTQBJJ7IL5fa06h24Q9Up1-w","portalTitle":["Stolpersteine Familie Kroker","Weiße Blumen","Graffiti Trafostation","The Wild","Holzfigur Pferdeinsel","Honig Bär","Abstraktion Holzkunstwerk","Holzwurm Pferdeinsel","Holzpferd Pferdeinsel ","Bootseimer"],"portalTypeNum":[1,1,1,1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.241892,52.754951],[13.243499,52.754291],[13.243269,52.753997],[13.243412,52.75373],[13.241769,52.751708],[13.242035,52.751579],[13.241689,52.751448],[13.241876,52.751185],[13.242573,52.750922],[13.243791,52.750803]]}},{"type":"Feature","properties":{"time":1616270785650,"guid":"fcd6abdc48d64442993ec5ed9a6902ad.1c","title":"14/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":810345,"medianCompletionTimeMs":728969,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh5.ggpht.com/PwFNJdtzLqf1qDks0ZBk-2MZmvarziwy7PK1wQiCGqHRVjatbWgf_YOj0Def0u6bmTMt71cEhIiqv4S1oOmk","portalTitle":["Bootseimer","Wassersportgemeinschaft Eintracht Oranie e.V.","Wandmalereien Lindenring","Mahnstein KZ","Abraham Diller Stolperstein","Familien Zentrum","Bunte Hauswand","Blaues Wunder Mural"],"portalTypeNum":[1,1,1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.243791,52.750803],[13.243912,52.750588],[13.244836,52.750163],[13.24725,52.751157],[13.247826,52.751009],[13.245346,52.75006],[13.245332,52.749743],[13.243805,52.749625]]}},{"type":"Feature","properties":{"time":1616270793097,"guid":"4077173c03994dbba667aa5680b0df96.1c","title":"15/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":838983,"medianCompletionTimeMs":465999,"numUniqueCompletedPlayers":123,"typeNumMission":1,"image":"https://lh6.ggpht.com/2McHlH5x7uPRf3LDxTCgRbeZxM3XTEZ2z4L5ZwbKtof6EMQlnD8Zle-ROULBvBNgUtQAXcyPv_koYqvexew","portalTitle":["Blaues Wunder Mural","Skateanlage Oranienburg","Park An Der Havel","Hauswand Reh","Karierte Turnhalle","Sportsman"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.243805,52.749625],[13.242333,52.749845],[13.243321,52.749271],[13.242823,52.748995],[13.243299,52.748468],[13.24332,52.748215]]}},{"type":"Feature","properties":{"time":1616270802280,"guid":"bce4d4c0a98f427db63d92eaa439d613.1c","title":"16/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":862069,"medianCompletionTimeMs":564070,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh6.ggpht.com/6SNiW5Lwt_4BokiCWdPFCuFxKE3PNDVmrz0vYkNoHms9P2xSee9rv3A5sYAjSG7p27ju6H_6XMgg6bTxW4Ww","portalTitle":["Karierte Turnhalle","Sportsman","Stone People","3er Verteiler mit Stecker","Frau mit Kopfhörer","Bodenplatte Potsdam"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,8,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.243299,52.748468],[13.24332,52.748215],[13.244008,52.747437],[13.245271,52.747027],[13.245383,52.746824],[13.24325,52.74694]]}},{"type":"Feature","properties":{"time":1616270810206,"guid":"326bb06a02084af3983ca780eec9427d.1c","title":"17/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":892857,"medianCompletionTimeMs":502992,"numUniqueCompletedPlayers":121,"typeNumMission":1,"image":"https://lh4.ggpht.com/0ymXCEpu_R-ES3lvQwss2JeDHG8lSF5_1C4YFRh6xa39I6idmSNvOwFh4bpMzXBoIiVIK0sa9mcPf9jOngM","portalTitle":["Bodenplatte Potsdam","Köpfe an Einander","Supergirl Mural","Skulptur an der Havel Grundschule","Fische Fassadenkunst","Katholische Kirche"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.24325,52.74694],[13.242856,52.746845],[13.241855,52.747489],[13.240711,52.748224],[13.239045,52.74798],[13.239055,52.747049]]}},{"type":"Feature","properties":{"time":1616270822413,"guid":"e63646d658114cb99258e2694bfb9d59.1c","title":"18/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":846847,"medianCompletionTimeMs":481299,"numUniqueCompletedPlayers":120,"typeNumMission":1,"image":"https://lh3.ggpht.com/NhRADJ_KgixCfIOw1-9RltFuUnZz5KDOv9c0m65VMXZebVDdg1rIAaGo_Y9awSvkt4NiFFK0iRFWlItF_2E","portalTitle":["Two Birds","Friedrich Wolf","Krassin Park","Krassin rettet Italien","Meilenstein","Erich Mühsam Gedenktafel"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[2,1,1,1,1,8],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.238332,52.747743],[13.237905,52.747664],[13.23744,52.74798],[13.237789,52.748526],[13.237374,52.749165],[13.23782,52.749505]]}},{"type":"Feature","properties":{"time":1616270829712,"guid":"dd4493fc9db14e5abb63b5a29617fca0.1c","title":"19/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":850877,"medianCompletionTimeMs":670703,"numUniqueCompletedPlayers":120,"typeNumMission":1,"image":"https://lh5.ggpht.com/Ebm9FTSjBX8OZEB49lQ5laUm3jS4_SGZ1-ecQiJNS_FZ7aL_ly6Xoj2sCDNsY2QYyGZ8CT49i7Y-pN00DVA","portalTitle":["Erich Mühsam Gedenktafel","Paragraphen auf Hand","Amtsgericht Oranienburg ","Zum Posthorn","Weltkrieg Denkmal","Cars","Lila Blumen"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.23782,52.749505],[13.236898,52.750181],[13.237243,52.750375],[13.236789,52.751175],[13.231605,52.750173],[13.230975,52.750285],[13.231296,52.750461]]}},{"type":"Feature","properties":{"time":1616270872362,"guid":"b9dbb134c53544ec990bf5ada8e1a5ee.1c","title":"20/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":840708,"medianCompletionTimeMs":524444,"numUniqueCompletedPlayers":119,"typeNumMission":1,"image":"https://lh4.ggpht.com/GLjesEefrcjJnDUpaieupO7jh48uF8Ncs2i6bXhxyU5TJlc8qZo9h5mz7vVLFmA4h8-x0TOChoHFZEQcj7fjvw","portalTitle":["Lila Blumen","Stadtrundgang an der Nicolai-Kirche","Radio Mundt","Spielplatz im Grünen","Holz Elefant","Brücken der Begegnung"],"portalTypeNum":[1,1,1,1,1,1],"portalObjectiveNum":[8,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.231296,52.750461],[13.233512,52.751515],[13.233146,52.751534],[13.232278,52.752085],[13.233208,52.752024],[13.233839,52.75246]]}},{"type":"Feature","properties":{"time":1616270886235,"guid":"b9d6c5aef1634131b7401bc3853d1a78.1c","title":"21/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":858407,"medianCompletionTimeMs":356471,"numUniqueCompletedPlayers":120,"typeNumMission":1,"image":"https://lh6.ggpht.com/G1bjFzC87Bj6buM58D_-vE1-NQpMtFEgICPMZhjIjJih_1OBKSXYrVdw9Qkp6X2u_iKzonB2zlswO_21L7Yt","portalTitle":["Nikolaikirche","St. Nicolai-Kirche ","Gedenktafel","Fam. Lauter/Mathias Stolpersteine ","Gesundheitsamt OHV","Waisenhaus","Schild. Stempel. Pokale"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,8,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.233922,52.751646],[13.23403,52.751474],[13.234655,52.751742],[13.235076,52.751828],[13.235517,52.751695],[13.235796,52.75184],[13.235664,52.752114]]}},{"type":"Feature","properties":{"time":1616270900089,"guid":"14d274fa552d43cbb424374a6525a034.1c","title":"22/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":842105,"medianCompletionTimeMs":414764,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh5.ggpht.com/ZuB4qDHN-paivHc7HRqopQLOmMenVK_0XrHE_mMxA1R30Mmoi7cRIZZ99W2Owa8WS1e4ErXKUxUilguwCAwS","portalTitle":["Schöne Frau ","Stromkasten","Amtshauptmannshaus ","Glaser Wappen","Otto Von Schwerin ","Das Wahre Insektenhotel ","Unavailable"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,1,1,1,8,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.235493,52.752357],[13.236212,52.752933],[13.235923,52.753154],[13.236334,52.753471],[13.235911,52.753479],[13.235318,52.753464]]}},{"type":"Feature","properties":{"time":1616270953435,"guid":"aa283f55358d49d5811a78bda3115d7f.1c","title":"23/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":823009,"medianCompletionTimeMs":353900,"numUniqueCompletedPlayers":122,"typeNumMission":1,"image":"https://lh3.ggpht.com/i94vSE3ipCSwJ-04WvSD6ntT0_rbOZQJcxhjMpSBVafMef2oNPzAiR-f4D_k6iWdcaFiVGW3g543FnCptpRX2A","portalTitle":["Blumenthalsche Haus","Tor zum Schlosspark","Schlossportal","Statue Louise Henriette","Bemalte Stromkästen","Neue Bibliothek","Oranienburg - Mahnmal „Die Ank"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[1,8,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.235985,52.753857],[13.235944,52.754064],[13.235652,52.754146],[13.236361,52.754094],[13.237033,52.753603],[13.237636,52.753831],[13.237245,52.754151]]}},{"type":"Feature","properties":{"time":1616270955335,"guid":"f8a98570cee7473ab5a4f03e2dd760c4.1c","title":"24/24 Wahrzeichen Oranienburg","description":"Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erhälst das Abzeichen *Schloß Oranienburg*","author":"Opasiehtdich","authorTeam":"R","ratingE6":805085,"medianCompletionTimeMs":403952,"numUniqueCompletedPlayers":121,"typeNumMission":1,"image":"https://lh5.ggpht.com/a2lrZ6kphUAnNze_8RWN2ENPWrDF49BT-E6juhRtb1akWNdhIvU1JEgK6I1Y1rswnNcstw8KEzzvG4FM2jpQ1w","portalTitle":["Oranienburg - Mahnmal „Die Ank","Statue Louise Henriette","Schloss Oranienburg","Stadt Oranienburg","Kleine Kinderbilder","Unavailable","Der Löwe"],"portalTypeNum":[1,1,1,1,1,1,1],"portalObjectiveNum":[8,8,1,1,1,1,1],"id": 1},"geometry":{"type":"LineString","coordinates":[[13.237245,52.754151],[13.236361,52.754094],[13.236654,52.754692],[13.235985,52.755019],[13.235987,52.755335],[13.237121,52.755011]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270610815,
+        "guid": "5c1d0cd8805148bab30bf754a3f6abb7.1c",
+        "title": "1 / 24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*Zu Fu\u00df je Mission ca 10 min.Viel Spa\u00df",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 930233,
+        "medianCompletionTimeMs": 959184,
+        "numUniqueCompletedPlayers": 130,
+        "typeNumMission": 1,
+        "image": "https://lh4.ggpht.com/mvxePu-x12ZzJlUbMG8jTadd_fIa64jDy2aXB68UJwYbvOATdfg7WTyCDfeVD_odfHduGYY3evcgt6w-rB0f",
+        "portalTitle": [
+          "S-Bahnhof Oranienburg",
+          "Spinnennetz",
+          "S-Bahnhof Oranienburg",
+          "Textilkasten",
+          "Porzellan Gem\u00e4lde",
+          "Bahnhofplatz"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.249462,
+            52.75329
+          ],
+          [
+            13.248477,
+            52.75368
+          ],
+          [
+            13.248415,
+            52.754504
+          ],
+          [
+            13.247874,
+            52.754363
+          ],
+          [
+            13.247178,
+            52.754089
+          ],
+          [
+            13.24692,
+            52.754363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270623104,
+        "guid": "482f674e17f944019e5ce02fd14df49a.1c",
+        "title": "2/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 873016,
+        "medianCompletionTimeMs": 618416,
+        "numUniqueCompletedPlayers": 128,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/1ll1Iyy_BHdvITtYNs57Ny-_t6YPg3uoQFSEUsk0M9RDvmt9Vk0mECcaFNDgOh9sC4CUVLLDKPqUcbO5natw",
+        "portalTitle": [
+          "Post Oranienburg",
+          "Graf Post",
+          "Der Soldat",
+          "Bemaltes Haus Mural",
+          "Oranienburger S-Bahn-Bild",
+          "Kanalarbeiten",
+          "Gem\u00fctliche Trafostation"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.247578,
+            52.754716
+          ],
+          [
+            13.247138,
+            52.754882
+          ],
+          [
+            13.247418,
+            52.755146
+          ],
+          [
+            13.247671,
+            52.755339
+          ],
+          [
+            13.247237,
+            52.75605
+          ],
+          [
+            13.246913,
+            52.75624
+          ],
+          [
+            13.247696,
+            52.757218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270628979,
+        "guid": "7c669d553d0d4aa5a025bf1072664bf6.1c",
+        "title": "3/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 901639,
+        "medianCompletionTimeMs": 443028,
+        "numUniqueCompletedPlayers": 126,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/uWNhmdGYoYnOLzP1tOzLBhYN0UnNSXWAekEqUqmzLJxWzvwlQoqjg-WAdNo9l50NGT8cKOlJ-_FuXizzng4",
+        "portalTitle": [
+          "Plekwek Am Stromkasten",
+          "Wir Sind Oranienburg",
+          "Panda Stromkasten",
+          "Die Sonne",
+          "Brotkasten",
+          "Bad Cat"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          8,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.24643,
+            52.756783
+          ],
+          [
+            13.245867,
+            52.756614
+          ],
+          [
+            13.245295,
+            52.756491
+          ],
+          [
+            13.244983,
+            52.756645
+          ],
+          [
+            13.244588,
+            52.756318
+          ],
+          [
+            13.244858,
+            52.755966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270645229,
+        "guid": "9e077bd9ae1c4be6ad7a5a4781af76bd.1c",
+        "title": "4/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 854701,
+        "medianCompletionTimeMs": 401012,
+        "numUniqueCompletedPlayers": 123,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/7hewt5lS5C13_QV09CBtsQie74SJLzzzGVnM_nKI534wcI_uMDG_V1OdEXDo8ETyJ9giGkh2a9CLsFTE61ai",
+        "portalTitle": [
+          "Bad Cat",
+          "Spray Art",
+          "Dead Kenny",
+          "Kinderspielplatz ",
+          "Brotkasten",
+          "Haushaltsger\u00e4te"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          8,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.244858,
+            52.755966
+          ],
+          [
+            13.245277,
+            52.755829
+          ],
+          [
+            13.245204,
+            52.755444
+          ],
+          [
+            13.244068,
+            52.755677
+          ],
+          [
+            13.244588,
+            52.756318
+          ],
+          [
+            13.243784,
+            52.756487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270650212,
+        "guid": "7f12a3af3e954e019520a69c0159fe25.1c",
+        "title": "5/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 882353,
+        "medianCompletionTimeMs": 219723,
+        "numUniqueCompletedPlayers": 124,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/rWGIosqlLFDZNkz82EV_v78qrjKEsVt5z0X7-qaGbAhzP6rRz4PvEWDgiaJ7OJ-CwcLmlszN8Pnk-clcAdvt",
+        "portalTitle": [
+          "Haushaltsger\u00e4te",
+          "Bagger Kasten ",
+          "Fassadenkunst ",
+          "Haus Fresko"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          2,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.243784,
+            52.756487
+          ],
+          [
+            13.243384,
+            52.756105
+          ],
+          [
+            13.243051,
+            52.756252
+          ],
+          [
+            13.242968,
+            52.755981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270656736,
+        "guid": "8154e2643d634771935e92f7f0488e4c.1c",
+        "title": "6/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 898305,
+        "medianCompletionTimeMs": 281766,
+        "numUniqueCompletedPlayers": 125,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/no8bAu1sgfj4d0IWcLHqNh5bDnt1GgszR65JvwtdXUCcam_DWCFeLPCscEuvmyNo5VNYUl2_LX5U7LBMY4JbfQ",
+        "portalTitle": [
+          "Bombe aus dem 2. Weltkrieg",
+          "Die Kugel",
+          "Wasserspiele ",
+          "Harry Potter Mural",
+          "Wand Mural "
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          8,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.242655,
+            52.756231
+          ],
+          [
+            13.242348,
+            52.756249
+          ],
+          [
+            13.242007,
+            52.756183
+          ],
+          [
+            13.24157,
+            52.756035
+          ],
+          [
+            13.241994,
+            52.756442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270668632,
+        "guid": "ea1c6454e9dc4063b2d741cdeb975a16.1c",
+        "title": "7/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 852174,
+        "medianCompletionTimeMs": 431452,
+        "numUniqueCompletedPlayers": 123,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/Ks7j4CVdN5_Ai_BPbvLWTlR1E3ucbydR3GsbyErOOvV6Y9WGEvRGpQUWZulYQqulzix8bVJh7NZdEDH1onRv",
+        "portalTitle": [
+          "Bemalte Trafostation ",
+          "Friedens Tafel ",
+          "Two Horses ",
+          "Regine Hildebrandt Haus",
+          "Stadt Bibliothek"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          8,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.242581,
+            52.756685
+          ],
+          [
+            13.241887,
+            52.756637
+          ],
+          [
+            13.241384,
+            52.756864
+          ],
+          [
+            13.240807,
+            52.756397
+          ],
+          [
+            13.240387,
+            52.756328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270682968,
+        "guid": "2091140d3371450eb89bfe97f155c392.1c",
+        "title": "8/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 890909,
+        "medianCompletionTimeMs": 659690,
+        "numUniqueCompletedPlayers": 124,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/-k_Z3FvHc-Zxgraww95dKVQugZdGXEm2BxJKrEtTM0D-Fin2k3Atiffk3seiQ4VnOF0957vgQt4iR_Z9tHyp",
+        "portalTitle": [
+          "Unavailable",
+          "Herr Runge Statue",
+          "Runge Laboratorium",
+          "Ankerplatz",
+          "Schlosshafen"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.240943,
+            52.758167
+          ],
+          [
+            13.240677,
+            52.758357
+          ],
+          [
+            13.237966,
+            52.758359
+          ],
+          [
+            13.236752,
+            52.758237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270696966,
+        "guid": "68fae394966e403b9a3f0b82643c8fa3.1c",
+        "title": "9/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 844828,
+        "medianCompletionTimeMs": 540917,
+        "numUniqueCompletedPlayers": 124,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/8gmGI0rRhVmiG4PQz2OVlx3HWnzuk5QmDoCdoc4LWEQ68gKqXm2b13eeuDdMVSmEXvhxysQb-sXsDHRUASsH",
+        "portalTitle": [
+          "Stadtrundgang",
+          "Kinderburg",
+          "Stein Minigolf ",
+          "Kleine Kinderbilder",
+          "Stadt Oranienburg",
+          "Unavailable"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.236531,
+            52.758065
+          ],
+          [
+            13.234996,
+            52.757742
+          ],
+          [
+            13.235342,
+            52.756204
+          ],
+          [
+            13.235987,
+            52.755335
+          ],
+          [
+            13.235985,
+            52.755019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270717614,
+        "guid": "85658d19e35f4dfca898e0bf2f395e74.1c",
+        "title": "10/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 889831,
+        "medianCompletionTimeMs": 659848,
+        "numUniqueCompletedPlayers": 124,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/8wbbpeOc9KeGwuneCVozkdYwYz3NSTAm_5uICcKrVEMcwKRUVnmZom6O_UPiLE09Ym2pUU_5DYcgXunoAl83",
+        "portalTitle": [
+          "Der L\u00f6we",
+          "Schloss Oranienburg",
+          "Tor zum Schlosspark",
+          "Statue Louise Henriette",
+          "Blumenthalsche Haus",
+          "Bemalte Stromk\u00e4sten",
+          "Neue Bibliothek"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.237121,
+            52.755011
+          ],
+          [
+            13.236654,
+            52.754692
+          ],
+          [
+            13.235944,
+            52.754064
+          ],
+          [
+            13.236361,
+            52.754094
+          ],
+          [
+            13.235985,
+            52.753857
+          ],
+          [
+            13.237033,
+            52.753603
+          ],
+          [
+            13.237636,
+            52.753831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270723162,
+        "guid": "b61d1bb972dc4a6fbd27944a56fc85c4.1c",
+        "title": "11/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 863248,
+        "medianCompletionTimeMs": 370983,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/IP6sbw1D0S-FEgw6fiLtyfo6V_b8l5bO6EJVqpTCGnpSvd3ghj3RYhO4YveYusIGM7b_YpPtQR6szIDUQ20",
+        "portalTitle": [
+          "Oranienburg - Mahnmal \u201eDie Ank",
+          "Stolpersteine Oranienburger Schlossbr\u00fccke",
+          "Stolperstein am Rossmann",
+          "Famous Abraham Stolpersteine",
+          "W\u00e4chterinnen von Oranienburg",
+          "Fahrrad Sporthaus",
+          "Unavailable"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.237245,
+            52.754151
+          ],
+          [
+            13.238529,
+            52.754456
+          ],
+          [
+            13.238826,
+            52.754374
+          ],
+          [
+            13.238964,
+            52.755113
+          ],
+          [
+            13.238466,
+            52.755242
+          ],
+          [
+            13.238538,
+            52.755483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270728049,
+        "guid": "13d9ffcdeeda4ab19528b0743f09ac72.1c",
+        "title": "12/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 860870,
+        "medianCompletionTimeMs": 370773,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/IuMTWVM7306hQRNErDjyuHRfhK3hYT-9poF1X7nJ9vHPuwW6xBR0YsxX_EU8rnxiYe5QN-lziVOYp4OjLPd8",
+        "portalTitle": [
+          "Woman with camera",
+          "Unavailable",
+          "K\u00f6nigliches Forsthaus",
+          "Alte Forsthaus",
+          "Pippi",
+          "Kaufhaus",
+          "Art of Paint"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.240459,
+            52.755505
+          ],
+          [
+            13.2409,
+            52.755853
+          ],
+          [
+            13.241057,
+            52.755984
+          ],
+          [
+            13.241299,
+            52.755934
+          ],
+          [
+            13.240792,
+            52.755562
+          ],
+          [
+            13.241164,
+            52.755217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270733794,
+        "guid": "2a61ace2750d4c999b2e9c4fc6791350.1c",
+        "title": "13/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 855932,
+        "medianCompletionTimeMs": 1467010,
+        "numUniqueCompletedPlayers": 123,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/lOzHheS-ZjbqkFIk2ucR_lBnrqjmxlgJcYs7uX56JL_uo-0OfHbTPboqiV8m8kdTQBJJ7IL5fa06h24Q9Up1-w",
+        "portalTitle": [
+          "Stolpersteine Familie Kroker",
+          "Wei\u00dfe Blumen",
+          "Graffiti Trafostation",
+          "The Wild",
+          "Holzfigur Pferdeinsel",
+          "Honig B\u00e4r",
+          "Abstraktion Holzkunstwerk",
+          "Holzwurm Pferdeinsel",
+          "Holzpferd Pferdeinsel ",
+          "Bootseimer"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.241892,
+            52.754951
+          ],
+          [
+            13.243499,
+            52.754291
+          ],
+          [
+            13.243269,
+            52.753997
+          ],
+          [
+            13.243412,
+            52.75373
+          ],
+          [
+            13.241769,
+            52.751708
+          ],
+          [
+            13.242035,
+            52.751579
+          ],
+          [
+            13.241689,
+            52.751448
+          ],
+          [
+            13.241876,
+            52.751185
+          ],
+          [
+            13.242573,
+            52.750922
+          ],
+          [
+            13.243791,
+            52.750803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270785650,
+        "guid": "fcd6abdc48d64442993ec5ed9a6902ad.1c",
+        "title": "14/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 810345,
+        "medianCompletionTimeMs": 728969,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/PwFNJdtzLqf1qDks0ZBk-2MZmvarziwy7PK1wQiCGqHRVjatbWgf_YOj0Def0u6bmTMt71cEhIiqv4S1oOmk",
+        "portalTitle": [
+          "Bootseimer",
+          "Wassersportgemeinschaft Eintracht Oranie e.V.",
+          "Wandmalereien Lindenring",
+          "Mahnstein KZ",
+          "Abraham Diller Stolperstein",
+          "Familien Zentrum",
+          "Bunte Hauswand",
+          "Blaues Wunder Mural"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.243791,
+            52.750803
+          ],
+          [
+            13.243912,
+            52.750588
+          ],
+          [
+            13.244836,
+            52.750163
+          ],
+          [
+            13.24725,
+            52.751157
+          ],
+          [
+            13.247826,
+            52.751009
+          ],
+          [
+            13.245346,
+            52.75006
+          ],
+          [
+            13.245332,
+            52.749743
+          ],
+          [
+            13.243805,
+            52.749625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270793097,
+        "guid": "4077173c03994dbba667aa5680b0df96.1c",
+        "title": "15/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 838983,
+        "medianCompletionTimeMs": 465999,
+        "numUniqueCompletedPlayers": 123,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/2McHlH5x7uPRf3LDxTCgRbeZxM3XTEZ2z4L5ZwbKtof6EMQlnD8Zle-ROULBvBNgUtQAXcyPv_koYqvexew",
+        "portalTitle": [
+          "Blaues Wunder Mural",
+          "Skateanlage Oranienburg",
+          "Park An Der Havel",
+          "Hauswand Reh",
+          "Karierte Turnhalle",
+          "Sportsman"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.243805,
+            52.749625
+          ],
+          [
+            13.242333,
+            52.749845
+          ],
+          [
+            13.243321,
+            52.749271
+          ],
+          [
+            13.242823,
+            52.748995
+          ],
+          [
+            13.243299,
+            52.748468
+          ],
+          [
+            13.24332,
+            52.748215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270802280,
+        "guid": "bce4d4c0a98f427db63d92eaa439d613.1c",
+        "title": "16/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 862069,
+        "medianCompletionTimeMs": 564070,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/6SNiW5Lwt_4BokiCWdPFCuFxKE3PNDVmrz0vYkNoHms9P2xSee9rv3A5sYAjSG7p27ju6H_6XMgg6bTxW4Ww",
+        "portalTitle": [
+          "Karierte Turnhalle",
+          "Sportsman",
+          "Stone People",
+          "3er Verteiler mit Stecker",
+          "Frau mit Kopfh\u00f6rer",
+          "Bodenplatte Potsdam"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          8,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.243299,
+            52.748468
+          ],
+          [
+            13.24332,
+            52.748215
+          ],
+          [
+            13.244008,
+            52.747437
+          ],
+          [
+            13.245271,
+            52.747027
+          ],
+          [
+            13.245383,
+            52.746824
+          ],
+          [
+            13.24325,
+            52.74694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270810206,
+        "guid": "326bb06a02084af3983ca780eec9427d.1c",
+        "title": "17/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 892857,
+        "medianCompletionTimeMs": 502992,
+        "numUniqueCompletedPlayers": 121,
+        "typeNumMission": 1,
+        "image": "https://lh4.ggpht.com/0ymXCEpu_R-ES3lvQwss2JeDHG8lSF5_1C4YFRh6xa39I6idmSNvOwFh4bpMzXBoIiVIK0sa9mcPf9jOngM",
+        "portalTitle": [
+          "Bodenplatte Potsdam",
+          "K\u00f6pfe an Einander",
+          "Supergirl Mural",
+          "Skulptur an der Havel Grundschule",
+          "Fische Fassadenkunst",
+          "Katholische Kirche"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.24325,
+            52.74694
+          ],
+          [
+            13.242856,
+            52.746845
+          ],
+          [
+            13.241855,
+            52.747489
+          ],
+          [
+            13.240711,
+            52.748224
+          ],
+          [
+            13.239045,
+            52.74798
+          ],
+          [
+            13.239055,
+            52.747049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270822413,
+        "guid": "e63646d658114cb99258e2694bfb9d59.1c",
+        "title": "18/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 846847,
+        "medianCompletionTimeMs": 481299,
+        "numUniqueCompletedPlayers": 120,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/NhRADJ_KgixCfIOw1-9RltFuUnZz5KDOv9c0m65VMXZebVDdg1rIAaGo_Y9awSvkt4NiFFK0iRFWlItF_2E",
+        "portalTitle": [
+          "Two Birds",
+          "Friedrich Wolf",
+          "Krassin Park",
+          "Krassin rettet Italien",
+          "Meilenstein",
+          "Erich M\u00fchsam Gedenktafel"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          2,
+          1,
+          1,
+          1,
+          1,
+          8
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.238332,
+            52.747743
+          ],
+          [
+            13.237905,
+            52.747664
+          ],
+          [
+            13.23744,
+            52.74798
+          ],
+          [
+            13.237789,
+            52.748526
+          ],
+          [
+            13.237374,
+            52.749165
+          ],
+          [
+            13.23782,
+            52.749505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270829712,
+        "guid": "dd4493fc9db14e5abb63b5a29617fca0.1c",
+        "title": "19/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 850877,
+        "medianCompletionTimeMs": 670703,
+        "numUniqueCompletedPlayers": 120,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/Ebm9FTSjBX8OZEB49lQ5laUm3jS4_SGZ1-ecQiJNS_FZ7aL_ly6Xoj2sCDNsY2QYyGZ8CT49i7Y-pN00DVA",
+        "portalTitle": [
+          "Erich M\u00fchsam Gedenktafel",
+          "Paragraphen auf Hand",
+          "Amtsgericht Oranienburg ",
+          "Zum Posthorn",
+          "Weltkrieg Denkmal",
+          "Cars",
+          "Lila Blumen"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.23782,
+            52.749505
+          ],
+          [
+            13.236898,
+            52.750181
+          ],
+          [
+            13.237243,
+            52.750375
+          ],
+          [
+            13.236789,
+            52.751175
+          ],
+          [
+            13.231605,
+            52.750173
+          ],
+          [
+            13.230975,
+            52.750285
+          ],
+          [
+            13.231296,
+            52.750461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270872362,
+        "guid": "b9dbb134c53544ec990bf5ada8e1a5ee.1c",
+        "title": "20/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 840708,
+        "medianCompletionTimeMs": 524444,
+        "numUniqueCompletedPlayers": 119,
+        "typeNumMission": 1,
+        "image": "https://lh4.ggpht.com/GLjesEefrcjJnDUpaieupO7jh48uF8Ncs2i6bXhxyU5TJlc8qZo9h5mz7vVLFmA4h8-x0TOChoHFZEQcj7fjvw",
+        "portalTitle": [
+          "Lila Blumen",
+          "Stadtrundgang an der Nicolai-Kirche",
+          "Radio Mundt",
+          "Spielplatz im Gr\u00fcnen",
+          "Holz Elefant",
+          "Br\u00fccken der Begegnung"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.231296,
+            52.750461
+          ],
+          [
+            13.233512,
+            52.751515
+          ],
+          [
+            13.233146,
+            52.751534
+          ],
+          [
+            13.232278,
+            52.752085
+          ],
+          [
+            13.233208,
+            52.752024
+          ],
+          [
+            13.233839,
+            52.75246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270886235,
+        "guid": "b9d6c5aef1634131b7401bc3853d1a78.1c",
+        "title": "21/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 858407,
+        "medianCompletionTimeMs": 356471,
+        "numUniqueCompletedPlayers": 120,
+        "typeNumMission": 1,
+        "image": "https://lh6.ggpht.com/G1bjFzC87Bj6buM58D_-vE1-NQpMtFEgICPMZhjIjJih_1OBKSXYrVdw9Qkp6X2u_iKzonB2zlswO_21L7Yt",
+        "portalTitle": [
+          "Nikolaikirche",
+          "St. Nicolai-Kirche ",
+          "Gedenktafel",
+          "Fam. Lauter/Mathias Stolpersteine ",
+          "Gesundheitsamt OHV",
+          "Waisenhaus",
+          "Schild. Stempel. Pokale"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          8,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.233922,
+            52.751646
+          ],
+          [
+            13.23403,
+            52.751474
+          ],
+          [
+            13.234655,
+            52.751742
+          ],
+          [
+            13.235076,
+            52.751828
+          ],
+          [
+            13.235517,
+            52.751695
+          ],
+          [
+            13.235796,
+            52.75184
+          ],
+          [
+            13.235664,
+            52.752114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270900089,
+        "guid": "14d274fa552d43cbb424374a6525a034.1c",
+        "title": "22/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 842105,
+        "medianCompletionTimeMs": 414764,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/ZuB4qDHN-paivHc7HRqopQLOmMenVK_0XrHE_mMxA1R30Mmoi7cRIZZ99W2Owa8WS1e4ErXKUxUilguwCAwS",
+        "portalTitle": [
+          "Sch\u00f6ne Frau ",
+          "Stromkasten",
+          "Amtshauptmannshaus ",
+          "Glaser Wappen",
+          "Otto Von Schwerin ",
+          "Das Wahre Insektenhotel ",
+          "Unavailable"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          1,
+          1,
+          1,
+          8,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.235493,
+            52.752357
+          ],
+          [
+            13.236212,
+            52.752933
+          ],
+          [
+            13.235923,
+            52.753154
+          ],
+          [
+            13.236334,
+            52.753471
+          ],
+          [
+            13.235911,
+            52.753479
+          ],
+          [
+            13.235318,
+            52.753464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270953435,
+        "guid": "aa283f55358d49d5811a78bda3115d7f.1c",
+        "title": "23/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 823009,
+        "medianCompletionTimeMs": 353900,
+        "numUniqueCompletedPlayers": 122,
+        "typeNumMission": 1,
+        "image": "https://lh3.ggpht.com/i94vSE3ipCSwJ-04WvSD6ntT0_rbOZQJcxhjMpSBVafMef2oNPzAiR-f4D_k6iWdcaFiVGW3g543FnCptpRX2A",
+        "portalTitle": [
+          "Blumenthalsche Haus",
+          "Tor zum Schlosspark",
+          "Schlossportal",
+          "Statue Louise Henriette",
+          "Bemalte Stromk\u00e4sten",
+          "Neue Bibliothek",
+          "Oranienburg - Mahnmal \u201eDie Ank"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          1,
+          8,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.235985,
+            52.753857
+          ],
+          [
+            13.235944,
+            52.754064
+          ],
+          [
+            13.235652,
+            52.754146
+          ],
+          [
+            13.236361,
+            52.754094
+          ],
+          [
+            13.237033,
+            52.753603
+          ],
+          [
+            13.237636,
+            52.753831
+          ],
+          [
+            13.237245,
+            52.754151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": 1616270955335,
+        "guid": "f8a98570cee7473ab5a4f03e2dd760c4.1c",
+        "title": "24/24 Wahrzeichen Oranienburg",
+        "description": "Beende die Missionen in der angegebenen Reihenfolge 1-24 und du erh\u00e4lst das Abzeichen *Schlo\u00df Oranienburg*",
+        "author": "Opasiehtdich",
+        "authorTeam": "R",
+        "ratingE6": 805085,
+        "medianCompletionTimeMs": 403952,
+        "numUniqueCompletedPlayers": 121,
+        "typeNumMission": 1,
+        "image": "https://lh5.ggpht.com/a2lrZ6kphUAnNze_8RWN2ENPWrDF49BT-E6juhRtb1akWNdhIvU1JEgK6I1Y1rswnNcstw8KEzzvG4FM2jpQ1w",
+        "portalTitle": [
+          "Oranienburg - Mahnmal \u201eDie Ank",
+          "Statue Louise Henriette",
+          "Schloss Oranienburg",
+          "Stadt Oranienburg",
+          "Kleine Kinderbilder",
+          "Unavailable",
+          "Der L\u00f6we"
+        ],
+        "portalTypeNum": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "portalObjectiveNum": [
+          8,
+          8,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "id": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.237245,
+            52.754151
+          ],
+          [
+            13.236361,
+            52.754094
+          ],
+          [
+            13.236654,
+            52.754692
+          ],
+          [
+            13.235985,
+            52.755019
+          ],
+          [
+            13.235987,
+            52.755335
+          ],
+          [
+            13.237121,
+            52.755011
+          ]
+        ]
+      }
+    }
+  ]
+}

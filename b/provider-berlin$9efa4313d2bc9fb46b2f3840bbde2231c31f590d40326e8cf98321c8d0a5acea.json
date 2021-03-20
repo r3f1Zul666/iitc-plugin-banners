@@ -1,0 +1,10 @@
+{
+  "name": "Berlin",
+  "providers": {
+    "provider-pankow": {
+      "name": "Berlin",
+      "sha256": "5fc95f72efe20014532e881dba065d10f116b5b443b493a59dc4be3af6c89f01",
+      "length": 2
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Prenzlauer Berg",
+  "banners": {
+    "germany/berlin/pankow/pberg/jokeeyes.json": {
+      "name": "jokeeyes",
+      "authors": {
+        "wasahrbia": "Resistance"
+      },
+      "sha256": "05ccc85faecceeb8eff08fab80bc3f4cfd91eb8b2222b9bf9443d347c33388d8",
+      "length": 6
+    },
+    "germany/berlin/pankow/pberg/harleyeyes.json": {
+      "name": "harleyeyes",
+      "authors": {
+        "wasahrbia": "Resistance"
+      },
+      "sha256": "154a3879b4423b0c2408178a3823133e1943b54c7bed2f1e9768784734cbfd10",
+      "length": 6
+    }
+  }
+}

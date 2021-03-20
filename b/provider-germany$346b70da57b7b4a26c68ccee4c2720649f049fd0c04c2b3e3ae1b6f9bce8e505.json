@@ -1,0 +1,15 @@
+{
+  "name": "Deutschland",
+  "providers": {
+    "provider-berlin": {
+      "name": "Berlin",
+      "sha256": "463edbcb09e24f7519d7936f73c3f7e6dd3b71f7a4bbec0d03aff99264a38ce1",
+      "length": 2
+    },
+    "provider-brandenburg": {
+      "name": "Brandenburg",
+      "sha256": "dda5330893dfab640ffdf30b03d712eb5bd78b9c947be56bb3c38867640b79c7",
+      "length": 1
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Oberhavel",
+  "providers": {
+    "provider-oranienburg": {
+      "name": "Oranienburg",
+      "sha256": "2ed00f54a7cd4c1c0c987bce8933e86f74e50459e9846fffa902bbb378830106",
+      "length": 1
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Brandenburg",
+  "providers": {
+    "provider-oberhavel": {
+      "name": "Oberhavel",
+      "sha256": "91cca39ed6110bc8595bf5a22e093f2e6e2eb4e930ff38930d6155ae4849d5eb",
+      "length": 1
+    }
+  }
+}

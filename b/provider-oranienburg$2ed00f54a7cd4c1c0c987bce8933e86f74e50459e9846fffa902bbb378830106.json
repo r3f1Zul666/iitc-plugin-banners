@@ -1,0 +1,13 @@
+{
+  "name": "Oranienburg",
+  "banners": {
+    "germany/brandenburg/oberhavel/oranienburg/Wahrzeichen Oranienburg": {
+      "name": "Wahrzeichen Oranienburg",
+      "authors": {
+        "Opasiehtdich": "Resistance"
+      },
+      "sha256": "e848728dc3dd37d9f1530667aa9559916ba8a6f8cec0f34b7c90b4784c435a6d",
+      "length": 24
+    }
+  }
+}

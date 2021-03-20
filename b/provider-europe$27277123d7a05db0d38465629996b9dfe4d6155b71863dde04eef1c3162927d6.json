@@ -3,8 +3,8 @@
   "providers": {
     "provider-germany": {
       "name": "Deutschland",
-      "sha256": "c72cc6b8535d9518506a3ea55e8d3a5d0d74207c631ab247a2fe0ca042e87583",
-      "length": 0
+      "sha256": "346b70da57b7b4a26c68ccee4c2720649f049fd0c04c2b3e3ae1b6f9bce8e505",
+      "length": 3
     }
   }
 }

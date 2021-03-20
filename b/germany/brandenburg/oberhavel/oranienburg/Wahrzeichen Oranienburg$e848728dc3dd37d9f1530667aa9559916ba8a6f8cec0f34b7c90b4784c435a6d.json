@@ -1,0 +1,248 @@
+{
+  "name": "Wahrzeichen Oranienburg",
+  "authors": {
+    "Opasiehtdich": "Resistance"
+  },
+  "missions": [
+    {
+      "guid": "5c1d0cd8805148bab30bf754a3f6abb7.1c",
+      "title": "1 / 24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 930233,
+      "medianCompletionTimeMs": 959184,
+      "numUniqueCompletedPlayers": 130,
+      "image": "https://lh4.ggpht.com/mvxePu-x12ZzJlUbMG8jTadd_fIa64jDy2aXB68UJwYbvOATdfg7WTyCDfeVD_odfHduGYY3evcgt6w-rB0f"
+    },
+    {
+      "guid": "482f674e17f944019e5ce02fd14df49a.1c",
+      "title": "2/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 873016,
+      "medianCompletionTimeMs": 618416,
+      "numUniqueCompletedPlayers": 128,
+      "image": "https://lh3.ggpht.com/1ll1Iyy_BHdvITtYNs57Ny-_t6YPg3uoQFSEUsk0M9RDvmt9Vk0mECcaFNDgOh9sC4CUVLLDKPqUcbO5natw"
+    },
+    {
+      "guid": "7c669d553d0d4aa5a025bf1072664bf6.1c",
+      "title": "3/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 901639,
+      "medianCompletionTimeMs": 443028,
+      "numUniqueCompletedPlayers": 126,
+      "image": "https://lh6.ggpht.com/uWNhmdGYoYnOLzP1tOzLBhYN0UnNSXWAekEqUqmzLJxWzvwlQoqjg-WAdNo9l50NGT8cKOlJ-_FuXizzng4"
+    },
+    {
+      "guid": "9e077bd9ae1c4be6ad7a5a4781af76bd.1c",
+      "title": "4/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 854701,
+      "medianCompletionTimeMs": 401012,
+      "numUniqueCompletedPlayers": 123,
+      "image": "https://lh6.ggpht.com/7hewt5lS5C13_QV09CBtsQie74SJLzzzGVnM_nKI534wcI_uMDG_V1OdEXDo8ETyJ9giGkh2a9CLsFTE61ai"
+    },
+    {
+      "guid": "7f12a3af3e954e019520a69c0159fe25.1c",
+      "title": "5/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 882353,
+      "medianCompletionTimeMs": 219723,
+      "numUniqueCompletedPlayers": 124,
+      "image": "https://lh6.ggpht.com/rWGIosqlLFDZNkz82EV_v78qrjKEsVt5z0X7-qaGbAhzP6rRz4PvEWDgiaJ7OJ-CwcLmlszN8Pnk-clcAdvt"
+    },
+    {
+      "guid": "8154e2643d634771935e92f7f0488e4c.1c",
+      "title": "6/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 898305,
+      "medianCompletionTimeMs": 281766,
+      "numUniqueCompletedPlayers": 125,
+      "image": "https://lh5.ggpht.com/no8bAu1sgfj4d0IWcLHqNh5bDnt1GgszR65JvwtdXUCcam_DWCFeLPCscEuvmyNo5VNYUl2_LX5U7LBMY4JbfQ"
+    },
+    {
+      "guid": "ea1c6454e9dc4063b2d741cdeb975a16.1c",
+      "title": "7/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 852174,
+      "medianCompletionTimeMs": 431452,
+      "numUniqueCompletedPlayers": 123,
+      "image": "https://lh3.ggpht.com/Ks7j4CVdN5_Ai_BPbvLWTlR1E3ucbydR3GsbyErOOvV6Y9WGEvRGpQUWZulYQqulzix8bVJh7NZdEDH1onRv"
+    },
+    {
+      "guid": "2091140d3371450eb89bfe97f155c392.1c",
+      "title": "8/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 890909,
+      "medianCompletionTimeMs": 659690,
+      "numUniqueCompletedPlayers": 124,
+      "image": "https://lh5.ggpht.com/-k_Z3FvHc-Zxgraww95dKVQugZdGXEm2BxJKrEtTM0D-Fin2k3Atiffk3seiQ4VnOF0957vgQt4iR_Z9tHyp"
+    },
+    {
+      "guid": "68fae394966e403b9a3f0b82643c8fa3.1c",
+      "title": "9/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 844828,
+      "medianCompletionTimeMs": 540917,
+      "numUniqueCompletedPlayers": 124,
+      "image": "https://lh3.ggpht.com/8gmGI0rRhVmiG4PQz2OVlx3HWnzuk5QmDoCdoc4LWEQ68gKqXm2b13eeuDdMVSmEXvhxysQb-sXsDHRUASsH"
+    },
+    {
+      "guid": "85658d19e35f4dfca898e0bf2f395e74.1c",
+      "title": "10/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 889831,
+      "medianCompletionTimeMs": 659848,
+      "numUniqueCompletedPlayers": 124,
+      "image": "https://lh3.ggpht.com/8wbbpeOc9KeGwuneCVozkdYwYz3NSTAm_5uICcKrVEMcwKRUVnmZom6O_UPiLE09Ym2pUU_5DYcgXunoAl83"
+    },
+    {
+      "guid": "b61d1bb972dc4a6fbd27944a56fc85c4.1c",
+      "title": "11/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 863248,
+      "medianCompletionTimeMs": 370983,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh6.ggpht.com/IP6sbw1D0S-FEgw6fiLtyfo6V_b8l5bO6EJVqpTCGnpSvd3ghj3RYhO4YveYusIGM7b_YpPtQR6szIDUQ20"
+    },
+    {
+      "guid": "13d9ffcdeeda4ab19528b0743f09ac72.1c",
+      "title": "12/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 860870,
+      "medianCompletionTimeMs": 370773,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh3.ggpht.com/IuMTWVM7306hQRNErDjyuHRfhK3hYT-9poF1X7nJ9vHPuwW6xBR0YsxX_EU8rnxiYe5QN-lziVOYp4OjLPd8"
+    },
+    {
+      "guid": "2a61ace2750d4c999b2e9c4fc6791350.1c",
+      "title": "13/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 855932,
+      "medianCompletionTimeMs": 1467010,
+      "numUniqueCompletedPlayers": 123,
+      "image": "https://lh3.ggpht.com/lOzHheS-ZjbqkFIk2ucR_lBnrqjmxlgJcYs7uX56JL_uo-0OfHbTPboqiV8m8kdTQBJJ7IL5fa06h24Q9Up1-w"
+    },
+    {
+      "guid": "fcd6abdc48d64442993ec5ed9a6902ad.1c",
+      "title": "14/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 810345,
+      "medianCompletionTimeMs": 728969,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh5.ggpht.com/PwFNJdtzLqf1qDks0ZBk-2MZmvarziwy7PK1wQiCGqHRVjatbWgf_YOj0Def0u6bmTMt71cEhIiqv4S1oOmk"
+    },
+    {
+      "guid": "4077173c03994dbba667aa5680b0df96.1c",
+      "title": "15/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 838983,
+      "medianCompletionTimeMs": 465999,
+      "numUniqueCompletedPlayers": 123,
+      "image": "https://lh6.ggpht.com/2McHlH5x7uPRf3LDxTCgRbeZxM3XTEZ2z4L5ZwbKtof6EMQlnD8Zle-ROULBvBNgUtQAXcyPv_koYqvexew"
+    },
+    {
+      "guid": "bce4d4c0a98f427db63d92eaa439d613.1c",
+      "title": "16/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 862069,
+      "medianCompletionTimeMs": 564070,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh6.ggpht.com/6SNiW5Lwt_4BokiCWdPFCuFxKE3PNDVmrz0vYkNoHms9P2xSee9rv3A5sYAjSG7p27ju6H_6XMgg6bTxW4Ww"
+    },
+    {
+      "guid": "326bb06a02084af3983ca780eec9427d.1c",
+      "title": "17/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 892857,
+      "medianCompletionTimeMs": 502992,
+      "numUniqueCompletedPlayers": 121,
+      "image": "https://lh4.ggpht.com/0ymXCEpu_R-ES3lvQwss2JeDHG8lSF5_1C4YFRh6xa39I6idmSNvOwFh4bpMzXBoIiVIK0sa9mcPf9jOngM"
+    },
+    {
+      "guid": "e63646d658114cb99258e2694bfb9d59.1c",
+      "title": "18/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 846847,
+      "medianCompletionTimeMs": 481299,
+      "numUniqueCompletedPlayers": 120,
+      "image": "https://lh3.ggpht.com/NhRADJ_KgixCfIOw1-9RltFuUnZz5KDOv9c0m65VMXZebVDdg1rIAaGo_Y9awSvkt4NiFFK0iRFWlItF_2E"
+    },
+    {
+      "guid": "dd4493fc9db14e5abb63b5a29617fca0.1c",
+      "title": "19/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 850877,
+      "medianCompletionTimeMs": 670703,
+      "numUniqueCompletedPlayers": 120,
+      "image": "https://lh5.ggpht.com/Ebm9FTSjBX8OZEB49lQ5laUm3jS4_SGZ1-ecQiJNS_FZ7aL_ly6Xoj2sCDNsY2QYyGZ8CT49i7Y-pN00DVA"
+    },
+    {
+      "guid": "b9dbb134c53544ec990bf5ada8e1a5ee.1c",
+      "title": "20/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 840708,
+      "medianCompletionTimeMs": 524444,
+      "numUniqueCompletedPlayers": 119,
+      "image": "https://lh4.ggpht.com/GLjesEefrcjJnDUpaieupO7jh48uF8Ncs2i6bXhxyU5TJlc8qZo9h5mz7vVLFmA4h8-x0TOChoHFZEQcj7fjvw"
+    },
+    {
+      "guid": "b9d6c5aef1634131b7401bc3853d1a78.1c",
+      "title": "21/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 858407,
+      "medianCompletionTimeMs": 356471,
+      "numUniqueCompletedPlayers": 120,
+      "image": "https://lh6.ggpht.com/G1bjFzC87Bj6buM58D_-vE1-NQpMtFEgICPMZhjIjJih_1OBKSXYrVdw9Qkp6X2u_iKzonB2zlswO_21L7Yt"
+    },
+    {
+      "guid": "14d274fa552d43cbb424374a6525a034.1c",
+      "title": "22/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 842105,
+      "medianCompletionTimeMs": 414764,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh5.ggpht.com/ZuB4qDHN-paivHc7HRqopQLOmMenVK_0XrHE_mMxA1R30Mmoi7cRIZZ99W2Owa8WS1e4ErXKUxUilguwCAwS"
+    },
+    {
+      "guid": "aa283f55358d49d5811a78bda3115d7f.1c",
+      "title": "23/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 823009,
+      "medianCompletionTimeMs": 353900,
+      "numUniqueCompletedPlayers": 122,
+      "image": "https://lh3.ggpht.com/i94vSE3ipCSwJ-04WvSD6ntT0_rbOZQJcxhjMpSBVafMef2oNPzAiR-f4D_k6iWdcaFiVGW3g543FnCptpRX2A"
+    },
+    {
+      "guid": "f8a98570cee7473ab5a4f03e2dd760c4.1c",
+      "title": "24/24 Wahrzeichen Oranienburg",
+      "author": "Opasiehtdich",
+      "authorTeam": "R",
+      "ratingE6": 805085,
+      "medianCompletionTimeMs": 403952,
+      "numUniqueCompletedPlayers": 121,
+      "image": "https://lh5.ggpht.com/a2lrZ6kphUAnNze_8RWN2ENPWrDF49BT-E6juhRtb1akWNdhIvU1JEgK6I1Y1rswnNcstw8KEzzvG4FM2jpQ1w"
+    }
+  ]
+}

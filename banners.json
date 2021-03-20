@@ -1,20 +1,10 @@
 {
+  "providers-url": "/b/%banner%$%hash%.json",
   "providers": {
     "provider-europe": {
-      "length": 37, 
-      "sha256": "8c736a4aef577419392da1e5ef0fb39377d2a833f0dcd06da52ac5c561298b9f", 
-      "name": "Europe"
-    }, 
-    "provider-america": {
-      "length": 4, 
-      "sha256": "9486004d371c8dff1279d4dceab4376d0df833c15cdd981047655921a83dd778", 
-      "name": "Am\u00e9rica"
-    }, 
-    "provider-asia": {
-      "length": 1, 
-      "sha256": "425365e66876dcc373aa88d85218dec1f1def6b93ed459292eae7cdf6056d003", 
-      "name": "Asia"
+      "name": "Europe",
+      "sha256": "a58c7ccde8a2b1c4fbf7784ce3db0ec2d81c83dfc0c16b4666d45e1e22008521",
+      "length": 7
     }
-  }, 
-  "providers-url": "/b/%banner%$%hash%.json"
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "name": "Berlin",
+  "banners": {
+    "belgium/citadelpark": {
+      "name": "Citadelpark",
+      "authors": {
+        "Xysphere": "Enlightened"
+      },
+      "sha256": "294c3184d5025a8bebdbf27a83dbb292800e7e0bc74c779e955e7a623bf53bf9",
+      "length": 24
+    },
+    "belgium/groot-tielt": {
+      "name": "Groot Tielt",
+      "authors": {
+        "biazzi": "Resistance"
+      },
+      "sha256": "debf8b4adc31ed8665d7e5cbb5ca0881305813cd1c24d0bf11d5f4962adc5022",
+      "length": 30
+    },
+    "belgium/antwerpen-1572s": {
+      "name": "Antwerpen 1572s",
+      "authors": {
+        "hydrotherion": "Enlightened"
+      },
+      "sha256": "fe06bf8c7fc01376ef849629f8cf7d8c8d9407ba22b5d3ec0928f6a6be1ed571",
+      "length": 18
+    }
+  }
+}

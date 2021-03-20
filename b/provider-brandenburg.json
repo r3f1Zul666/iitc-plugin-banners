@@ -1,9 +1,4 @@
 {
   "name": "Brandenburg",
-  "banners": {
-    "colombia/kermit": {},
-    "colombia/jarvis": {},
-    "colombia/ciudad-salitre": {},
-    "colombia/cartagena-de-indias": {}
-  }
+  "banners": {}
 }

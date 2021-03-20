@@ -1,0 +1,13 @@
+{
+  "name": "Alt Treptow",
+  "banners": {
+    "germany/berlin/treptow-koepenick/alt-treptow/Nyan Cat Walk": {
+      "name": "Nyan Cat Walk",
+      "authors": {
+        "picoh3rtz": "Enlightened"
+      },
+      "sha256": "dc672b842559fc582d4b36bcfef0346117139bde73533e81cc6fbcd0ec20a1da",
+      "length": 6
+    }
+  }
+}

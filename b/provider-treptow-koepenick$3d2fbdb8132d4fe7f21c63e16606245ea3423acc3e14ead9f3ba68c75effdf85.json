@@ -1,0 +1,10 @@
+{
+  "name": "Treptow-K\u00f6penick",
+  "providers": {
+    "provider-alt-treptow": {
+      "name": "Alt Treptow",
+      "sha256": "771194cb88f3e99330d10e3319895b39dd5a8a66d536c8cdc5b6287d871b7b9f",
+      "length": 1
+    }
+  }
+}

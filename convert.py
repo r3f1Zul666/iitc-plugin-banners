@@ -11,6 +11,7 @@ backup_folder = "/backup"
 
 for file in os.listdir(__location__ + "/convert"):
     if file.endswith(".json"):
+        print(file)
         with open(os.path.join(__location__, f'convert/{file}')) as data:
             root = json.load(data)
 
@@ -52,7 +53,7 @@ for file in os.listdir(__location__ + "/convert"):
             for d in subdirs:
                 if d == region:
                     rel_path = root
-                    with open(root + "/" + region + f"/{file_name}.json", 'w') as outfile:
+                    with open(root + "/" + region + f"/{file_name}", 'w') as outfile:
                         json.dump(file_json, outfile, indent=2)
                     
                     shutil.move( __location__ + f"/convert/{file}", __location__ + f"{backup_folder}/{file}")
@@ -62,7 +63,7 @@ for file in os.listdir(__location__ + "/convert"):
                 with open(__location__ + f'{output_folder}/{file}') as data:
                     data = json.load(data)
                 path = rel_path.removeprefix(f"{__location__}{output_folder}/") 
-                data['banners'][f"{path}/{region}/{file_name}"] = {}
+                data['banners'][f"{path}/{region}/{file_name.split(".")[0]}"] = {}
                 with open(__location__ + f'{output_folder}/{file}', 'w') as outfile:
                         json.dump(data, outfile, indent=2)
                 

@@ -1,7 +1,4 @@
 {
   "name": "Prenzlauer Berg",
-  "banners": {
-    "germany/berlin/pankow/pberg/jokeeyes.json": {},
-    "germany/berlin/pankow/pberg/harleyeyes.json": {}
-  }
+  "banners": {  }
 }

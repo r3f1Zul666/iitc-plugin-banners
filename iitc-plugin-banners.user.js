@@ -1,20 +1,13 @@
 // ==UserScript==
-// @id             iitc-plugin-banners@aeurielesn
+// @id             iitc-plugin-banners@r3f1zul666
 // @name           IITC plugin: Banners
 // @category       Info
 // @version        0.1.7
-// @namespace      https://github.com/aeurielesn
-// @updateURL      https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
-// @downloadURL    https://github.com/aeurielesn/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js
+// @namespace      https://github.com/r3f1zul666
+// @updateURL      https://github.com/r3f1zul666/iitc-plugin-banners/raw/master/iitc-plugin-banners.meta.js
+// @downloadURL    https://github.com/r3f1zul666/iitc-plugin-banners/raw/master/iitc-plugin-banners.user.js
 // @description    Discover mission banners.
-// @include        https://www.ingress.com/intel*
-// @include        http://www.ingress.com/intel*
-// @match          https://www.ingress.com/intel*
-// @match          http://www.ingress.com/intel*
-// @include        https://www.ingress.com/mission/*
-// @include        http://www.ingress.com/mission/*
-// @match          https://www.ingress.com/mission/*
-// @match          http://www.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
 // @grant          none
 // ==/UserScript==
 
@@ -273,7 +266,7 @@ window.plugin.banners = {
            return;
         }
 
-        this.repository = Repository("https://aeurielesn.github.io/iitc-plugin-banners");
+        this.repository = Repository("https://r3f1zul666.github.io/iitc-plugin-banners");
 
         $('<style>').prop('type', 'text/css').html('.plugin-banner-summary img { cursor: pointer; width: 50px; }').appendTo('head');
         $('#toolbox').append('<a tabindex="0" onclick="plugin.banners.openBanners();">Discover banners</a>');

@@ -1,0 +1,10 @@
+{
+  "name": "Reinickendorf",
+  "providers": {
+    "provider-r-dorf": {
+      "name": "Reinickendorf",
+      "sha256": "0430f16ec3bcd44656e177afc167a6233233ac9d691688db0e47d9fc336d87e1",
+      "length": 1
+    }
+  }
+}

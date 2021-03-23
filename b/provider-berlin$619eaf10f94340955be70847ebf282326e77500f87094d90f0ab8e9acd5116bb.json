@@ -6,6 +6,11 @@
       "sha256": "4fa7ed29ffad0e770399af518ea44e029cc19cbdaeea89130a64d63beec76309",
       "length": 2
     },
+    "provider-reinickendorf": {
+      "name": "Reinickendorf",
+      "sha256": "8e65cafe5da0b1047372a18e658521f9a11011be7e94b1e1f200705ad9a2bf7b",
+      "length": 1
+    },
     "provider-treptow-koepenick": {
       "name": "Treptow-K\u00f6penick",
       "sha256": "3d2fbdb8132d4fe7f21c63e16606245ea3423acc3e14ead9f3ba68c75effdf85",

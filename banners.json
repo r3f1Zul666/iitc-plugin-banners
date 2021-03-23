@@ -1,10 +1,10 @@
 {
   "providers-url": "/b/%banner%$%hash%.json",
   "providers": {
-    "provider-europe": {
-      "name": "Europa",
-      "sha256": "09aeeb7f3a7d72fe73a763392b8bdbdfd70856dc0cc81128e01838a795827d7b",
-      "length": 4
+    "provider-germany": {
+      "name": "Deutschland",
+      "sha256": "815ea2edfc1195ba8498963ec0b5d9e4111a3cd51d19ba939d607ceb4e620a53",
+      "length": 5
     }
   }
 }

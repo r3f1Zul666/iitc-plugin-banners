@@ -3,8 +3,8 @@
   "providers": {
     "provider-berlin": {
       "name": "Berlin",
-      "sha256": "09cd00fcf808d0fb2623db0becbfe3321b2bfe4da5327d90c5d4f5b2742897fd",
-      "length": 3
+      "sha256": "619eaf10f94340955be70847ebf282326e77500f87094d90f0ab8e9acd5116bb",
+      "length": 4
     },
     "provider-brandenburg": {
       "name": "Brandenburg",

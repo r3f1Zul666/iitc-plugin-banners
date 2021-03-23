@@ -1,0 +1,128 @@
+{
+  "name": "middle_earth_brews",
+  "authors": {
+    "r3f1zul": "Enlightened"
+  },
+  "missions": [
+    {
+      "guid": "8fe447fa25cd482d8ce382f24a92db11.1c",
+      "title": "Middle Earth Brews 01",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 986650,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/lq8yUzmyUvFKKXBKgchzlNE0mlCCeDiZePa4h4fTtBMOJ9VbjCAHQ5HqsCFvZEKuH7jnd97leJoEIrvwjZ7h"
+    },
+    {
+      "guid": "07c0aef7ba7548a192fa66426f620750.1c",
+      "title": "Middle Earth Brews 02",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 345248,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/TmTSij5Hx-Bpn85_mJ1kJV2zii_8XCZrQdBA_ySKKUR7A-6X49rC9POwX3S4Fry1JhLldwgadZgEkuT8yTXV"
+    },
+    {
+      "guid": "fc084362f9ad4cb5a1111d7f802faf9b.1c",
+      "title": "Middle Earth Brews 03",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 497569,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/3Hxkqk73IYUzb9YkpnN5KC_QbHgeZ6V_KvKwTWDvIxP5Z3ZyGgmUrGwsD1dkWlvgFhKuT4tTFe9p03DdGaZ1"
+    },
+    {
+      "guid": "749b6920f06f49158bd7c0e45cdd7a4f.1c",
+      "title": "Middle Earth Brews 04",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 344786,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/_wusd4lkzyTnZ4KftRG_SFIp70bbi4CTj-tgXaIgUCE86bCfjgMe_m9zGyVz4TcdzNm4RqT2ODBjJHOduGY"
+    },
+    {
+      "guid": "eed195db9ef647c881066b196a653e17.1c",
+      "title": "Middle Earth Brews 05",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 577369,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/YYIza7ay_U4QW02SyvYwpLtoJ8oMCJ_IitouPcEsvBSHvWHhVffiMtv90kpBgsLMLvJH8GbN2_vsfvhzDRpiGw"
+    },
+    {
+      "guid": "ce2eed454c0c4c16bb07e15232f7c954.1c",
+      "title": "LoR - White Ale 6",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 888889,
+      "medianCompletionTimeMs": 1966313,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/IeI5TYCu5uzdIyhjvfmNxGJeSiF9WUpxPOny0Fker-L2VosiquZ7vdSIKcNw7sfRD_sJk8Nh8rJ6yN8f62dY"
+    },
+    {
+      "guid": "c3579023ccc64c68b13ac1562e90c6dc.1c",
+      "title": "LoR - Maple Mead 7",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 818182,
+      "medianCompletionTimeMs": 735227,
+      "numUniqueCompletedPlayers": 12,
+      "image": "https://lh3.googleusercontent.com/PlMbz46Ql1SP5K69cT_BGKB55b-s9Ff5e02BidJB4fUSWTytN4kWsEvBtBiIfqdBPhDYmhMHFCN69GkNmWNz"
+    },
+    {
+      "guid": "e595f60280a9451c9fdd8a3c0c2dfcfe.1c",
+      "title": "Middle Earth Brews 08",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 520538,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/2Qb_gMDZD14SgQrxBfziahfCxHK34aLxGhj8Ru6_-D8ca966PVVk57oeKg5u5_17WvydgI-yEidgEZE2iVQ"
+    },
+    {
+      "guid": "b0a21f56f8ed40bfa2f05a266a3af541.1c",
+      "title": "Middle Earth Brews 09",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 392990,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/PKW9wkeGlWserClivpbQB-t_QhnYf53Emef31lGZtpiNeWYTnqo-XjstDqD9h-jNX8WeuR3eF2t-vVgOgvmT"
+    },
+    {
+      "guid": "717d1d934a45478ebfe36bc3686bbd70.1c",
+      "title": "Middle Earth Brews 10",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 839986,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/oA02Q9mp0Z8F0z5do1brHXaILjzl2l5jQ6pV24ZvibL5osKPqkBWJLHFcveA_mfB1FZIiMbM3IAPMOpgR_0"
+    },
+    {
+      "guid": "352e8e83ba9541a19f7eb34d6a9b9d1d.1c",
+      "title": "Middle Earth Brews 11",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 900000,
+      "medianCompletionTimeMs": 465356,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/kcBmrKc-kyBj_A8b7NNe4LxMa2U4Bsty-zpR8OfSdd2SD-sVXL2vXXkMGMx8v29ff9-2ODMvYCGL_MJ9lj4"
+    },
+    {
+      "guid": "d5a2ce861d7445c39cd7c6c0f1d13228.1c",
+      "title": "Middle Earth Brews 12",
+      "author": "r3f1zul",
+      "authorTeam": "E",
+      "ratingE6": 1000000,
+      "medianCompletionTimeMs": 797020,
+      "numUniqueCompletedPlayers": 11,
+      "image": "https://lh3.googleusercontent.com/fFHvPOcZVi6BsUEkMj1KJ5pZSQhJ8io_U5uYghjd0oPwU45zIx6d3gsCflVVKmGQ4mjPcaFWVgAkIwIOCNz93g"
+    }
+  ]
+}

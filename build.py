@@ -74,7 +74,9 @@ if not os.path.exists(build_directory):
 if not os.path.exists(os.path.join(build_directory, "b")):
     os.makedirs(os.path.join(build_directory, "b"))
 
-with open("banners.json") as data:
+__location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
+
+with open(__location__ + "/banners.json") as data:
     root = json.load(data)
 
     if "providers-url" in root:
@@ -88,6 +90,6 @@ with open("banners.json") as data:
             root["providers"][provider]["sha256"] = sha256
             root["providers"][provider]["length"] = provider_length
 
-    output_file = os.path.join(build_directory, "banners.json")
+    output_file = os.path.join(__location__, build_directory, "banners.json")
     with open(output_file, "w") as f:
         json.dump(root, f, indent=2)

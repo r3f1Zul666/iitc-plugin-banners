@@ -2,6 +2,7 @@
   "name": "Berlin",
   "providers": {
     "provider-pankow": {},
+    "provider-reinickendorf": {},
     "provider-treptow-koepenick": {}
   }
 }
